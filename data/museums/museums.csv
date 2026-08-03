@@ -1,0 +1,14 @@
+geom_type,lon,lat,@id,addr:housenumber,addr:street,building,check_date,contact:facebook,contact:instagram,contact:twitter,fee,name,opening_hours,phone,tourism,website,@geometry,historic,name:de,name:en,addr:city,wikidata,wikipedia,charge,toilets,wheelchair,museum
+Point,-8.6733893,37.1040931,way/92693159,34,Rua Doutor Faria e Silva,public,2024-09-06,cienciavivalagos,cienciavivalagos,CCVLagos,yes,Centro das Ciências de Lagos,Tu-Su 10:00-18:00; Mo off,+351 282 770 000,museum,https://lagos.cienciaviva.pt/,center,,,,,,,,,,
+Point,-8.671213,37.1006198,way/96585011,,,house,2026-04-16,,,,yes,Antigo Mercado dos Escravos,"Mo,PH off; Tu-Su 10:00-13:00,14:00-18:00",,museum,https://www.goodtimeslagos.com/slave-market/,center,house,Sklavenmarkt,Anciente Slave Market,,,,,,,
+Point,3.403518,6.4444185,way/671991295,,,,,,,,,National Museum,,,museum,,center,,,,Lagos,Q1311732,en:Nigerian National Museum,,,,
+Point,3.8550216,6.4881977,way/746433964,,,yes,,,,,,Yemisi Shyllon Museum of Art,,,museum,,center,,,,,,,,,,
+Point,3.330284,6.62895,node/889227741,,,,,,,,,Lasu Museum,,,museum,,,,,,,,,,,,
+Point,2.8812027,6.4172577,node/889344012,,,,,,,,,Former Slave Market,,,museum,,,,,,,,,,,,
+Point,-8.6713129,37.0994932,node/4230513320,,,,2026-04-07,,,,yes,Museu de Lagos Doutor José Formosinho,"Tu-Su 10:00-13:00,14:00-18:00",,museum,https://museu.cm-lagos.pt/polos/dr-jose-formosinho/,,,,,,,,3 EUR,yes,yes,
+Point,3.3338054,6.5891273,node/4882134391,,,,,,,,,Aircraft,,,museum,,,,,,,,,,,,
+Point,3.4235679,6.4326191,node/8567630851,,,,,,,,,Didi Museum,Mo-Sa 09:00-18:00,,museum,http://didimuseum.org/,,,,,,,,,,,art
+Point,-8.6748885,37.1044383,node/13713329737,,,,2026-04-07,,,,no,Casa Museu José Manuel da Graça Rosado Amôres,"Mo-Fr 09:30-12:30,14:00-17:00; Sa-Su off",,museum,,,,,,,,,,,,
+Point,2.8890746,6.4117482,node/13950768471,,,,,,,,,Badagry Heritage Museum,,,museum,,,,,,,Q111008534,en:Badagry Heritage Museum,,,,history
+Point,2.8844565,6.4123233,node/13950768473,,,,,,,,,Mobee Royal Family Original Slave Tade Relics Museum,,,museum,,,,,,,Q110819447,,,,,history
+Point,2.8841028,6.4119284,node/13950768474,,,,,,,,,Seriki William Abass Slave Museum,,,museum,,,,,,,Q132730791,en:Seriki Williams Abass Slave Museum,,,,history

@@ -1,0 +1,3714 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:13:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92717404",
+        "building": "yes",
+        "check_date": "2026-04-06",
+        "name": "Marina Club",
+        "stars": "4",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6727105,
+          37.1110671
+        ]
+      },
+      "id": "way/92717404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92717630",
+        "building": "yes",
+        "name": "Marina Club",
+        "stars": "4",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6725998,
+          37.1116734
+        ]
+      },
+      "id": "way/92717630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92717632",
+        "addr:housename": "Edifício Estibordo",
+        "building": "yes",
+        "check_date": "2026-05-02",
+        "name": "Marina Club",
+        "stars": "4",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6731895,
+          37.1115185
+        ]
+      },
+      "id": "way/92717632"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94840403",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.676625,
+          37.0893679
+        ]
+      },
+      "id": "way/94840403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95029170",
+        "building": "yes",
+        "name": "Aqualuz Suite Hotel Apartamentos",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.673635,
+          37.0943697
+        ]
+      },
+      "id": "way/95029170"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95029174",
+        "building": "yes",
+        "name": "Aqualuz Suite Hotel Apartamentos",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.673063,
+          37.0943896
+        ]
+      },
+      "id": "way/95029174"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95029176",
+        "building": "yes",
+        "name": "Aqualuz Suite Hotel Apartamentos",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6734681,
+          37.0948563
+        ]
+      },
+      "id": "way/95029176"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/95671943",
+        "addr:city": "Bensafrim",
+        "addr:postcode": "8600-077",
+        "addr:street": "Cortifo",
+        "contact:phone": "+351282688175",
+        "contact:website": "http://www.montedabravura.com/",
+        "landuse": "commercial",
+        "name": "Monte da Bravura Green Resort",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7000494,
+          37.184664
+        ]
+      },
+      "id": "way/95671943"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96587139",
+        "building": "yes",
+        "name": "Lagos Atlantic Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6858362,
+          37.0892609
+        ]
+      },
+      "id": "way/96587139"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158077041",
+        "addr:city": "São Gonçalo de Lagos",
+        "addr:postcode": "8600-315",
+        "addr:street": "Estrada da Meia Praia",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "brand": "Iberostar Hotels & Resorts",
+        "brand:wikidata": "Q2035939",
+        "building": "hotel",
+        "contact:facebook": "https://www.facebook.com/IberostarLagosAlgarve/",
+        "contact:instagram": "https://www.instagram.com/iberostar/",
+        "description": "The Iberostar Selection Lagos Algarve is 5-star family hotel located on Meia Praia beach with a wide range of services including spa area, All Inclusive board, fitness room, outdoor and indoor swimming pools, animation, free Wi-Fi and comfort rooms.",
+        "email": "lagos.algarve@iberostar.com",
+        "image": "https://apiimg.iberostar.com/uploads/image/45650/crops/1366:797/1366/image.jpeg",
+        "internet_access": "yes",
+        "internet_access:fee": "no",
+        "name": "Iberostar Selection Lagos Algarve",
+        "opening_hours": "24/7",
+        "operator": "IBEROSTAR Hotels & Resorts",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "phone": "+351 282 244 000",
+        "reservation": "yes",
+        "rooms": "220",
+        "smoking": "outside",
+        "source": "local knowledge;www.iberostar.com",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.iberostar.com/en/hotels/algarve/iberostar-lagos-algarve/",
+        "wheelchair": "yes",
+        "wikidata": "Q111408748",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6520719,
+          37.1186975
+        ]
+      },
+      "id": "way/158077041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/238533675",
+        "addr:city": "Praia da Luz, Lagos",
+        "addr:housenumber": "66",
+        "addr:postcode": "8600-119",
+        "addr:street": "Ponta da Gaivota",
+        "building": "yes",
+        "name": "Hotel Villa Luz",
+        "phone": "+351 282 771 110",
+        "tourism": "hotel",
+        "website": "https://www.vila-luz.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7390508,
+          37.0835887
+        ]
+      },
+      "id": "way/238533675"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304931116",
+        "building": "yes",
+        "height": "15",
+        "name": "Marco Polo Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5300315,
+          6.4429206
+        ]
+      },
+      "id": "way/304931116"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/339159720",
+        "check_date:internet_access": "2026-03-31",
+        "email": "geral@luzbayhotel.pt",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "name": "Luz Bay Club",
+        "phone": "+351 282789640",
+        "rooms": "73",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "http://www.luzbayhotel.pt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7250328,
+          37.0896065
+        ]
+      },
+      "id": "node/339159720"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374921961",
+        "addr:city": "Lagos",
+        "addr:housenumber": "47",
+        "addr:postcode": "8600-685",
+        "addr:street": "Rua da Amêndoeira",
+        "building": "yes",
+        "name": "Bowen Luxury Suites",
+        "phone": "+351 282 185 723",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6743109,
+          37.1012856
+        ]
+      },
+      "id": "way/374921961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/374956413",
+        "addr:city": "Lagos",
+        "addr:housenumber": "9",
+        "addr:postcode": "8600-518",
+        "addr:street": "Largo Santa Maria da Graça",
+        "breakfast": "no",
+        "building": "yes",
+        "check_date": "2026-04-16",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Baluarte da Vila Apartments",
+        "phone": "+351 911 873 540",
+        "rooms": "20",
+        "swimming_pool": "yes",
+        "tourism": "hotel",
+        "website": "http://www.baluartedavila.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6709138,
+          37.0976937
+        ]
+      },
+      "id": "way/374956413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/379367676",
+        "name": "Epe Resort and Spa",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9471611,
+          6.5875672
+        ]
+      },
+      "id": "way/379367676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418719768",
+        "check_date": "2023-10-19",
+        "name": "Marina de São Roque",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6733822,
+          37.1125291
+        ]
+      },
+      "id": "node/418719768"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418723899",
+        "addr:city": "Lagos",
+        "addr:housenumber": "83",
+        "addr:street": "Rua Cândido dos Reis",
+        "check_date": "2026-04-14",
+        "name": "Riomar",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6729166,
+          37.1008127
+        ]
+      },
+      "id": "node/418723899"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418723900",
+        "name": "Casa de São Gonçalo",
+        "stars": "5",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6730488,
+          37.1010738
+        ]
+      },
+      "id": "node/418723900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/463218353",
+        "addr:city": "Lagos",
+        "addr:postcode": "8600-209",
+        "addr:street": "Estrada da Praia da Luz",
+        "contact:website": "http://www.vilavalverde.com/",
+        "internet_access": "wlan",
+        "landuse": "commercial",
+        "name": "Vila Valverde - Design & Country-Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7201287,
+          37.0997964
+        ]
+      },
+      "id": "way/463218353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/475254983",
+        "name": "Clube Porto Mós",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.684754,
+          37.0864732
+        ]
+      },
+      "id": "way/475254983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/502455175",
+        "building": "yes",
+        "building:part": "yes",
+        "height": "80",
+        "name": "Eko Signature",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.430669,
+          6.426987
+        ]
+      },
+      "id": "way/502455175"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/525377040",
+        "addr:city": "Lagos",
+        "addr:housenumber": "20-24",
+        "addr:street": "Ozumba Mbadiwe Rd",
+        "building": "yes",
+        "height": "30",
+        "name": "Maroko Bayshore Suites",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4375251,
+          6.4392353
+        ]
+      },
+      "id": "way/525377040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/534108655",
+        "building": "yes",
+        "height": "40",
+        "name": "Eko Suites",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4303155,
+          6.429213
+        ]
+      },
+      "id": "way/534108655"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/556872678",
+        "addr:city": "Lagos",
+        "addr:housenumber": "13A",
+        "addr:street": "Chief Yesufu Abiodun Way",
+        "building": "yes",
+        "name": "The Art Hotel",
+        "phone": "+234 916 610 5381",
+        "tourism": "hotel",
+        "website": "https://arthotelng.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4436777,
+          6.431022
+        ]
+      },
+      "id": "way/556872678"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560564784",
+        "addr:city": "Lagos",
+        "addr:housenumber": "42/44",
+        "addr:street": "International Airport Road",
+        "building": "yes",
+        "height": "32",
+        "name": "Golden Tulip Essential Airport Hotel Lagos",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3300808,
+          6.5523152
+        ]
+      },
+      "id": "way/560564784"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560564785",
+        "building": "yes",
+        "name": "Max Royal Hotel & Suites",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3295879,
+          6.5524776
+        ]
+      },
+      "id": "way/560564785"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560577489",
+        "addr:city": "Lagos",
+        "addr:housenumber": "7/8",
+        "addr:street": "Agbeke Rotinwa Street",
+        "building": "yes",
+        "height": "15",
+        "name": "Elion House Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4180743,
+          6.4565832
+        ]
+      },
+      "id": "way/560577489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560577506",
+        "addr:city": "Lagos",
+        "addr:housenumber": "200C",
+        "addr:street": "Etim Iyang Crescent",
+        "building": "yes",
+        "height": "15",
+        "name": "Morning Side Suites and Spa Victoria Island",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.434137,
+          6.4328774
+        ]
+      },
+      "id": "way/560577506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150382",
+        "addr:city": "Lagos",
+        "addr:housenumber": "4",
+        "addr:street": "Lawrence Road",
+        "alt_name": "Wheatbaker Hotel",
+        "landuse": "commercial",
+        "name": "The Wheatbaker Hotel",
+        "phone": "+234 1277 3560",
+        "tourism": "hotel",
+        "website": "https://thewheatbakerlagos.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.445678,
+          6.4536276
+        ]
+      },
+      "id": "way/567150382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150388",
+        "addr:city": "Lagos",
+        "addr:housenumber": "3",
+        "addr:street": "Femi Okunnu Road",
+        "landuse": "commercial",
+        "name": "La Cour Boutique Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4392898,
+          6.4503492
+        ]
+      },
+      "id": "way/567150388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150407",
+        "addr:city": "Lagos",
+        "addr:housenumber": "30",
+        "addr:street": "Lugard Avenue",
+        "landuse": "commercial",
+        "name": "The George Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4363936,
+          6.4547165
+        ]
+      },
+      "id": "way/567150407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150424",
+        "addr:city": "Lagos",
+        "addr:housenumber": "47",
+        "addr:street": "Alfred Rewane Road",
+        "landuse": "commercial",
+        "name": "Southern Sun Ikoyi",
+        "operator": "Sun International",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4300825,
+          6.4540372
+        ]
+      },
+      "id": "way/567150424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150429",
+        "addr:street": "Alfred Rewane Road",
+        "landuse": "commercial",
+        "name:en": "Golden Gate Hotel",
+        "name:zh": "金門大酒樓",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4305218,
+          6.454602
+        ]
+      },
+      "id": "way/567150429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150448",
+        "addr:city": "Lagos",
+        "addr:housenumber": "1",
+        "addr:street": "Bankole Oki Street",
+        "landuse": "commercial",
+        "name": "The Moorhouse Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4243341,
+          6.4543301
+        ]
+      },
+      "id": "way/567150448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150458",
+        "addr:city": "Lagos",
+        "addr:housenumber": "19",
+        "addr:street": "Glover Road",
+        "landuse": "commercial",
+        "name": "Casa Lydia",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4291224,
+          6.455127
+        ]
+      },
+      "id": "way/567150458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150461",
+        "addr:city": "Lagos",
+        "addr:street": "Foreshore Road",
+        "alt_name": "Lekki Oriental Hotel",
+        "landuse": "commercial",
+        "name": "Lagos Oriental Hotel",
+        "phone": "+234 702 696 00 65",
+        "tourism": "hotel",
+        "website": "http://www.lagosoriental.com/",
+        "wikidata": "Q132673407",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4446252,
+          6.436269
+        ]
+      },
+      "id": "way/567150461"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150463",
+        "addr:city": "Lagos",
+        "addr:housenumber": "52",
+        "addr:street": "Kofo Abayomi Road",
+        "landuse": "commercial",
+        "name": "The Lagos Continental Hotel",
+        "tourism": "hotel",
+        "wikidata": "Q111408940",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4228473,
+          6.4348921
+        ]
+      },
+      "id": "way/567150463"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150464",
+        "addr:city": "Lagos",
+        "addr:housenumber": "9/10",
+        "addr:street": "Prince Alabe Abiodun Oniru Road",
+        "landuse": "commercial",
+        "name": "Four Points by Sheraton Lagos",
+        "phone": "+234 1 448 9444",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4431444,
+          6.4334735
+        ]
+      },
+      "id": "way/567150464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150465",
+        "addr:city": "Lagos",
+        "addr:housenumber": "292B",
+        "addr:street": "Ajose Adeogun Street",
+        "alt_name": "VCP Hotel",
+        "landuse": "commercial",
+        "name": "Victoria Crown Plaza Hotel",
+        "phone": "+234 703 188 1523",
+        "tourism": "hotel",
+        "website": "https://vcphotels.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4388345,
+          6.4310225
+        ]
+      },
+      "id": "way/567150465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150466",
+        "addr:city": "Lagos",
+        "addr:housenumber": "17",
+        "addr:street": "Oju Olobun Close",
+        "landuse": "commercial",
+        "name": "The Blowfish Hotel",
+        "tourism": "hotel",
+        "website": "https://theblowfishgroup.com/hotel/",
+        "wikidata": "Q111871548",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4154307,
+          6.4264138
+        ]
+      },
+      "id": "way/567150466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150467",
+        "addr:street": "Kuramo Waters Close",
+        "brand": "Protea Hotel",
+        "brand:wikidata": "Q17092570",
+        "landuse": "commercial",
+        "name": "Protea Hotel Lagos Kuramo Waters",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4386772,
+          6.4247673
+        ]
+      },
+      "id": "way/567150467"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150468",
+        "addr:city": "Lagos",
+        "addr:housenumber": "2",
+        "addr:street": "T.F. Kuboye Road",
+        "landuse": "commercial",
+        "name": "Arirang Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4586808,
+          6.428603
+        ]
+      },
+      "id": "way/567150468"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150469",
+        "addr:city": "Lagos",
+        "addr:housenumber": "1A",
+        "addr:street": "Ozumba Mbadiwe Road",
+        "brand": "Radisson Blu",
+        "brand:wikidata": "Q7281341",
+        "brand:wikipedia": "en:Radisson Blu",
+        "landuse": "commercial",
+        "name": "Radisson Blu Anchorage Hotel Lagos",
+        "operator": "Carlson Hotels",
+        "tourism": "hotel",
+        "wikidata": "Q108908687",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4169192,
+          6.4368072
+        ]
+      },
+      "id": "way/567150469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150474",
+        "addr:city": "Lagos",
+        "addr:housenumber": "22",
+        "addr:street": "Awolowo Road",
+        "landuse": "commercial",
+        "name": "Westwood Hotel Ikoyi",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4087859,
+          6.4434338
+        ]
+      },
+      "id": "way/567150474"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567150477",
+        "addr:city": "Lagos",
+        "addr:housenumber": "6-8",
+        "addr:street": "Ahmadu Bello Way",
+        "alt_name": "Federal Palace Hotel",
+        "email": "reservations@suninternational.com",
+        "image": "https://commons.wikimedia.org/wiki/File:Federal_palace_hotel,Victoria_island,Lagos.jpg",
+        "landuse": "commercial",
+        "name": "Federal Palace & Casino",
+        "phone": "+23412779000",
+        "start_date": "1960",
+        "tourism": "hotel",
+        "website": "http://www.suninternational.com/federal-palace",
+        "wikidata": "Q5440324",
+        "wikipedia": "en:Federal Palace Hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4072574,
+          6.4307931
+        ]
+      },
+      "id": "way/567150477"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567964434",
+        "addr:street": "Adetokunbo Ademola Street",
+        "landuse": "commercial",
+        "name": "Eko Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4301126,
+          6.4270023
+        ]
+      },
+      "id": "way/567964434"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/567964435",
+        "landuse": "commercial",
+        "name": "Atlantic Hotel & Suites",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4168622,
+          6.4330558
+        ]
+      },
+      "id": "way/567964435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568364469",
+        "addr:city": "Lagos",
+        "addr:housenumber": "16",
+        "addr:street": "Olubunmi Owa Street",
+        "alt_name": "Dover Hotel Lekki",
+        "landuse": "commercial",
+        "name": "Dover Hotel",
+        "phone": "+234 8036289680",
+        "tourism": "hotel",
+        "website": "https://thedoverhotels.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4714018,
+          6.4468877
+        ]
+      },
+      "id": "way/568364469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568364472",
+        "addr:city": "Lagos",
+        "addr:housenumber": "2",
+        "addr:street": "Olubunmi Owa Street",
+        "alt_name": "Lilygate Hotel Lekki",
+        "contact:phone": "+234 190 49000",
+        "email": "info@lilygatelagos.com",
+        "landuse": "commercial",
+        "name": "Lilygate Hotel",
+        "tourism": "hotel",
+        "website": "https://www.lilygatelagos.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4701759,
+          6.4459028
+        ]
+      },
+      "id": "way/568364472"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367622",
+        "addr:housenumber": "38/40",
+        "addr:street": "Isaac John Street",
+        "brand": "Radisson Blu",
+        "brand:wikidata": "Q7281341",
+        "landuse": "commercial",
+        "name": "Radisson Blu Hotel Lagos Ikeja",
+        "tourism": "hotel",
+        "website": "https://www.radissonblu.com/en/hotel-lagos-ikeja",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3586881,
+          6.5818978
+        ]
+      },
+      "id": "way/568367622"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367623",
+        "addr:city": "Ikeja",
+        "addr:housenumber": "42/44",
+        "addr:street": "Isaac John Street",
+        "brand": "Radisson",
+        "brand:wikidata": "Q1751979",
+        "landuse": "commercial",
+        "name": "Radisson Hotel Lagos Ikeja",
+        "tourism": "hotel",
+        "website": "https://www.radisson.com/ikeja-lagos-hotel-ng/loszb",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3583232,
+          6.5826913
+        ]
+      },
+      "id": "way/568367623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367625",
+        "addr:city": "Ikeja",
+        "addr:housenumber": "46",
+        "addr:street": "Isaac John Street",
+        "landuse": "commercial",
+        "name": "Primal Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3578121,
+          6.5836272
+        ]
+      },
+      "id": "way/568367625"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367630",
+        "addr:city": "Ikeja",
+        "addr:housenumber": "30",
+        "addr:street": "Mobolaji Bank-Anthony Way",
+        "brand": "Sheraton",
+        "brand:wikidata": "Q634831",
+        "landuse": "commercial",
+        "name": "Sheraton Lagos Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.360298,
+          6.5835338
+        ]
+      },
+      "id": "way/568367630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367633",
+        "addr:city": "Ikeja",
+        "addr:housenumber": "172",
+        "addr:street": "Obafemi Awolowo Way",
+        "landuse": "commercial",
+        "name": "De Renaissance Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3560327,
+          6.6140127
+        ]
+      },
+      "id": "way/568367633"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367639",
+        "addr:city": "Ikeja",
+        "addr:housenumber": "2",
+        "addr:street": "Assibifi Road",
+        "landuse": "commercial",
+        "name": "Protea Hotel Ikeja Select",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3570053,
+          6.6166622
+        ]
+      },
+      "id": "way/568367639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367647",
+        "addr:city": "Ikeja",
+        "addr:housenumber": "10/12",
+        "addr:street": "Kolawole Shonibare Street",
+        "landuse": "commercial",
+        "name": "Swiss International D' Palms Airport Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3268589,
+          6.5424715
+        ]
+      },
+      "id": "way/568367647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367648",
+        "landuse": "commercial",
+        "name": "Ibis Hotel Lagos Airport",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3297213,
+          6.5509674
+        ]
+      },
+      "id": "way/568367648"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367652",
+        "addr:city": "Lagos",
+        "addr:housenumber": "70",
+        "addr:street": "International Airport Road",
+        "landuse": "commercial",
+        "name": "Welcome Centre Hotels",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3273775,
+          6.5540533
+        ]
+      },
+      "id": "way/568367652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/568367653",
+        "addr:city": "Lagos",
+        "addr:housenumber": "5/7",
+        "addr:street": "Adeola Ajayi Crescent",
+        "landuse": "commercial",
+        "name": "Royal View Hotel and Suites",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3278014,
+          6.5544894
+        ]
+      },
+      "id": "way/568367653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/570559522",
+        "addr:city": "Lagos",
+        "addr:housenumber": "37",
+        "addr:street": "Glover Court",
+        "landuse": "commercial",
+        "name": "The Executive Spot & Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4360133,
+          6.4518974
+        ]
+      },
+      "id": "way/570559522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591805690",
+        "addr:street": "Danmole Street",
+        "landuse": "commercial",
+        "name": "Hotel Victoria Palace",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4135596,
+          6.428767
+        ]
+      },
+      "id": "way/591805690"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592191596",
+        "addr:city": "Lagos",
+        "addr:housenumber": "2/3",
+        "addr:street": "Olokun Street",
+        "landuse": "commercial",
+        "name": "Tivoli Garden Ikoyi Waterfront",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4149762,
+          6.4407297
+        ]
+      },
+      "id": "way/592191596"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592201412",
+        "landuse": "commercial",
+        "name": "Sphinx Suites",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4374461,
+          6.4306435
+        ]
+      },
+      "id": "way/592201412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593494025",
+        "addr:city": "Lagos",
+        "addr:housenumber": "18",
+        "addr:street": "Adeleke Adedoyin Street",
+        "landuse": "commercial",
+        "name": "Béni Gold",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4189042,
+          6.434235
+        ]
+      },
+      "id": "way/593494025"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/597498804",
+        "addr:city": "Lagos",
+        "addr:housenumber": "40",
+        "addr:street": "Bourdillon Road",
+        "building": "yes",
+        "name": "The Belmonte Privé",
+        "phone": "+2349070002006",
+        "tourism": "hotel",
+        "website": "https://www.belmontenigeria.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4449572,
+          6.4468866
+        ]
+      },
+      "id": "way/597498804"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/599458877",
+        "addr:city": "Lagos",
+        "addr:housenumber": "11B",
+        "addr:street": "Taslim Eliat Close",
+        "landuse": "commercial",
+        "name": "Morning Sides Suites",
+        "tourism": "hotel",
+        "wikidata": "Q112011650",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4106564,
+          6.427435
+        ]
+      },
+      "id": "way/599458877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/604051558",
+        "addr:street": "Tiyamu Savage Street",
+        "landuse": "commercial",
+        "name": "The Avenue Suites",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4265257,
+          6.4231843
+        ]
+      },
+      "id": "way/604051558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/604715756",
+        "addr:city": "Lagos",
+        "addr:housenumber": "3",
+        "addr:street": "Dreamworld-Africana Way",
+        "landuse": "commercial",
+        "name": "Orchid Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.54343,
+          6.4434287
+        ]
+      },
+      "id": "way/604715756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/604715761",
+        "addr:city": "Lagos",
+        "addr:housenumber": "3",
+        "addr:street": "Dreamworld-Africana Way",
+        "landuse": "commercial",
+        "name": "Eastgate Hotel Lagos",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5420773,
+          6.4443978
+        ]
+      },
+      "id": "way/604715761"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/604715767",
+        "landuse": "commercial",
+        "name": "Diamond View Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.540443,
+          6.4438737
+        ]
+      },
+      "id": "way/604715767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/610011072",
+        "addr:city": "Ikeja",
+        "addr:housenumber": "111",
+        "addr:street": "Obafemi Awolowo Way",
+        "landuse": "commercial",
+        "name": "Lagos Airport Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.346702,
+          6.606916
+        ]
+      },
+      "id": "way/610011072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/610029919",
+        "addr:city": "Lagos",
+        "addr:housenumber": "2",
+        "addr:street": "T.Y. Danjuma Street",
+        "landuse": "commercial",
+        "name": "Solitude Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4418682,
+          6.4251924
+        ]
+      },
+      "id": "way/610029919"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620981440",
+        "access": "customers",
+        "addr:city": "Lagos",
+        "addr:housenumber": "80",
+        "addr:street": "Adetokunbo Ademola Street",
+        "leisure": "swimming_pool",
+        "operator": "fahrenheit hospitality",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4286044,
+          6.4258425
+        ]
+      },
+      "id": "way/620981440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/620982914",
+        "access": "customers",
+        "amenity": "parking",
+        "park_ride": "no",
+        "parking": "surface",
+        "supervised": "yes",
+        "surface": "paved",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4286529,
+          6.4258906
+        ]
+      },
+      "id": "way/620982914"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/622382843",
+        "addr:city": "Ikeja",
+        "addr:country": "NG",
+        "addr:housenumber": "9",
+        "addr:postcode": "100282",
+        "addr:street": "Alade Avenue",
+        "building": "yes",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Haute Aparthotel",
+        "phone": "+234 703 373 5868",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3478755,
+          6.6043639
+        ]
+      },
+      "id": "way/622382843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625093257",
+        "brand": "Best Western Plus",
+        "brand:wikidata": "Q830334",
+        "building": "hotel",
+        "building:levels": "6",
+        "name": "Best Western Plus Lagos Ikeja Hotel",
+        "operator": "Best Western",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3547842,
+          6.5973861
+        ]
+      },
+      "id": "way/625093257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625093266",
+        "addr:city": "Ikeja",
+        "addr:country": "NG",
+        "addr:housenumber": "4",
+        "addr:postcode": "100281",
+        "addr:state": "Lagos",
+        "addr:street": "Allen Avenue",
+        "building": "hotel",
+        "building:levels": "2",
+        "name": "Zaaz",
+        "tourism": "hotel",
+        "website": "http://zaazhotels.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3551621,
+          6.596602
+        ]
+      },
+      "id": "way/625093266"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625645028",
+        "addr:city": "Lagos",
+        "addr:street": "Elegba Festival Drive",
+        "alt_name": "Golden Tulip Oniru Suites Hotel",
+        "contact:phone": "+234 8 175545555",
+        "landuse": "commercial",
+        "name": "Golden Tulip Suites",
+        "tourism": "hotel",
+        "website": "https://www.goldentulip.com/en-us/?sr=OTHER",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4482338,
+          6.4319839
+        ]
+      },
+      "id": "way/625645028"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625645030",
+        "addr:city": "Lagos",
+        "addr:housenumber": "80",
+        "addr:street": "Adetokunbo Ademola Street",
+        "alt_name": "Maison Fahrenheit Hotel Victoria Island",
+        "description": "With an unparalleled and stunning design, this “Hip” Luxury Boutique Hotel in the heart of Victoria Island, Lagos offers an encounter like no other.",
+        "email": "info@maisonfahrenheit.com",
+        "landuse": "commercial",
+        "name": "Maison Fahrenheit",
+        "phone": "+234 1 905 4800",
+        "tourism": "hotel",
+        "website": "https://www.maisonfahrenheit.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4285686,
+          6.4259631
+        ]
+      },
+      "id": "way/625645030"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/629564865",
+        "landuse": "commercial",
+        "name": "CVilla",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5791571,
+          6.4540219
+        ]
+      },
+      "id": "way/629564865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/629564941",
+        "addr:city": "Lagos",
+        "addr:street": "Quits Aviation Free Trade Zone",
+        "brand": "Curio Collection by Hilton",
+        "brand:wikidata": "Q19903229",
+        "email": "legendhotel.reservations@hilton.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "landuse": "commercial",
+        "name": "Legend Hotel Lagos Airport, Curio Collection by Hilton",
+        "operator": "Hilton",
+        "payment:american_express": "yes",
+        "payment:cash": "yes",
+        "payment:cheque": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "phone": "+234 201 460 8200",
+        "rooms": "54",
+        "smoking": "no",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.hilton.com/en/hotels/loslhqq-legend-hotel-lagos-airport/",
+        "wheelchair": "yes",
+        "wikidata": "Q111871544",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3247517,
+          6.5730785
+        ]
+      },
+      "id": "way/629564941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653040824",
+        "addr:city": "Ikoyi Lagos",
+        "addr:housenumber": "13",
+        "addr:street": "Alexander Avenue",
+        "building": "yes",
+        "email": "reservations@clearessencecaliforniaspa.com",
+        "internet_access": "wlan",
+        "name": "Clear essence california spa & wellness resort",
+        "phone": "+2348085867565",
+        "tourism": "hotel",
+        "website": "https://www.clearessencecaliforniaspa.com",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4484942,
+          6.4504211
+        ]
+      },
+      "id": "way/653040824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653186159",
+        "addr:city": "Lagos",
+        "addr:street": "Otunba Payne Street",
+        "alt_name": "UNILAG Guest Houses and Conference Center",
+        "building": "yes",
+        "name": "Guest House",
+        "phone": "+234 9099930754",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3989302,
+          6.5218256
+        ]
+      },
+      "id": "way/653186159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/740626967",
+        "building": "yes",
+        "name": "LOBIM-D hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3998473,
+          6.4507061
+        ]
+      },
+      "id": "way/740626967"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/752069534",
+        "addr:city": "Lagos",
+        "addr:housenumber": "lote n 1",
+        "addr:postcode": "8600-281",
+        "addr:street": "Estrada da Atalaia",
+        "contact:email": "atalaiasol.lagos@gmail.com",
+        "contact:fax": "+351282788780",
+        "contact:mobile": "+351911501411",
+        "contact:phone": "+351282782260",
+        "contact:website": "http://www.atalaiasol.com/",
+        "internet_access": "wlan",
+        "name": "Atalaia Sol",
+        "opening_hours": "09:30-18:00",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6965479,
+          37.0956416
+        ]
+      },
+      "id": "node/752069534"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/769313739",
+        "addr:street": "Rua António Crisógono dos Santos",
+        "alt_name": "Tivoli Lagos Algarve Resort",
+        "check_date": "2026-04-13",
+        "name": "nh Lagos Algarve",
+        "operator": "Tivoli",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6763185,
+          37.1057626
+        ]
+      },
+      "id": "node/769313739"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/776523033",
+        "name": "Abvic Executive Hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5910092,
+          6.6071729
+        ]
+      },
+      "id": "way/776523033"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/793732387",
+        "addr:city": "Lagos",
+        "addr:housenumber": "2",
+        "addr:street": "Kayode Animashaun Street",
+        "alt_name": "Parktonian Hotel Lekki",
+        "landuse": "commercial",
+        "name": "Parktonian Hotel",
+        "tourism": "hotel",
+        "website": "https://parktonianhotels.com/lekki/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4693732,
+          6.4473166
+        ]
+      },
+      "id": "way/793732387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/796421501",
+        "addr:city": "Lagos",
+        "addr:street": "Lekki-Epe Expressway",
+        "landuse": "commercial",
+        "name": "Parktonian Hotel Ikate",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4926037,
+          6.4351197
+        ]
+      },
+      "id": "way/796421501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/796421517",
+        "addr:city": "Lagos",
+        "addr:street": "Lekki-Epe Expressway",
+        "landuse": "commercial",
+        "name": "Sabitex Hotel Lekki",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4928498,
+          6.4351567
+        ]
+      },
+      "id": "way/796421517"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/851554094",
+        "addr:city": "Lagos",
+        "addr:housenumber": "13",
+        "addr:street": "Rua Doutor Faria e Silva",
+        "air_conditioning": "yes",
+        "check_date": "2026-05-03",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Lagosmar",
+        "phone": "+351 282 763 523",
+        "stars": "2",
+        "tourism": "hotel",
+        "website": "https://lagosmar.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6732679,
+          37.1034697
+        ]
+      },
+      "id": "node/851554094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/909216639",
+        "name": "Quinta das Barradas",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6649049,
+          37.1578424
+        ]
+      },
+      "id": "node/909216639"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/922935426",
+        "addr:city": "Lagos",
+        "addr:housenumber": "18/19",
+        "addr:postcode": "101233",
+        "addr:street": "Prince Tayo Adesanya Street",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "building": "yes",
+        "email": "info@parkviewastoriahotels.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "customers",
+        "name": "Parkview Astoria",
+        "phone": "+2348164969009",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://parkviewastoriahotels.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4421617,
+          6.4639035
+        ]
+      },
+      "id": "way/922935426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/928316788",
+        "building": "yes",
+        "layer": "1",
+        "name": "Obalenaro hotel",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3847106,
+          6.5413325
+        ]
+      },
+      "id": "way/928316788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/987876822",
+        "building": "hotel",
+        "name": "Cascade Wellness Resort",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6772735,
+          37.0856902
+        ]
+      },
+      "id": "way/987876822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1042362236",
+        "addr:city": "Lagos",
+        "addr:housenumber": "2/7",
+        "addr:postcode": "101233",
+        "addr:street": "Okunola Martins Close",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "building": "yes",
+        "email": "booking@villaangeliahotels.com",
+        "internet_access": "wlan",
+        "name": "Villa Angelia",
+        "phone": "+233302790448",
+        "stars": "4",
+        "tourism": "hotel",
+        "website": "https://villaangeliahotels.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4245808,
+          6.445675
+        ]
+      },
+      "id": "way/1042362236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1124312444",
+        "building": "yes",
+        "name": "Hotel Madiba",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4906726,
+          6.4414994
+        ]
+      },
+      "id": "way/1124312444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1313780616",
+        "brand": "Radisson",
+        "building": "yes",
+        "name": "Park Inn by Radisson Serviced Apartments Lagos Victoria Island",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4293046,
+          6.4304604
+        ]
+      },
+      "id": "way/1313780616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1370111709",
+        "name": "Villa Mar Azul",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6864924,
+          37.088268
+        ]
+      },
+      "id": "node/1370111709"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1442292737",
+        "addr:city": "Lagos",
+        "addr:housenumber": "17",
+        "addr:street": "Ladoke Akintola Street",
+        "air_conditioning": "yes",
+        "bar": "yes",
+        "brand": "Hyatt",
+        "building": "yes",
+        "description": "5-star hotel in Lagos.",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Hyatt Regency Lagos Ikeja",
+        "opening_hours": "24/7",
+        "operator": "Hyatt hotels Corporation",
+        "payment:american_express": "yes",
+        "payment:credit_cards": "yes",
+        "payment:debit_cards": "yes",
+        "payment:diners_club": "yes",
+        "payment:discover_card": "yes",
+        "payment:maestro": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "payment:visa_electron": "yes",
+        "phone": "+234 201 700 1234",
+        "reservation": "yes",
+        "rooms": "142",
+        "stars": "5",
+        "tourism": "hotel",
+        "website": "https://www.hyatt.com/hyatt-regency/en-US/losrl-hyatt-regency-lagos-ikeja",
+        "wikidata": "Q136504463",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3533647,
+          6.5841091
+        ]
+      },
+      "id": "way/1442292737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1442420119",
+        "building": "yes",
+        "layer": "1",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5195842,
+          27.4497455
+        ]
+      },
+      "id": "way/1442420119"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1521332940",
+        "building": "yes",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.357183,
+          6.5927608
+        ]
+      },
+      "id": "way/1521332940"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1521332941",
+        "building": "yes",
+        "tourism": "hotel",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3574893,
+          6.5928475
+        ]
+      },
+      "id": "way/1521332941"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1530842307",
+        "building": "yes",
+        "name": "VirginRose Resorts",
+        "tourism": "hotel",
+        "wikidata": "Q109289655",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4210881,
+          6.4234275
+        ]
+      },
+      "id": "way/1530842307"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1530842309",
+        "name": "Manuela Residence",
+        "tourism": "hotel",
+        "wikidata": "Q112011652",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4107649,
+          6.4268284
+        ]
+      },
+      "id": "way/1530842309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1530941549",
+        "addr:city": "Lagos",
+        "addr:housenumber": "37",
+        "addr:postcode": "106104",
+        "addr:street": "Saka Tinubu Street",
+        "name": "Chesney Hotel",
+        "tourism": "hotel",
+        "wikidata": "Q112011649",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4224033,
+          6.4273988
+        ]
+      },
+      "id": "way/1530941549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1904362627",
+        "addr:street": "Rua Professor Correia Abreu",
+        "name": "IBERLAGOS",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6701476,
+          37.0930693
+        ]
+      },
+      "id": "node/1904362627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2405817731",
+        "name": "Vila Mos",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6867577,
+          37.089238
+        ]
+      },
+      "id": "node/2405817731"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2558962994",
+        "alt_name": "Hotel Burgau Turismo de Natureza",
+        "name": "Hotel Praia do Burgau",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7725201,
+          37.07279
+        ]
+      },
+      "id": "node/2558962994"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2923640624",
+        "name": "Villas D. Dinis",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6719073,
+          37.0898034
+        ]
+      },
+      "id": "node/2923640624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2937040813",
+        "addr:city": "Luz",
+        "addr:housenumber": "106",
+        "addr:postcode": "8600-160",
+        "addr:street": "Rua Direita",
+        "name": "Luz Serviços",
+        "note": "Self Catering Vacation Rental and Property Management",
+        "phone": "+351 282788522",
+        "tourism": "hotel",
+        "website": "https://www.luzholidays.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7272447,
+          37.0908418
+        ]
+      },
+      "id": "node/2937040813"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2987173862",
+        "alt_name": "Golden Tulip Festac",
+        "name": "Golden Tulip",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3030774,
+          6.4653626
+        ]
+      },
+      "id": "node/2987173862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2987186862",
+        "name": "EUC Demordern Hotel & Suites",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3051173,
+          6.4838242
+        ]
+      },
+      "id": "node/2987186862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2987186864",
+        "name": "Chelsea Suit",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2950581,
+          6.4661583
+        ]
+      },
+      "id": "node/2987186864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2991754021",
+        "name": "Cosmila Hotel & Suites",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3033226,
+          6.4811452
+        ]
+      },
+      "id": "node/2991754021"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2991767888",
+        "name": "Benny Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2921088,
+          6.4763575
+        ]
+      },
+      "id": "node/2991767888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3011773362",
+        "name": "Vila Park",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3181813,
+          6.4722717
+        ]
+      },
+      "id": "node/3011773362"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3057461330",
+        "addr:country": "PT",
+        "addr:housename": "Costa D´Oiro Ambiance Village",
+        "addr:place": "Lagos",
+        "addr:postcode": "8600-544",
+        "addr:street": "Rua da Costa D'Oiro",
+        "email": "info@sonelhotels.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Costa d'Oiro Ambiance Village",
+        "tourism": "hotel",
+        "website": "https://www.sonelhotels.com/de/index.php",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6732498,
+          37.0891522
+        ]
+      },
+      "id": "node/3057461330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3202396809",
+        "addr:city": "Lagos",
+        "addr:housenumber": "Lt 35",
+        "addr:postcode": "8600-160",
+        "addr:street": "Rua Alfredo Nascimento Batista",
+        "internet_access": "wlan",
+        "name": "Baia da Luz",
+        "phone": "+351 282 790 882",
+        "tourism": "hotel",
+        "website": "https://www.baiadaluz.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7254813,
+          37.0900715
+        ]
+      },
+      "id": "node/3202396809"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4238855897",
+        "addr:housenumber": "7",
+        "addr:street": "Rua Doutor Joaquim Tello",
+        "name": "Cidade Velha",
+        "phone": "+351 282 762041",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6723852,
+          37.1011551
+        ]
+      },
+      "id": "node/4238855897"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4262823191",
+        "name": "Montemar",
+        "stars": "3",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6745036,
+          37.0950656
+        ]
+      },
+      "id": "node/4262823191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4369769334",
+        "name": "Vila Branca Apartments",
+        "operator": "MyTours",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6786501,
+          37.0916298
+        ]
+      },
+      "id": "node/4369769334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4377148223",
+        "name": "Casa Brybeg",
+        "name:nl": "Casa Brybeg",
+        "name:pt": "Casa Brybeg",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7702994,
+          37.0930551
+        ]
+      },
+      "id": "node/4377148223"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4394496092",
+        "name": "Carliza",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3601255,
+          6.4395095
+        ]
+      },
+      "id": "node/4394496092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4579125791",
+        "addr:housenumber": "23",
+        "addr:postcode": "23401",
+        "addr:street": "Young Bashorun Street",
+        "internet_access": "wlan",
+        "name": "Signature suites",
+        "name:en": "Signature suites",
+        "opening_hours": "24/7",
+        "operator": "mrs kash",
+        "phone": "01 454 1407",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4368574,
+          6.4269148
+        ]
+      },
+      "id": "node/4579125791"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4701822802",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9470229,
+          6.5880209
+        ]
+      },
+      "id": "node/4701822802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755897331",
+        "addr:housenumber": "6",
+        "addr:street": "Akin-Olugbade Street",
+        "internet_access": "wlan",
+        "name": "B.B.Q. 'R' US Hotel (aka Moonways Hotel Ltd.)",
+        "name:en": "B.B.Q. 'R' US Hotel (aka Moonways Hotel Ltd.)",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.420588,
+          6.4309878
+        ]
+      },
+      "id": "node/4755897331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4917613299",
+        "addr:street": "Mabinuori Street",
+        "name": "Emota Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3279946,
+          6.5157556
+        ]
+      },
+      "id": "node/4917613299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5206471428",
+        "addr:postcode": "100263",
+        "addr:street": "Stella Osholanke street",
+        "name": "West view hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3251125,
+          6.553904
+        ]
+      },
+      "id": "node/5206471428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5206471623",
+        "addr:housenumber": "1",
+        "addr:postcode": "100263",
+        "addr:street": "Stella Osholanke street",
+        "name": "West view hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3251595,
+          6.5539262
+        ]
+      },
+      "id": "node/5206471623"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665683282",
+        "name": "Five Star",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2779087,
+          6.5446364
+        ]
+      },
+      "id": "node/5665683282"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665683330",
+        "name": "Ibis Royale",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3288811,
+          6.5517342
+        ]
+      },
+      "id": "node/5665683330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665683331",
+        "name": "Feligold",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3257688,
+          6.5459064
+        ]
+      },
+      "id": "node/5665683331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5745169005",
+        "name": "Real Inn Hotel",
+        "phone": "+52 867 711 0300",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5195514,
+          27.4495095
+        ]
+      },
+      "id": "node/5745169005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6294975385",
+        "internet_access": "wlan",
+        "name": "Caravel Suites",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4352505,
+          6.4324851
+        ]
+      },
+      "id": "node/6294975385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6400283759",
+        "name": "Ehi Guest House",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3324411,
+          6.5681149
+        ]
+      },
+      "id": "node/6400283759"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6419620226",
+        "name": "Boutique Hotel Vivenda Miranda",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6822529,
+          37.0851395
+        ]
+      },
+      "id": "node/6419620226"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6641717465",
+        "contact:facebook": "https://www.facebook.com/DeSantiagoMilanHotelAndSuites/",
+        "email": "info@desantiagomilanhotel.com",
+        "name": "De Santiago Milan Hotel & Suites",
+        "phone": "+234 814 369 0381, +234 813 940 7462, +234 818 397 1577",
+        "tourism": "hotel",
+        "website": "https://desantiagomilanhotel.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3156485,
+          6.4712371
+        ]
+      },
+      "id": "node/6641717465"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6848253286",
+        "internet_access": "wlan",
+        "name": "Rockview",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3608795,
+          6.4480362
+        ]
+      },
+      "id": "node/6848253286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992566379",
+        "name": "Glonik Hotels",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3445304,
+          6.6202264
+        ]
+      },
+      "id": "node/6992566379"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8111902147",
+        "addr:city": "Egbe",
+        "addr:housenumber": "7",
+        "addr:postcode": "100263",
+        "addr:street": "Nik Chuks Street",
+        "brand": "Lodging & Accomodation",
+        "description": "A single floor Unit with Twin Shops as a frontal display.",
+        "internet_access": "wlan",
+        "internet_access:fee": "yes",
+        "internet_access:ssid": "Nik Chuks Lodge Wifi",
+        "name": "Nik Chuks Lodge",
+        "rooms": "11",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2705806,
+          6.5457512
+        ]
+      },
+      "id": "node/8111902147"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8813109568",
+        "name": "The Patron Hôtel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6253604,
+          6.4732944
+        ]
+      },
+      "id": "node/8813109568"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8813127787",
+        "name": "Barracuda Garden",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6111436,
+          6.4276485
+        ]
+      },
+      "id": "node/8813127787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9125922843",
+        "description": "Hotel, Office and Restaurant",
+        "name": "Landmark Towers",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4478166,
+          6.4236201
+        ]
+      },
+      "id": "node/9125922843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9233181617",
+        "check_date": "2026-04-15",
+        "name:en": "City Center Lagos Guest House",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6730196,
+          37.0988025
+        ]
+      },
+      "id": "node/9233181617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9703726801",
+        "name": "Hotel Seanbels",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4569646,
+          6.4481194
+        ]
+      },
+      "id": "node/9703726801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10215220421",
+        "name": "Divine Fountain Hotel VI",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4375262,
+          6.4270855
+        ]
+      },
+      "id": "node/10215220421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10215240522",
+        "name": "Citilane Royal Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3529185,
+          6.6024309
+        ]
+      },
+      "id": "node/10215240522"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10215240523",
+        "name": "Hotel Hunwaji",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8883892,
+          6.4156997
+        ]
+      },
+      "id": "node/10215240523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10699579067",
+        "addr:housenumber": "13",
+        "addr:street": "Rua 25 de Abril 1974",
+        "check_date": "2026-05-12",
+        "name": "Mar Azul",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6721754,
+          37.1020691
+        ]
+      },
+      "id": "node/10699579067"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10759790605",
+        "name": "Kappo Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8850847,
+          6.415818
+        ]
+      },
+      "id": "node/10759790605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11055746805",
+        "name": "Eco Gardens",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.430344,
+          6.4282745
+        ]
+      },
+      "id": "node/11055746805"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11085414005",
+        "brand": "Radisson",
+        "brand:wikidata": "Q1751979",
+        "name": "Radisson ikeja",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3576827,
+          6.5834674
+        ]
+      },
+      "id": "node/11085414005"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11249527438",
+        "addr:postcode": "8600-623",
+        "addr:street": "Rua Silva Lopes",
+        "check_date": "2026-04-08",
+        "name": "The Salty Lodge",
+        "phone": "+351 928 024 920",
+        "tourism": "hotel",
+        "website": "https://www.saltylodge.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6715803,
+          37.1002505
+        ]
+      },
+      "id": "node/11249527438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11265020854",
+        "check_date": "2023-10-15",
+        "name": "Dom Pedro",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6597606,
+          37.113344
+        ]
+      },
+      "id": "node/11265020854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11375079247",
+        "check_date": "2026-04-07",
+        "name": "Casa Mãe",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6752732,
+          37.1030117
+        ]
+      },
+      "id": "node/11375079247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11386282369",
+        "addr:housenumber": "23",
+        "addr:street": "Rua Miguel Bombarda",
+        "check_date": "2026-04-07",
+        "name": "Casa Paula Apartments",
+        "tourism": "hotel",
+        "website": "https://www.hoteisdirect.com/casa-paula-apartments/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6703898,
+          37.0984824
+        ]
+      },
+      "id": "node/11386282369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11408650551",
+        "check_date": "2023-12-11",
+        "internet_access": "no",
+        "internet_access:fee": "customers",
+        "name": "Goldlux Hotel",
+        "payment:cash": "yes",
+        "payment:mastercard": "yes",
+        "payment:visa": "yes",
+        "source": "local knowledge",
+        "stars": "2",
+        "tourism": "hotel",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3038188,
+          6.6237919
+        ]
+      },
+      "id": "node/11408650551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11993373489",
+        "addr:city": "Ikoyi",
+        "addr:postcode": "101233",
+        "addr:street": "Onikoyi Lane",
+        "air_conditioning": "yes",
+        "brand": "Sun Heaven Hotels & Resort",
+        "email": "info.ikoyi@sun-heavens.com",
+        "internet_access": "wlan",
+        "internet_access:fee": "no",
+        "name": "Sun Heaven Hotel Ikoyi",
+        "phone": "+2349035628306",
+        "rooms": "72",
+        "tourism": "hotel",
+        "website": "https://www.sun-heavens.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4455867,
+          6.457807
+        ]
+      },
+      "id": "node/11993373489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12135260542",
+        "name": "Vila Palmeira",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6532971,
+          37.1165898
+        ]
+      },
+      "id": "node/12135260542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12281519657",
+        "facility_manager": "private/individual",
+        "name": "Edaneh hotel and lodge events center",
+        "operator": "private/individual",
+        "source:position": "gps",
+        "status": "functional",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.427575,
+          6.608955
+        ]
+      },
+      "id": "node/12281519657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12281519658",
+        "facility_manager": "private/individual",
+        "name": "E74 hotel garden and suites",
+        "operator": "private/individual",
+        "source:position": "gps",
+        "status": "functional",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.414418,
+          6.609014
+        ]
+      },
+      "id": "node/12281519658"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12281519659",
+        "facility_manager": "private/individual",
+        "name": "Dehinbo hotel and suites",
+        "operator": "private/individual",
+        "source:position": "gps",
+        "status": "functional",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.421345,
+          6.606808
+        ]
+      },
+      "id": "node/12281519659"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12287951313",
+        "facility_use": "fun and relaxation",
+        "name": "Desakin",
+        "operator": "private/ individual",
+        "source": "survey",
+        "status": "functional",
+        "tourism": "hotel",
+        "users_PLWD": "yes",
+        "users_boy": "yes",
+        "users_elderly": "yes",
+        "users_female": "yes",
+        "users_girl": "yes",
+        "users_men": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2373164,
+          6.526959
+        ]
+      },
+      "id": "node/12287951313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12287951314",
+        "facility_use": "still under construction",
+        "name": "Hotel under construction",
+        "operator": "private/ individual",
+        "source": "survey",
+        "status": "non-functional",
+        "tourism": "hotel",
+        "users_PLWD": "no",
+        "users_boy": "yes",
+        "users_elderly": "no",
+        "users_female": "yes",
+        "users_girl": "yes",
+        "users_men": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2380968,
+          6.5284094
+        ]
+      },
+      "id": "node/12287951314"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12287951315",
+        "facility_use": "hotel purposes",
+        "name": "Cleanheart Hotel",
+        "operator": "private/ individual",
+        "source": "survey",
+        "status": "functional",
+        "tourism": "hotel",
+        "users_PLWD": "no",
+        "users_boy": "yes",
+        "users_elderly": "yes",
+        "users_female": "yes",
+        "users_girl": "yes",
+        "users_men": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2363592,
+          6.5244875
+        ]
+      },
+      "id": "node/12287951315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12287951316",
+        "facility_use": "lodging and accomodations",
+        "name": "Angel Hotel Phase 2",
+        "operator": "private/ individual",
+        "source": "survey",
+        "status": "functional",
+        "tourism": "hotel",
+        "users_PLWD": "yes",
+        "users_boy": "yes",
+        "users_elderly": "yes",
+        "users_female": "yes",
+        "users_girl": "yes",
+        "users_men": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2342553,
+          6.526174
+        ]
+      },
+      "id": "node/12287951316"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12357956574",
+        "name": "Work and Play place",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3578333,
+          6.5999393
+        ]
+      },
+      "id": "node/12357956574"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12568792822",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7377862,
+          37.1555216
+        ]
+      },
+      "id": "node/12568792822"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12785621435",
+        "email": "hello@mayhillhotel.com.ng",
+        "name": "Mayhill Hotel",
+        "tourism": "hotel",
+        "website": "https://mayhillhotel.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5130915,
+          6.4398216
+        ]
+      },
+      "id": "node/12785621435"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13031519774",
+        "addr:street": "Anibaba street opposite Oluwalogbon school, ketu",
+        "name": "Paulson Hotel",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3891462,
+          6.6061732
+        ]
+      },
+      "id": "node/13031519774"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13154840009",
+        "contact:phone": "+351 282 119 260",
+        "contact:website": "https://www.editoryhotels.com/by-the-sea-lagos/",
+        "name": "The Editory by the Sea Lagos",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6742058,
+          37.0885137
+        ]
+      },
+      "id": "node/13154840009"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13479192076",
+        "brand": "Casa Monte Cristo Collection",
+        "email": "theteam@casamontecristo.com",
+        "name": "Casa Monte Cristo Apartments",
+        "operator": "Casa Monte Cristo Limited",
+        "phone": "+351 934 633 856",
+        "tourism": "hotel",
+        "website": "https://casamontecristo.com/",
+        "wikidata": "Q137858751"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7031074,
+          37.1144499
+        ]
+      },
+      "id": "node/13479192076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13479192077",
+        "brand": "Casa Monte Cristo Collection",
+        "email": "theteam@casamontecristo.com",
+        "name": "Casa Monte Cristo Too",
+        "phone": "+351 934 633 856",
+        "tourism": "hotel",
+        "website": "https://casamontecristo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7024208,
+          37.1143879
+        ]
+      },
+      "id": "node/13479192077"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13479192078",
+        "brand": "Casa Monte Cristo Tres",
+        "email": "theteam@casamontecristo.com",
+        "name": "Casa Monte Cristo Tres",
+        "phone": "+351 934 633 856",
+        "tourism": "hotel",
+        "website": "https://casamontecristo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7019679,
+          37.1135232
+        ]
+      },
+      "id": "node/13479192078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13479197250",
+        "brand": "Casa Monte Cristo Collection",
+        "email": "theteam@casamontecristo.com",
+        "name": "Casa Monte Cristo IV",
+        "phone": "+351 934 633 856",
+        "tourism": "hotel",
+        "website": "https://casamontecristo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7046972,
+          37.1145198
+        ]
+      },
+      "id": "node/13479197250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13479197251",
+        "accommodation": "villa",
+        "brand": "Casa Monte Cristo Collection",
+        "email": "theteam@casamontecristo.com",
+        "name": "Casa Monte Cristo Cinco",
+        "phone": "+351 934 633 856",
+        "tourism": "hotel",
+        "website": "https://casamontecristo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7044056,
+          37.1150085
+        ]
+      },
+      "id": "node/13479197251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13479197252",
+        "brand": "Casa Monte Cristo Collection",
+        "email": "theteam@casamontecristo.com",
+        "name": "Casa Monte Cristo Seis",
+        "phone": "+351 934 633 856",
+        "tourism": "hotel",
+        "website": "https://casamontecristo.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7038953,
+          37.115793
+        ]
+      },
+      "id": "node/13479197252"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13931427656",
+        "addr:housenumber": "39",
+        "addr:street": "Rua 25 de Abril 1974",
+        "check_date": "2026-06-12",
+        "name": "Agua Hotels Lagos Bay",
+        "tourism": "hotel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6720092,
+          37.1017359
+        ]
+      },
+      "id": "node/13931427656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13953171064",
+        "addr:city": "Lagos",
+        "addr:housenumber": "251A",
+        "addr:street": "Sapara Williams Close",
+        "name": "Lala's Boutique Hotel",
+        "tourism": "hotel",
+        "wikidata": "Q113171237"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4211279,
+          6.4346018
+        ]
+      },
+      "id": "node/13953171064"
+    }
+  ]
+}

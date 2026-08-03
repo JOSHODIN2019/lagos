@@ -1,0 +1,14 @@
+geom_type,lon,lat,@id,amenity,name,short_name,@geometry,addr:city,addr:street,loc_name,wikidata,website,wikipedia,addr:housenumber,alt_name,contact:phone,internet_access,internet_access:fee,operator,operator:type
+Point,3.3338608,6.5294947,way/500786058,university,Lagos State Polytechnic,LASPOTECH,center,,,,,,,,,,,,,
+Point,3.4277646,6.4383372,way/534108660,university,Nigerian Law School,,center,Lagos,Ozumba Mbadiwe Rd,,,,,,,,,,,
+Point,3.3941414,6.5120106,way/539288366,university,University of Lagos,,center,,,UNILAG,Q1782980,,,,,,,,,
+Point,3.1999544,6.4737889,way/591396726,university,Lagos State University,LASU,center,,,,Q849611,https://www.lasu.edu.ng/,en:Lagos State University,,,,,,,
+Point,3.4095826,6.4342208,way/591626838,university,National Open University of Nigeria,NOUN,center,Lagos,Ahmadu Bello Way,,Q6974654,,en:National Open University of Nigeria,14/16,,,,,,
+Point,3.3523301,6.5486381,way/707253868,university,Digital Bridge Institute,DBI,center,,,,,https://dbi.edu.ng,,,,,,,,
+Point,3.2426859,6.6023923,way/707603779,university,Anchor University,,center,,,,Q22079793,https://aul.edu.ng/,en:Anchor University,,,,,,,
+Point,3.383832,6.5214802,way/735021280,university,"Federal College of Education (Technical), Akoka",,center,,,,Q25203437,https://nce.fcet-akoka.edu.ng,"en:Federal College of Education (Technical), Akoka",,,,,,,
+Point,3.5274952,6.6405947,way/746264215,university,Lagos State Polytechnic,LASPOTECH,center,,,,Q23216911,https://mylaspotech.edu.ng/,en:Lagos State Polytechnic,,LASPOTECH,,,,,
+Point,3.8557101,6.4854875,way/746433946,university,Pan-Atlantic University,,center,Lagos,Lekki-Epe Expressway,,Q7129474,https://pau.edu.ng/,en:Pan-Atlantic University,,,+234 816 482 0228,,,,
+Point,3.6368725,6.6690422,way/747460531,university,Caleb University,,center,,,,Q5019318,https://calebuniversity.edu.ng/,en:Caleb University,,,,,,,
+Point,3.6365782,6.6685159,node/11730938047,university,Prof. Idowu Sobowale School of Communication,,,lagos,Old Lagos Road,,,https://www.calebuniversity.edu.ng/,,15,,,yes,customers,Caleb University,university
+Point,3.6386432,6.6708623,node/11730994887,university,College of Enivornmental Sciences and Management,,,lagos,Old Lagos Road,,,https://www.calebuniversity.edu.ng/,,15,,,yes,customers,Caleb University,university

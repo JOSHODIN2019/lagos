@@ -1,0 +1,637 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:05:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/93405333",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Centro de Saúde de Lagos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6884327,
+          37.1018534
+        ]
+      },
+      "id": "way/93405333"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/679723520",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Staff clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4005123,
+          6.4568754
+        ]
+      },
+      "id": "way/679723520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707234131",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "UNILAG Medical Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3965452,
+          6.5145423
+        ]
+      },
+      "id": "way/707234131"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/742626640",
+        "amenity": "clinic",
+        "healthcare": "birthing_centre",
+        "healthcare:speciality": "general;clinic",
+        "name": "Primary Health center",
+        "operator": "Lagos state Govt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5020761,
+          6.612393
+        ]
+      },
+      "id": "way/742626640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775431197",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ebute Metta Health Centre",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3849269,
+          6.4880478
+        ]
+      },
+      "id": "way/775431197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/776290326",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Agura Primary Health Care Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6278584,
+          6.5799801
+        ]
+      },
+      "id": "way/776290326"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778868263",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Agbala Paediatric Centre",
+        "operator": "Lagos State Health Service",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5085071,
+          6.6315215
+        ]
+      },
+      "id": "way/778868263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778868277",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Eye Foundation Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5063717,
+          6.6281553
+        ]
+      },
+      "id": "way/778868277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/790879205",
+        "addr:city": "Lagos",
+        "addr:housenumber": "148/150",
+        "addr:street": "Akowonjo Road",
+        "alt_name": "Crystal Specialist Hospital Akowonjo",
+        "amenity": "clinic",
+        "contact:phone": "+234 808 800 0757",
+        "healthcare": "clinic",
+        "name": "Crystal Specialist Hospital",
+        "website": "https://crystalhospitalng.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3063372,
+          6.6026497
+        ]
+      },
+      "id": "way/790879205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/801924039",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5834039,
+          6.5022878
+        ]
+      },
+      "id": "way/801924039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/826320802",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "St Charles Clinic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3286882,
+          6.4486042
+        ]
+      },
+      "id": "way/826320802"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/827077205",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "De Joseph Medical Convalescent Health Centre",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3401834,
+          6.5564541
+        ]
+      },
+      "id": "way/827077205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/961289126",
+        "amenity": "clinic",
+        "building": "yes",
+        "healthcare": "clinic",
+        "name": "Dalet Hospital",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6490324,
+          6.4710031
+        ]
+      },
+      "id": "way/961289126"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3258684483",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Lagos Foot Clinic",
+        "phone": "+351 911 967 586",
+        "website": "www.algarvefeet.com"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6914034,
+          37.1012541
+        ]
+      },
+      "id": "node/3258684483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4612445990",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Gilgal Dental Clinics",
+        "name:en": "Gilgal Dental Clinics"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4304727,
+          6.4481938
+        ]
+      },
+      "id": "node/4612445990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4875180826",
+        "amenity": "clinic",
+        "fixme": "Please, adjust position (located in that area)",
+        "healthcare": "clinic",
+        "name": "Anikantamo Health Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3944013,
+          6.457865
+        ]
+      },
+      "id": "node/4875180826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4875180831",
+        "amenity": "clinic",
+        "fixme": "check location",
+        "healthcare": "clinic",
+        "name": "Adeniji Adele PHC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3927007,
+          6.4634177
+        ]
+      },
+      "id": "node/4875180831"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4875180836",
+        "amenity": "clinic",
+        "fixme": "check location",
+        "healthcare": "clinic",
+        "name": "Zenith PHC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3901511,
+          6.4653226
+        ]
+      },
+      "id": "node/4875180836"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919362887",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Oke Ari Health Post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3850774,
+          6.4601397
+        ]
+      },
+      "id": "node/4919362887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4919388470",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Olowogbowo Primary Health Centre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3820358,
+          6.4593154
+        ]
+      },
+      "id": "node/4919388470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665683279",
+        "amenity": "clinic",
+        "name": "Rivet"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3102131,
+          6.5411327
+        ]
+      },
+      "id": "node/5665683279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6934060319",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Runsewe Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3996987,
+          6.4507465
+        ]
+      },
+      "id": "node/6934060319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7272034345",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Ire-Anu Hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.495054,
+          6.6244751
+        ]
+      },
+      "id": "node/7272034345"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7715084963",
+        "amenity": "clinic",
+        "healthcare": "clinic",
+        "name": "Geo Medical Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3429411,
+          6.5720068
+        ]
+      },
+      "id": "node/7715084963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199786322",
+        "addr:street": "Igalisa compound, Agboyi 1",
+        "amenity": "clinic",
+        "beds": "4",
+        "emergency": "no",
+        "healthcare": "clinic",
+        "name": "Agboyi primary health Centre (PHC)",
+        "operator": "Agboyi PHC",
+        "operator:type": "government",
+        "source": "Nigerian Red Cross Society",
+        "staff_count:doctors": "0",
+        "staff_count:nurses": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4096678,
+          6.5783809
+        ]
+      },
+      "id": "node/9199786322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12120835620",
+        "amenity": "clinic",
+        "check_date": "2024-08-19",
+        "contact:phone": "+351 282 420 400",
+        "contact:website": "https://www.grupohpa.com/pt/unidades/clinicas/clinica-sao-goncalo-lagos/",
+        "healthcare": "clinic",
+        "name": "Clínica São Gonçalo de Lagos",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:00-14:00; Su,PH off",
+        "operator:type": "private"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6767661,
+          37.1069416
+        ]
+      },
+      "id": "node/12120835620"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12281555824",
+        "amenity": "clinic",
+        "facility_manager": "private/individual",
+        "name": "Carry medical clinic",
+        "operator": "private/individual",
+        "source:position": "gps",
+        "status": "functional",
+        "users_PLWD": "yes",
+        "users_boy": "yes",
+        "users_elderly": "yes",
+        "users_female": "yes",
+        "users_girl": "yes",
+        "users_men": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.420809,
+          6.607275
+        ]
+      },
+      "id": "node/12281555824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12281555825",
+        "amenity": "clinic",
+        "facility_manager": "private/individual",
+        "name": "Josemaria specialist clinic",
+        "operator": "private/individual",
+        "source:position": "gps",
+        "status": "functional",
+        "users_PLWD": "yes",
+        "users_boy": "yes",
+        "users_elderly": "yes",
+        "users_female": "yes",
+        "users_girl": "yes",
+        "users_men": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4215831,
+          6.5988653
+        ]
+      },
+      "id": "node/12281555825"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12281555826",
+        "amenity": "clinic",
+        "facility_manager": "private/individual",
+        "name": "Donas Hospital",
+        "operator": "private/individual",
+        "source:position": "gps",
+        "status": "functional",
+        "users_PLWD": "yes",
+        "users_boy": "yes",
+        "users_elderly": "yes",
+        "users_female": "yes",
+        "users_girl": "yes",
+        "users_men": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4181207,
+          6.601154
+        ]
+      },
+      "id": "node/12281555826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12282723407",
+        "amenity": "clinic",
+        "facility_use": "for birth attandance",
+        "name": "Elisafe faith maternity home",
+        "operator": "private/ individual",
+        "source": "survey",
+        "source:position": "gps",
+        "status": "functional",
+        "users_PLWD": "no",
+        "users_boy": "no",
+        "users_elderly": "no",
+        "users_female": "yes",
+        "users_girl": "no",
+        "users_men": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2373504,
+          6.5303443
+        ]
+      },
+      "id": "node/12282723407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13713329735",
+        "amenity": "clinic",
+        "check_date": "2026-04-16",
+        "healthcare": "clinic",
+        "name": "Cruz Vermelha Portuguesa Nucleo De Lagos",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su off"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6707929,
+          37.0983099
+        ]
+      },
+      "id": "node/13713329735"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13739716921",
+        "amenity": "clinic",
+        "check_date": "2026-04-18",
+        "healthcare": "clinic",
+        "name": "Clínica Marina Lagus"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6769778,
+          37.1086891
+        ]
+      },
+      "id": "node/13739716921"
+    }
+  ]
+}

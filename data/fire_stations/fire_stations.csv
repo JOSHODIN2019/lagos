@@ -1,0 +1,12 @@
+geom_type,lon,lat,@id,amenity,building,name,@geometry,height,operator,website
+Point,-8.6707083,37.0960519,way/92542390,fire_station,yes,Bombeiros Voluntários de Lagos,center,,,
+Point,3.3185504,6.5698965,way/485409464,fire_station,yes,,center,7,,
+Point,3.3313474,6.5823004,way/551464888,fire_station,yes,,center,7 m,,
+Point,3.3743434,6.5171042,way/761196198,fire_station,yes,Fire service,center,,,
+Point,3.5130599,6.6712677,way/778616184,fire_station,,Ikorodu Fire Station,center,,Lagos State Fire Service,https://fireservice.lagosstate.gov.ng/
+Point,3.3408806,6.5922422,way/779424617,fire_station,,Ikeja Fire Station,center,,Lagos State Fire Service,https://fireservice.lagosstate.gov.ng/
+Point,3.3589003,6.6129568,way/783255014,fire_station,,Alausa Fire Station,center,,Lagos Fire Service,https://fireservice.lagosstate.gov.ng/
+Point,3.3365796,6.5461364,way/783261681,fire_station,,Isolo Fire Station,center,,Lagos Fire Service,https://fireservice.lagosstate.gov.ng/
+Point,3.9859195,6.5936876,way/783286533,fire_station,,Epe Fire Station,center,,Lagos State Fire Service,https://fireservice.lagosstate.gov.ng/
+Point,2.9067466,6.4129952,way/783301334,fire_station,,Badagry Fire Station,center,,Lagos State Fire Service,https://fireservice.lagosstate.gov.ng/
+Point,3.3032923,6.6365965,way/783304626,fire_station,,Agege Fire Station,center,,Lagos State Fire Service,https://fireservice.lagosstate.gov.ng/

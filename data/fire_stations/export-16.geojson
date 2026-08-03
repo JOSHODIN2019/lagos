@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:10:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92542390",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Bombeiros Voluntários de Lagos",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6707083,
+          37.0960519
+        ]
+      },
+      "id": "way/92542390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/485409464",
+        "amenity": "fire_station",
+        "building": "yes",
+        "height": "7",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3185504,
+          6.5698965
+        ]
+      },
+      "id": "way/485409464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551464888",
+        "amenity": "fire_station",
+        "building": "yes",
+        "height": "7 m",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3313474,
+          6.5823004
+        ]
+      },
+      "id": "way/551464888"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/761196198",
+        "amenity": "fire_station",
+        "building": "yes",
+        "name": "Fire service",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3743434,
+          6.5171042
+        ]
+      },
+      "id": "way/761196198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778616184",
+        "amenity": "fire_station",
+        "name": "Ikorodu Fire Station",
+        "operator": "Lagos State Fire Service",
+        "website": "https://fireservice.lagosstate.gov.ng/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5130599,
+          6.6712677
+        ]
+      },
+      "id": "way/778616184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779424617",
+        "amenity": "fire_station",
+        "name": "Ikeja Fire Station",
+        "operator": "Lagos State Fire Service",
+        "website": "https://fireservice.lagosstate.gov.ng/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3408806,
+          6.5922422
+        ]
+      },
+      "id": "way/779424617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783255014",
+        "amenity": "fire_station",
+        "name": "Alausa Fire Station",
+        "operator": "Lagos Fire Service",
+        "website": "https://fireservice.lagosstate.gov.ng/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3589003,
+          6.6129568
+        ]
+      },
+      "id": "way/783255014"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783261681",
+        "amenity": "fire_station",
+        "name": "Isolo Fire Station",
+        "operator": "Lagos Fire Service",
+        "website": "https://fireservice.lagosstate.gov.ng/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3365796,
+          6.5461364
+        ]
+      },
+      "id": "way/783261681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783286533",
+        "amenity": "fire_station",
+        "name": "Epe Fire Station",
+        "operator": "Lagos State Fire Service",
+        "website": "https://fireservice.lagosstate.gov.ng/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9859195,
+          6.5936876
+        ]
+      },
+      "id": "way/783286533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783301334",
+        "amenity": "fire_station",
+        "name": "Badagry Fire Station",
+        "operator": "Lagos State Fire Service",
+        "website": "https://fireservice.lagosstate.gov.ng/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.9067466,
+          6.4129952
+        ]
+      },
+      "id": "way/783301334"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783304626",
+        "amenity": "fire_station",
+        "name": "Agege Fire Station",
+        "operator": "Lagos State Fire Service",
+        "website": "https://fireservice.lagosstate.gov.ng/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3032923,
+          6.6365965
+        ]
+      },
+      "id": "way/783304626"
+    }
+  ]
+}

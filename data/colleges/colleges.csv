@@ -1,0 +1,8 @@
+geom_type,lon,lat,@id,amenity,name,@geometry,addr:city,addr:housenumber,addr:street,phone,website,alt_name,contact:phone,loc_name,short_name,surface,wikidata,wikipedia,addr:postcode
+Point,3.4117795,6.4470211,way/129725828,college,Saint Gregory's College,center,,,,,,,,,,,,,
+Point,3.4261186,6.4362912,way/537017565,college,"King's College ""Annex"" Victoria Island Campus",center,,,,,,,,,,,,,
+Point,3.4133281,6.4334195,way/537017586,college,Government Junior College Victoria Island,center,Lagos,11,Waziri Ibrahim Crescent,,,,,,,,,,
+Point,3.6034181,6.4722337,way/539288427,college,Lagos Business School,center,Lagos,,Lekki-Epe Expressway,+234 8025014623,https://www.lbs.edu.ng/,,,,,,,,
+Point,3.3742354,6.5185678,way/671850885,college,Yaba College of Technology,center,,,Herbert Macaulay Way,,https://www.yabatech.edu.ng/,Yabatech,+234 7037431055,YabaTech,YCT,unpaved,Q8046341,en:Yaba College of Technology,
+Point,3.518245,6.5391708,way/1310649156,college,Reri Secoundry School,center,Ikorodu,,Offin Oreta Road,,,,,,,,,,104102
+Point,3.3757771,6.4925463,node/9932503717,college,,,,,,,,,,,,,,,

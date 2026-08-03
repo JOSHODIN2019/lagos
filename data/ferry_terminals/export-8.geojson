@@ -1,0 +1,4256 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:04:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/24088062",
+        "admin_level": "6",
+        "admin_name": "epe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "155",
+        "name": "eyin osa",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9753605,
+          6.5676386
+        ]
+      },
+      "id": "node/24088062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593494003",
+        "addr:street": "Falomo Roundabout",
+        "alt_name": "Falomo Ferry Terminal",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Five Cowries Terminal",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4272504,
+          6.4424775
+        ]
+      },
+      "id": "way/593494003"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/593494006",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Texas Connection Ferries",
+        "public_transport": "station",
+        "website": "http://www.texasconnectionferries.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4174934,
+          6.4641332
+        ]
+      },
+      "id": "way/593494006"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/659370442",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Ikorodu Ferry Terminal",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4861682,
+          6.6022577
+        ]
+      },
+      "id": "way/659370442"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1258445858",
+        "amenity": "ferry_terminal",
+        "building": "yes",
+        "ferry": "yes",
+        "name": "Ijegun Egba Ferry Terminal",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2588115,
+          6.4279956
+        ]
+      },
+      "id": "way/1258445858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1693429425",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Tin Can Island Jetty",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3353271,
+          6.4328981
+        ]
+      },
+      "id": "node/1693429425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1931521270",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Snake Island",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3348663,
+          6.4275549
+        ]
+      },
+      "id": "node/1931521270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3741784352",
+        "admin_level": "6",
+        "admin_name": "epe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "88",
+        "name": "iya afin jetty",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8608538,
+          6.4456062
+        ]
+      },
+      "id": "node/3741784352"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3917934912",
+        "admin_level": "6",
+        "admin_name": "badagry",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "156",
+        "name": "farasime",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.7098424,
+          6.4308308
+        ]
+      },
+      "id": "node/3917934912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561399397",
+        "amenity": "ferry_terminal",
+        "check_date": "2024-09-05",
+        "ferry": "yes",
+        "name": "Vai Vem",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6707048,
+          37.1026351
+        ]
+      },
+      "id": "node/4561399397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561399398",
+        "amenity": "ferry_terminal",
+        "check_date": "2024-09-05",
+        "ferry": "yes",
+        "name": "Vai Vem",
+        "public_transport": "station",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6711648,
+          37.1023738
+        ]
+      },
+      "id": "node/4561399398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5608986816",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "78",
+        "name": "Ilutuntun",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3492876,
+          6.422177
+        ]
+      },
+      "id": "node/5608986816"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274161420",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "200",
+        "name": "Badore Ferry Terminal",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6152347,
+          6.5121953
+        ]
+      },
+      "id": "node/6274161420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274179100",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5893558,
+          6.5631532
+        ]
+      },
+      "id": "node/6274179100"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274197913",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Bayeku Ferry Terminal",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5529637,
+          6.5360487
+        ]
+      },
+      "id": "node/6274197913"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274484744",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Marina/CMS Ferry Terminal",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3898032,
+          6.449149
+        ]
+      },
+      "id": "node/6274484744"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274563687",
+        "admin_level": "6",
+        "admin_name": "Ojo",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry terminal with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "9",
+        "name": "Ebute Ojo/Sifax Ferry Terminal",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2055279,
+          6.4529056
+        ]
+      },
+      "id": "node/6274563687"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274678046",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Ilaje Waterfront Jetty Terminal Bariga",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4000365,
+          6.5283141
+        ]
+      },
+      "id": "node/6274678046"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274815661",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "description": "addax/sandfill/maroko (victoria island)",
+        "ferry": "yes",
+        "ferry_stop_id": "7",
+        "name": "Addax Jetty",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4419567,
+          6.4367766
+        ]
+      },
+      "id": "node/6274815661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6274968417",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Iworo Ajido Jetty",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.007838,
+          6.4136127
+        ]
+      },
+      "id": "node/6274968417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6275791741",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Apapa Liverpool Jetty",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3591741,
+          6.4390651
+        ]
+      },
+      "id": "node/6275791741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6275791800",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Oworonsoki Jetty",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4072016,
+          6.5479311
+        ]
+      },
+      "id": "node/6275791800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6275791838",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Tin Can Island",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3350936,
+          6.4334868
+        ]
+      },
+      "id": "node/6275791838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6275791856",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "67",
+        "name": "igbologun/snake island",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3345224,
+          6.4274708
+        ]
+      },
+      "id": "node/6275791856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6275791912",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "name": "Ijede Ferry terminal",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6004257,
+          6.5596115
+        ]
+      },
+      "id": "node/6275791912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6288815547",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "5",
+        "name": "flour mills (apapa)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3749228,
+          6.4477053
+        ]
+      },
+      "id": "node/6288815547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6650429120",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4076895,
+          6.5824363
+        ]
+      },
+      "id": "node/6650429120"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6863270040",
+        "admin_level": "6",
+        "admin_name": "ojo",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "141",
+        "name": "isofin",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1451277,
+          6.4492651
+        ]
+      },
+      "id": "node/6863270040"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7373636137",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4080514,
+          6.5823956
+        ]
+      },
+      "id": "node/7373636137"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9199486279",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4109586,
+          6.5779141
+        ]
+      },
+      "id": "node/9199486279"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9202448060",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4081182,
+          6.5806821
+        ]
+      },
+      "id": "node/9202448060"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9202448061",
+        "amenity": "ferry_terminal",
+        "ferry": "yes",
+        "public_transport": "stop_position"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4123068,
+          6.5808405
+        ]
+      },
+      "id": "node/9202448061"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9202454634",
+        "admin_level": "6",
+        "admin_name": "kosofe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "20",
+        "name": "agboyi 3",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4081789,
+          6.5824294
+        ]
+      },
+      "id": "node/9202454634"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11761389011",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "100",
+        "name": "Mikano",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2165292,
+          6.4076358
+        ]
+      },
+      "id": "node/11761389011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12285854990",
+        "admin_level": "6",
+        "admin_name": "Apapa",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "27",
+        "name": "Allens Unit/Alex Apapa",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3699936,
+          6.4346321
+        ]
+      },
+      "id": "node/12285854990"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814049769",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "136",
+        "name": "Kirikiri",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4357618,
+          6.4891958
+        ]
+      },
+      "id": "node/12814049769"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814049788",
+        "admin_level": "6",
+        "admin_name": "Eti_Osa",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity.",
+        "boat:rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "111",
+        "name": "Law School (VI)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4253303,
+          6.4395559
+        ]
+      },
+      "id": "node/12814049788"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814049800",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "95",
+        "name": "Police",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "public_transport": "station",
+        "source": "survey",
+        "source:name": "stears open data",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2524696,
+          6.4119709
+        ]
+      },
+      "id": "node/12814049800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051312",
+        "admin_level": "6",
+        "admin_name": "Ikorodu",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "58",
+        "name": "Gberigbe",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6361125,
+          6.5713252
+        ]
+      },
+      "id": "node/12814051312"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051313",
+        "admin_level": "6",
+        "admin_name": "Ikorodu",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "81",
+        "name": "Egbin",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6001959,
+          6.5602161
+        ]
+      },
+      "id": "node/12814051313"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051315",
+        "admin_level": "6",
+        "admin_name": "Kosofe",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "78",
+        "name": "Olookan Stop",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4096251,
+          6.5796715
+        ]
+      },
+      "id": "node/12814051315"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051317",
+        "admin_level": "6",
+        "admin_name": "Eti_Osa",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "109",
+        "name": "Oke Ira Nla (Ajah)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5790296,
+          6.4906331
+        ]
+      },
+      "id": "node/12814051317"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051318",
+        "admin_level": "6",
+        "admin_name": "Lagos Island",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "73",
+        "name": "Port/Checkpoint",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4041996,
+          6.4405074
+        ]
+      },
+      "id": "node/12814051318"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051325",
+        "admin_level": "6",
+        "admin_name": "Kosofe",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "66",
+        "name": "Agboyi 3/Oko Agbon",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4108125,
+          6.5798309
+        ]
+      },
+      "id": "node/12814051325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051330",
+        "admin_level": "6",
+        "admin_name": "Ojo",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "59",
+        "name": "Etegbin",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1438847,
+          6.4493606
+        ]
+      },
+      "id": "node/12814051330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051341",
+        "admin_level": "6",
+        "admin_name": "Ikorodu",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "30",
+        "name": "Ijede",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5890471,
+          6.5632172
+        ]
+      },
+      "id": "node/12814051341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051343",
+        "admin_level": "6",
+        "admin_name": "Ikorodu",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry terminal with active commercial ferry activity.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "3",
+        "name": "Ikorodu Terminal",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4861459,
+          6.6017283
+        ]
+      },
+      "id": "node/12814051343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051344",
+        "admin_level": "6",
+        "admin_name": "Ikorodu",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "19",
+        "name": "Baiyeku",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.553069,
+          6.536139
+        ]
+      },
+      "id": "node/12814051344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051346",
+        "admin_level": "6",
+        "admin_name": "Lagos Island",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "17",
+        "name": "Marina/CMS",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3897778,
+          6.4494976
+        ]
+      },
+      "id": "node/12814051346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814051351",
+        "admin_level": "6",
+        "admin_name": "Ikorodu",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "14",
+        "name": "Offin, Ikorodu",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5008848,
+          6.5393678
+        ]
+      },
+      "id": "node/12814051351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814687041",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "125",
+        "name": "second rainbow landing",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2622631,
+          6.4257939
+        ]
+      },
+      "id": "node/12814687041"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814687042",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "70",
+        "name": "Ijegun Egba",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2587021,
+          6.4278627
+        ]
+      },
+      "id": "node/12814687042"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814687055",
+        "admin_level": "6",
+        "admin_name": "Eti_Osa",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "68",
+        "name": "Alluvia Marine/Afisco (Lekki 1)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "public_transport": "station",
+        "source": "survey",
+        "source:name": "stears open data",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4593349,
+          6.4477684
+        ]
+      },
+      "id": "node/12814687055"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814705879",
+        "admin_level": "6",
+        "admin_name": "Lagos Island",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "1",
+        "name": "Ebute Ero",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3824785,
+          6.4627403
+        ]
+      },
+      "id": "node/12814705879"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706436",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "85",
+        "name": "itu agan/itun agan",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3592549,
+          6.4276603
+        ]
+      },
+      "id": "node/12814706436"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706438",
+        "admin_level": "6",
+        "admin_name": "Apapa",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "10",
+        "name": "Liverpool (Apapa)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3591485,
+          6.439056
+        ]
+      },
+      "id": "node/12814706438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706439",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "133",
+        "name": "Capital Oil",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "public_transport": "station",
+        "source": "survey",
+        "source:name": "stears open data",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2943095,
+          6.4745902
+        ]
+      },
+      "id": "node/12814706439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706460",
+        "admin_level": "6",
+        "admin_name": "Eti_Osa",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "104",
+        "name": "Bonny Camp (VI)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4048651,
+          6.4359713
+        ]
+      },
+      "id": "node/12814706460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706466",
+        "admin_level": "6",
+        "admin_name": "Ojo",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "107",
+        "name": "Ojo Market waterside",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.204243,
+          6.4531681
+        ]
+      },
+      "id": "node/12814706466"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706541",
+        "admin_level": "6",
+        "admin_name": "Ojo",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "89",
+        "name": "Iyagbe",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1993161,
+          6.4195553
+        ]
+      },
+      "id": "node/12814706541"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706557",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "122",
+        "name": "Salt Beach",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2236757,
+          6.406095
+        ]
+      },
+      "id": "node/12814706557"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706577",
+        "admin_level": "6",
+        "admin_name": "Somolu",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "32",
+        "name": "Bariga Waterfront",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3999032,
+          6.528356
+        ]
+      },
+      "id": "node/12814706577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706580",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "59",
+        "name": "Ibasa",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2553651,
+          6.4250613
+        ]
+      },
+      "id": "node/12814706580"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706589",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "62",
+        "name": "Ibeshe Palace",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2556393,
+          6.4115215
+        ]
+      },
+      "id": "node/12814706589"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706591",
+        "admin_level": "6",
+        "admin_name": "Ojo",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "106",
+        "name": "Ese Ofin",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1443087,
+          6.4497223
+        ]
+      },
+      "id": "node/12814706591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706594",
+        "admin_level": "6",
+        "admin_name": "Ajeromi_Ifelodun",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "75",
+        "name": "IKO/Temidire",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3441432,
+          6.4368636
+        ]
+      },
+      "id": "node/12814706594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706605",
+        "admin_level": "6",
+        "admin_name": "Ajeromi_Ifelodun",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "104",
+        "name": "Number 1A Waterside",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3493073,
+          6.4426193
+        ]
+      },
+      "id": "node/12814706605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706624",
+        "admin_level": "6",
+        "admin_name": "Kosofe",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry terminal with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "23",
+        "name": "Agboyi Ketu",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4076019,
+          6.5825691
+        ]
+      },
+      "id": "node/12814706624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706730",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "90",
+        "name": "Jemuje",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3507032,
+          6.4175204
+        ]
+      },
+      "id": "node/12814706730"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706733",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "24",
+        "name": "agojedo/agbejedo",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3588512,
+          6.4176319
+        ]
+      },
+      "id": "node/12814706733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706734",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "129",
+        "name": "Itomoro",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3622931,
+          6.4179592
+        ]
+      },
+      "id": "node/12814706734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706752",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "73",
+        "name": "Ikare Palace",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2381104,
+          6.4176494
+        ]
+      },
+      "id": "node/12814706752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706811",
+        "admin_level": "6",
+        "admin_name": "Ojo",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "105",
+        "name": "Egan Landing",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.14158,
+          6.4471404
+        ]
+      },
+      "id": "node/12814706811"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706829",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "30",
+        "name": "Baba Shino",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2575102,
+          6.4246842
+        ]
+      },
+      "id": "node/12814706829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814706991",
+        "admin_level": "6",
+        "admin_name": "kosofe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "21",
+        "name": "agboyi 2",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4084022,
+          6.580283
+        ]
+      },
+      "id": "node/12814706991"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814707188",
+        "admin_level": "6",
+        "admin_name": "badagry",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "13",
+        "name": "jegba marina badagry/commando jetty",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "station",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8760273,
+          6.4160118
+        ]
+      },
+      "id": "node/12814707188"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814707236",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "38",
+        "name": "Coconut Landing",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3358476,
+          6.4379319
+        ]
+      },
+      "id": "node/12814707236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814707241",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "121",
+        "name": "sagbokoji",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.376942,
+          6.4327699
+        ]
+      },
+      "id": "node/12814707241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814707702",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "135",
+        "name": "Uncle Ben",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2152237,
+          6.4079284
+        ]
+      },
+      "id": "node/12814707702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12814707706",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry landing with active commercial ferry activity; however, the facility is less developed and lacks well-engineered structures.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "74",
+        "name": "ikare town landing",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2366016,
+          6.4174615
+        ]
+      },
+      "id": "node/12814707706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439554",
+        "admin_level": "6",
+        "admin_name": "badagry",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "221",
+        "name": "point of no return",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.884629,
+          6.405508
+        ]
+      },
+      "id": "node/13749439554"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439555",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "220",
+        "name": "alelegbene",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.355594,
+          6.426392
+        ]
+      },
+      "id": "node/13749439555"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439563",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "151",
+        "name": "number 1 (apapa) waterside",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3505,
+          6.4461
+        ]
+      },
+      "id": "node/13749439563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439564",
+        "admin_level": "6",
+        "admin_name": "ajeromi/ifelodun",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "149",
+        "name": "number 1 (ajegunle) waterside",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.35,
+          6.4463
+        ]
+      },
+      "id": "node/13749439564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439565",
+        "admin_level": "6",
+        "admin_name": "ajeromi/ifelodun",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "147",
+        "name": "number 2 (ajegunle) waterside/kumuyi street(ajegunle)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3508931,
+          6.4484401
+        ]
+      },
+      "id": "node/13749439565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439570",
+        "admin_level": "6",
+        "admin_name": "badagry",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "139",
+        "name": "pashi",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.708001,
+          6.444708
+        ]
+      },
+      "id": "node/13749439570"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439571",
+        "admin_level": "6",
+        "admin_name": "lagos mainland",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "137",
+        "name": "white sand oyingbo",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3883303,
+          6.4769088
+        ]
+      },
+      "id": "node/13749439571"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439577",
+        "admin_level": "6",
+        "admin_name": "badagry",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "126",
+        "name": "slave route landing",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8836426,
+          6.4113884
+        ]
+      },
+      "id": "node/13749439577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439579",
+        "admin_level": "6",
+        "admin_name": "ajeromi/ifelodun",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "124",
+        "name": "second badagry",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.348589,
+          6.4410399
+        ]
+      },
+      "id": "node/13749439579"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439582",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "120",
+        "name": "power line",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2476338,
+          6.4156597
+        ]
+      },
+      "id": "node/13749439582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439583",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "119",
+        "name": "police",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2524696,
+          6.4119709
+        ]
+      },
+      "id": "node/13749439583"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439584",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "117",
+        "name": "osborne ferry terminal (ikoyi)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4174567,
+          6.4641704
+        ]
+      },
+      "id": "node/13749439584"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439587",
+        "admin_level": "6",
+        "admin_name": "kosofe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "112",
+        "name": "agboyi 1",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4097493,
+          6.5795615
+        ]
+      },
+      "id": "node/13749439587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439591",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "105",
+        "name": "number 2 (apapa) waterside",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.351415,
+          6.4482307
+        ]
+      },
+      "id": "node/13749439591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439593",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "103",
+        "name": "muller",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3890667,
+          6.4353942
+        ]
+      },
+      "id": "node/13749439593"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439594",
+        "admin_level": "6",
+        "admin_name": "ajeromi/ifelodun",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "102",
+        "name": "mogaji (ajegunle)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3498518,
+          6.4460592
+        ]
+      },
+      "id": "node/13749439594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439598",
+        "admin_level": "6",
+        "admin_name": "lagos mainland",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "98",
+        "name": "mainland iddo",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3845329,
+          6.4705735
+        ]
+      },
+      "id": "node/13749439598"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749439599",
+        "admin_level": "6",
+        "admin_name": "eti-osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "95",
+        "name": "langbasa",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "public",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.579538,
+          6.509071
+        ]
+      },
+      "id": "node/13749439599"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481212",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "79",
+        "name": "imore waterside",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2807528,
+          6.4302244
+        ]
+      },
+      "id": "node/13749481212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481215",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "76",
+        "name": "ilado waterfront",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3430314,
+          6.4139335
+        ]
+      },
+      "id": "node/13749481215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481221",
+        "admin_level": "6",
+        "admin_name": "ikorodu",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "69",
+        "name": "ijede/tarzan",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5890471,
+          6.5632172
+        ]
+      },
+      "id": "node/13749481221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481224",
+        "admin_level": "6",
+        "admin_name": "alimosho",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "63",
+        "name": "igando landing/isuti",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.206473,
+          6.552229
+        ]
+      },
+      "id": "node/13749481224"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481231",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "54",
+        "name": "fiki marine (victoria island)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4245956,
+          6.4392275
+        ]
+      },
+      "id": "node/13749481231"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481232",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "52",
+        "name": "ferry port/checkpoint",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4041996,
+          6.4405074
+        ]
+      },
+      "id": "node/13749481232"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481234",
+        "admin_level": "6",
+        "admin_name": "ibeju lekki",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "49",
+        "name": "eputu",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7151988,
+          6.4828966
+        ]
+      },
+      "id": "node/13749481234"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481236",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "44",
+        "name": "elegushi",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2542785,
+          6.411355
+        ]
+      },
+      "id": "node/13749481236"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481237",
+        "admin_level": "6",
+        "admin_name": "ikorodu",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "42",
+        "name": "egbin",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6001959,
+          6.5602161
+        ]
+      },
+      "id": "node/13749481237"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481239",
+        "admin_level": "6",
+        "admin_name": "ibeju lekki",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "40",
+        "name": "ebute lekki",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.134563,
+          6.403051
+        ]
+      },
+      "id": "node/13749481239"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481241",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "37",
+        "name": "cele",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2558011,
+          6.4278858
+        ]
+      },
+      "id": "node/13749481241"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481242",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "36",
+        "name": "capital oil/festac",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2941492,
+          6.4744847
+        ]
+      },
+      "id": "node/13749481242"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481244",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "34",
+        "name": "bonny camp (victoria island)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.404841,
+          6.4359237
+        ]
+      },
+      "id": "node/13749481244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481245",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "33",
+        "name": "boat club (ikoyi)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "non-operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.409454,
+          6.4429111
+        ]
+      },
+      "id": "node/13749481245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481247",
+        "admin_level": "6",
+        "admin_name": "ikorodu",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "31",
+        "name": "baiyeku",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.553069,
+          6.536139
+        ]
+      },
+      "id": "node/13749481247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481255",
+        "admin_level": "6",
+        "admin_name": "ojo",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "19",
+        "name": "agaja",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1648384,
+          6.4039084
+        ]
+      },
+      "id": "node/13749481255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481259",
+        "admin_level": "6",
+        "admin_name": "ikorodu",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "15",
+        "name": "ibeshe/thesaurus ferry terminal",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4728736,
+          6.5523893
+        ]
+      },
+      "id": "node/13749481259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481262",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "12",
+        "name": "alluvia marine/afisco (lekki phase 1)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4590768,
+          6.4475959
+        ]
+      },
+      "id": "node/13749481262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481263",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "11",
+        "name": "law school (victoria island)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4253303,
+          6.4395559
+        ]
+      },
+      "id": "node/13749481263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13749481268",
+        "admin_level": "6",
+        "admin_name": "lagos island",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "6",
+        "name": "marina/cms",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator_name": "national inland waterways authority (niwa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3897131,
+          6.4492081
+        ]
+      },
+      "id": "node/13749481268"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774143191",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "138",
+        "name": "Imore Jetty",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2807528,
+          6.4302244
+        ]
+      },
+      "id": "node/13774143191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774143192",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "222",
+        "name": "imore community",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.280746,
+          6.426853
+        ]
+      },
+      "id": "node/13774143192"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774143195",
+        "admin_level": "6",
+        "admin_name": "kosofe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "22",
+        "name": "oko agbon",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4108125,
+          6.5798309
+        ]
+      },
+      "id": "node/13774143195"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166342",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "true",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "130",
+        "name": "Tarkwa Bay",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3966119,
+          6.4010617
+        ]
+      },
+      "id": "node/13774166342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166359",
+        "admin_level": "6",
+        "admin_name": "Eti_Osa",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry terminal with active commercial ferry activity.",
+        "boat:rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "134",
+        "name": "Fiki Marine (VI)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4245956,
+          6.4392275
+        ]
+      },
+      "id": "node/13774166359"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166406",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "64",
+        "name": "igbo elejo",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3521207,
+          6.424203
+        ]
+      },
+      "id": "node/13774166406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166416",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "84",
+        "name": "isoda",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3477455,
+          6.4263514
+        ]
+      },
+      "id": "node/13774166416"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166587",
+        "admin_level": "6",
+        "admin_name": "Amuwo_Odofin",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry jetty with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "14",
+        "name": "Mile 2/NIWA",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3077366,
+          6.4590664
+        ]
+      },
+      "id": "node/13774166587"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166624",
+        "admin_level": "6",
+        "admin_name": "badagry",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "57",
+        "name": "gbaji yekeme jetty",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "station",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8607495,
+          6.4195637
+        ]
+      },
+      "id": "node/13774166624"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166692",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "18",
+        "name": "abule osun",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2366781,
+          6.4370435
+        ]
+      },
+      "id": "node/13774166692"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166701",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "92",
+        "name": "kirikiri",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3107923,
+          6.4373424
+        ]
+      },
+      "id": "node/13774166701"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166743",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "106",
+        "name": "ogogoro village",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3982996,
+          6.4262458
+        ]
+      },
+      "id": "node/13774166743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166750",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "60",
+        "name": "ibese",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2617318,
+          6.4076092
+        ]
+      },
+      "id": "node/13774166750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166754",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "77",
+        "name": "ilashe",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2055818,
+          6.4063128
+        ]
+      },
+      "id": "node/13774166754"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166860",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "55",
+        "name": "first gate (tin can island)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3433885,
+          6.4353345
+        ]
+      },
+      "id": "node/13774166860"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166862",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "35",
+        "name": "boundary (apapa)/number 3 (apapa) waterside",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3515809,
+          6.4504109
+        ]
+      },
+      "id": "node/13774166862"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774166863",
+        "admin_level": "6",
+        "admin_name": "ajeromi/ifelodun",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "16",
+        "name": "number 3 (ajegunle) waterside",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3511636,
+          6.4503929
+        ]
+      },
+      "id": "node/13774166863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774167322",
+        "admin_level": "6",
+        "admin_name": "epe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "46",
+        "name": "epe ayetoro jetty",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.9752394,
+          6.5775334
+        ]
+      },
+      "id": "node/13774167322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774167323",
+        "admin_level": "6",
+        "admin_name": "epe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "17",
+        "name": "abomiti-nla epe",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.095192,
+          6.5194041
+        ]
+      },
+      "id": "node/13774167323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774167376",
+        "admin_level": "6",
+        "admin_name": "epe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "152",
+        "name": "kabiyesi itomu jetty",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.62685,
+          6.502234
+        ]
+      },
+      "id": "node/13774167376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774167377",
+        "admin_level": "6",
+        "admin_name": "epe",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "86",
+        "name": "itomu jetty",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6287304,
+          6.5007024
+        ]
+      },
+      "id": "node/13774167377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774167514",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "93",
+        "name": "koko beach",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.243437,
+          6.4090813
+        ]
+      },
+      "id": "node/13774167514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774167519",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "114",
+        "name": "olu landing",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2595354,
+          6.407407
+        ]
+      },
+      "id": "node/13774167519"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774168013",
+        "admin_level": "6",
+        "admin_name": "ojo",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "81",
+        "name": "irewe ojo",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1529773,
+          6.4244662
+        ]
+      },
+      "id": "node/13774168013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774168058",
+        "admin_level": "6",
+        "admin_name": "alimosho",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "71",
+        "name": "ijon",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2018972,
+          6.563707
+        ]
+      },
+      "id": "node/13774168058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774168076",
+        "admin_level": "6",
+        "admin_name": "eti osa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "8",
+        "name": "badore jetty (tarzan)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6054642,
+          6.5151532
+        ]
+      },
+      "id": "node/13774168076"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774168149",
+        "admin_level": "6",
+        "admin_name": "amuwo odofin",
+        "amenity": "ferry_terminal",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry_stop_id": "80",
+        "name": "irede",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2353653,
+          6.428666
+        ]
+      },
+      "id": "node/13774168149"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774168421",
+        "admin_level": "6",
+        "admin_name": "Eti_Osa",
+        "amenity": "ferry_terminal",
+        "amenity:note": "this location is a ferry terminal with active commercial ferry activity.",
+        "boat:rental": "false",
+        "boat_rental": "true",
+        "cargo": "passengers",
+        "ferry": "yes",
+        "ferry_stop_id": "2",
+        "name": "Five Cowries/Falomo (VI)",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "public",
+        "operator:name": "Lagos State Waterways Authority (LASWA)",
+        "operator_name": "lagos state waterways authority (laswa)",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "stears open data",
+        "source_date": "2026-04-21",
+        "survey:date": "2025-02-22"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4271794,
+          6.4420945
+        ]
+      },
+      "id": "node/13774168421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774168455",
+        "amenity": "ferry_terminal",
+        "name": "Allens Unit/Alex Apapa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3702848,
+          6.4345359
+        ]
+      },
+      "id": "node/13774168455"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774168464",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "91",
+        "name": "kabakaba",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3733952,
+          6.431068
+        ]
+      },
+      "id": "node/13774168464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13774168466",
+        "admin_level": "6",
+        "admin_name": "apapa",
+        "amenity": "ferry_terminal",
+        "boat_rental": "false",
+        "cargo": "passengers",
+        "ferry_stop_id": "99",
+        "name": "manager",
+        "notes": "admin_level 6 represents local government areas",
+        "operational_status": "operational",
+        "operator": "private",
+        "operator_name": "private",
+        "public_transport": "stop_position",
+        "source": "survey",
+        "source:name": "public tech studio",
+        "source_date": "2026-04-21"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3709107,
+          6.429987
+        ]
+      },
+      "id": "node/13774168466"
+    }
+  ]
+}

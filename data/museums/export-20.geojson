@@ -1,0 +1,264 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:12:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92693159",
+        "addr:housenumber": "34",
+        "addr:street": "Rua Doutor Faria e Silva",
+        "building": "public",
+        "check_date": "2024-09-06",
+        "contact:facebook": "cienciavivalagos",
+        "contact:instagram": "cienciavivalagos",
+        "contact:twitter": "CCVLagos",
+        "fee": "yes",
+        "name": "Centro das Ciências de Lagos",
+        "opening_hours": "Tu-Su 10:00-18:00; Mo off",
+        "phone": "+351 282 770 000",
+        "tourism": "museum",
+        "website": "https://lagos.cienciaviva.pt/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6733893,
+          37.1040931
+        ]
+      },
+      "id": "way/92693159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/96585011",
+        "building": "house",
+        "check_date": "2026-04-16",
+        "fee": "yes",
+        "historic": "house",
+        "name": "Antigo Mercado dos Escravos",
+        "name:de": "Sklavenmarkt",
+        "name:en": "Anciente Slave Market",
+        "opening_hours": "Mo,PH off; Tu-Su 10:00-13:00,14:00-18:00",
+        "tourism": "museum",
+        "website": "https://www.goodtimeslagos.com/slave-market/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.671213,
+          37.1006198
+        ]
+      },
+      "id": "way/96585011"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671991295",
+        "addr:city": "Lagos",
+        "name": "National Museum",
+        "tourism": "museum",
+        "wikidata": "Q1311732",
+        "wikipedia": "en:Nigerian National Museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.403518,
+          6.4444185
+        ]
+      },
+      "id": "way/671991295"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746433964",
+        "building": "yes",
+        "name": "Yemisi Shyllon Museum of Art",
+        "tourism": "museum",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8550216,
+          6.4881977
+        ]
+      },
+      "id": "way/746433964"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/889227741",
+        "name": "Lasu Museum",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.330284,
+          6.62895
+        ]
+      },
+      "id": "node/889227741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/889344012",
+        "name": "Former Slave Market",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8812027,
+          6.4172577
+        ]
+      },
+      "id": "node/889344012"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4230513320",
+        "charge": "3 EUR",
+        "check_date": "2026-04-07",
+        "fee": "yes",
+        "name": "Museu de Lagos Doutor José Formosinho",
+        "opening_hours": "Tu-Su 10:00-13:00,14:00-18:00",
+        "toilets": "yes",
+        "tourism": "museum",
+        "website": "https://museu.cm-lagos.pt/polos/dr-jose-formosinho/",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6713129,
+          37.0994932
+        ]
+      },
+      "id": "node/4230513320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4882134391",
+        "name": "Aircraft",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3338054,
+          6.5891273
+        ]
+      },
+      "id": "node/4882134391"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8567630851",
+        "museum": "art",
+        "name": "Didi Museum",
+        "opening_hours": "Mo-Sa 09:00-18:00",
+        "tourism": "museum",
+        "website": "http://didimuseum.org/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4235679,
+          6.4326191
+        ]
+      },
+      "id": "node/8567630851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13713329737",
+        "check_date": "2026-04-07",
+        "fee": "no",
+        "name": "Casa Museu José Manuel da Graça Rosado Amôres",
+        "opening_hours": "Mo-Fr 09:30-12:30,14:00-17:00; Sa-Su off",
+        "tourism": "museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6748885,
+          37.1044383
+        ]
+      },
+      "id": "node/13713329737"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13950768471",
+        "museum": "history",
+        "name": "Badagry Heritage Museum",
+        "tourism": "museum",
+        "wikidata": "Q111008534",
+        "wikipedia": "en:Badagry Heritage Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8890746,
+          6.4117482
+        ]
+      },
+      "id": "node/13950768471"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13950768473",
+        "museum": "history",
+        "name": "Mobee Royal Family Original Slave Tade Relics Museum",
+        "tourism": "museum",
+        "wikidata": "Q110819447"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8844565,
+          6.4123233
+        ]
+      },
+      "id": "node/13950768473"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13950768474",
+        "museum": "history",
+        "name": "Seriki William Abass Slave Museum",
+        "tourism": "museum",
+        "wikidata": "Q132730791",
+        "wikipedia": "en:Seriki Williams Abass Slave Museum"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8841028,
+          6.4119284
+        ]
+      },
+      "id": "node/13950768474"
+    }
+  ]
+}

@@ -1,0 +1,575 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:09:01Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/158496409",
+        "addr:city": "Lagos",
+        "addr:postcode": "8600-306",
+        "addr:street": "Largo do Infantário",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Destacamento de Trânsito de Lagos",
+        "operator": "Guarda Nacional Republicana",
+        "operator:wikidata": "Q1280906",
+        "operator:wikipedia": "pt:Guarda Nacional Republicana",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6672521,
+          37.1319489
+        ]
+      },
+      "id": "way/158496409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/422244760",
+        "addr:city": "Lagos",
+        "addr:postcode": "8600-645",
+        "addr:street": "Avenida dos Descobrimentos",
+        "amenity": "police",
+        "building": "yes",
+        "check_date": "2026-04-11",
+        "name": "Polícia Marítima de Lagos",
+        "roof:shape": "flat",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.676063,
+          37.1084031
+        ]
+      },
+      "id": "way/422244760"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/540869073",
+        "amenity": "police",
+        "name": "Police House",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4485667,
+          6.4519945
+        ]
+      },
+      "id": "way/540869073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/554313075",
+        "amenity": "police",
+        "building": "yes",
+        "height": "5.0",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4269431,
+          6.4549438
+        ]
+      },
+      "id": "way/554313075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/592191559",
+        "addr:city": "Lagos",
+        "addr:housenumber": "26",
+        "addr:street": "Awolowo Road",
+        "amenity": "police",
+        "name": "Nigerian Police State Marine HQ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4093919,
+          6.4431065
+        ]
+      },
+      "id": "way/592191559"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/598999071",
+        "amenity": "police",
+        "name": "Nigeria Police Division HQ Victoria Island",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4119597,
+          6.423871
+        ]
+      },
+      "id": "way/598999071"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/604386606",
+        "amenity": "police",
+        "check_date": "2026-03-03",
+        "name": "Nigerian Police Zone 2 Command HQ",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4030487,
+          6.4418843
+        ]
+      },
+      "id": "way/604386606"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/639043270",
+        "amenity": "police",
+        "historic": "Police Station",
+        "name": "Bode Thomas Police Station",
+        "operator": "Nigerian Police Force",
+        "shop": "doityourself"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3572033,
+          6.4894158
+        ]
+      },
+      "id": "node/639043270"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641988309",
+        "amenity": "police",
+        "name": "Nigerian Police No. 2 Squadron",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4162126,
+          6.4472079
+        ]
+      },
+      "id": "way/641988309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641988311",
+        "addr:city": "Lagos",
+        "addr:housenumber": "37",
+        "addr:street": "Ribadu Road",
+        "amenity": "police",
+        "name": "Nigerian Police Mounted Troop F",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4179248,
+          6.446445
+        ]
+      },
+      "id": "way/641988311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/643481478",
+        "amenity": "police",
+        "name": "Nigerian Police Ilasan Division",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5030192,
+          6.4334478
+        ]
+      },
+      "id": "way/643481478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738186686",
+        "amenity": "police",
+        "landuse": "residential",
+        "name": "Police Barracks",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4087229,
+          6.447468
+        ]
+      },
+      "id": "way/738186686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/747457381",
+        "amenity": "police",
+        "landuse": "commercial",
+        "name": "Nigeria Police Force Divisional Headquarters",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3610061,
+          6.6195507
+        ]
+      },
+      "id": "way/747457381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/779131262",
+        "amenity": "police",
+        "name": "The Nigeria Police - Owutu Ikorodu HQT",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4804597,
+          6.6406793
+        ]
+      },
+      "id": "way/779131262"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/780974098",
+        "addr:city": "Ogudu",
+        "amenity": "police",
+        "name": "The Nigeria Police, Ogudu",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3842824,
+          6.5824742
+        ]
+      },
+      "id": "way/780974098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/928308974",
+        "amenity": "police",
+        "building": "yes",
+        "name": "Nigerian Police Force Area G Command",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3715496,
+          6.5602791
+        ]
+      },
+      "id": "way/928308974"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1069566979",
+        "addr:city": "Lagos",
+        "addr:postcode": "8600-324",
+        "addr:street": "Sitio da Horta do Trigo",
+        "amenity": "police",
+        "name": "Esquadra de Lagos",
+        "operator": "Polícia de Segurança Pública",
+        "operator:short": "PSP",
+        "operator:wikidata": "Q3460075",
+        "operator:wikipedia": "en:Polícia de Segurança Pública"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6809757,
+          37.1147261
+        ]
+      },
+      "id": "node/1069566979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3065765511",
+        "amenity": "police",
+        "check_date": "2025-06-24",
+        "name": "Polícia de Segurança Pública"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6727979,
+          37.1028748
+        ]
+      },
+      "id": "node/3065765511"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4115245090",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3210474,
+          6.4405446
+        ]
+      },
+      "id": "node/4115245090"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4115245091",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3196197,
+          6.4413099
+        ]
+      },
+      "id": "node/4115245091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4115245591",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3199144,
+          6.4421638
+        ]
+      },
+      "id": "node/4115245591"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4115245592",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3231428,
+          6.4376655
+        ]
+      },
+      "id": "node/4115245592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5326846775",
+        "amenity": "police",
+        "name": "Igando Police Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2388137,
+          6.5511288
+        ]
+      },
+      "id": "node/5326846775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371384381",
+        "amenity": "police",
+        "name": "Mobile Police station",
+        "operator": "Lagos state Govt"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5179266,
+          6.5896054
+        ]
+      },
+      "id": "node/6371384381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6976631185",
+        "amenity": "police",
+        "name": "Makoko police post"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3857543,
+          6.4954088
+        ]
+      },
+      "id": "node/6976631185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9534954211",
+        "amenity": "police",
+        "name": "Okoko Police Station",
+        "wikidata": "Q125504115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1852905,
+          6.4730965
+        ]
+      },
+      "id": "node/9534954211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9717326117",
+        "amenity": "police",
+        "name": "Bajulaye Police Post",
+        "survey:date": "2022-05-05",
+        "wheelchair": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3763331,
+          6.5270258
+        ]
+      },
+      "id": "node/9717326117"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10759773306",
+        "amenity": "police",
+        "name": "Checkpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.08858,
+          6.4978844
+        ]
+      },
+      "id": "node/10759773306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10760691505",
+        "amenity": "police",
+        "name": "Checkpoint"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8604262,
+          6.4165769
+        ]
+      },
+      "id": "node/10760691505"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12281565201",
+        "amenity": "police",
+        "description": "The Nigeria police divisional police headquarters Owode-Onirin Lagos State Command",
+        "operator:type": "state government",
+        "source:position": "gps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4249289,
+          6.6083405
+        ]
+      },
+      "id": "node/12281565201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12281565202",
+        "amenity": "police",
+        "branch": "Ifelodun Street",
+        "operator": "community",
+        "operator:type": "local government",
+        "source:position": "gps"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4124504,
+          6.6027571
+        ]
+      },
+      "id": "node/12281565202"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13943699535",
+        "amenity": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1252153,
+          6.4961993
+        ]
+      },
+      "id": "node/13943699535"
+    }
+  ]
+}

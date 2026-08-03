@@ -1,0 +1,3895 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:14:03Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/131672297",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3671629,
+          6.6396802
+        ]
+      },
+      "id": "way/131672297"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/304931125",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "9",
+        "name": "First Bank of Nigeria",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5299411,
+          6.4415561
+        ]
+      },
+      "id": "way/304931125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/363789616",
+        "addr:city": "Lagos",
+        "addr:street": "Awolowo Road",
+        "alt_name": "Zenith Bank Awolowo Road",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "building": "yes",
+        "height": "12",
+        "name": "Zenith Bank",
+        "website": "https://www.zenithbank.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4227306,
+          6.4436235
+        ]
+      },
+      "id": "way/363789616"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/418723886",
+        "addr:city": "Lagos",
+        "addr:housenumber": "9",
+        "addr:postcode": "8600-668",
+        "addr:street": "Praça Gil Eannes",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Lagos",
+        "branch:type": "retail",
+        "brand": "Caixa Geral de Depósitos",
+        "brand:website": "https://www.cgd.pt/",
+        "brand:wikidata": "Q1026044",
+        "brand:wikipedia": "pt:Caixa Geral de Depósitos",
+        "contact:facebook": "caixageraldedepositos",
+        "contact:instagram": "caixageraldedepositos",
+        "contact:linkedin": "https://www.linkedin.com/company/caixageraldedepositos/",
+        "contact:phone": "+351 217 900 790",
+        "contact:youtube": "http://www.youtube.com/user/mediacgd",
+        "name": "Caixa Geral de Depósitos",
+        "opening_hours": "Mo-Fr 08:30-15:00; Sa,Su,PH off",
+        "operator": "Caixa Geral de Depósitos",
+        "operator:wikidata": "Q1026044",
+        "operator:wikipedia": "pt:Caixa Geral de Depósitos",
+        "ref": "1140",
+        "short_name": "CGD",
+        "source:contact": "website",
+        "source:opening_hours": "website",
+        "website": "https://www.cgd.pt/Corporativo/Rede-CGD/Pages/LAGOS.aspx"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6727168,
+          37.1025727
+        ]
+      },
+      "id": "node/418723886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/524285979",
+        "amenity": "bank",
+        "brand": "Ecobank",
+        "brand:wikidata": "Q930225",
+        "building": "yes",
+        "height": "20",
+        "name": "Ecobank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4313329,
+          6.4542046
+        ]
+      },
+      "id": "way/524285979"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/529219704",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "building": "yes",
+        "name": "UBA",
+        "official_name": "United Bank for Africa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4276542,
+          6.4329896
+        ]
+      },
+      "id": "way/529219704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/529444311",
+        "addr:city": "Lagos",
+        "addr:street": "Adeola Odeku Street",
+        "alt_name": "UBA Adeola Odeku",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "brand:wikipedia": "en:United Bank for Africa",
+        "building": "yes",
+        "name": "UBA",
+        "official_name": "United Bank for Africa",
+        "website": "https://www.ubagroup.com/nigeria/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4207784,
+          6.4292447
+        ]
+      },
+      "id": "way/529444311"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539335258",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "First Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3121729,
+          6.4661462
+        ]
+      },
+      "id": "way/539335258"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/541770004",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "building": "yes",
+        "name": "Zenith Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.431103,
+          6.4534228
+        ]
+      },
+      "id": "way/541770004"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542661157",
+        "addr:city": "Lagos",
+        "addr:housenumber": "300",
+        "addr:street": "Adeola Odeku Street",
+        "alt_name": "Sterling Bank Adeola Odeku",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Sterling Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4196311,
+          6.430256
+        ]
+      },
+      "id": "way/542661157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/542661158",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "brand:wikipedia": "en:Zenith Bank",
+        "building": "yes",
+        "name": "Zenith Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4198156,
+          6.4301816
+        ]
+      },
+      "id": "way/542661158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/544346767",
+        "addr:city": "Lagos",
+        "addr:housenumber": "2",
+        "addr:street": "Kofo Abayomi Street",
+        "alt_name": "Fidelity Bank Corporate Head Office",
+        "amenity": "bank",
+        "brand": "Fidelity Bank",
+        "brand:wikidata": "Q5446777",
+        "brand:wikipedia": "en:Fidelity Bank Nigeria",
+        "building": "yes",
+        "height": "8.0",
+        "name": "Fidelity Bank",
+        "website": "https://www.fidelitybank.ng/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4103306,
+          6.4365359
+        ]
+      },
+      "id": "way/544346767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/548600208",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Ecobank",
+        "brand:wikidata": "Q930225",
+        "brand:wikipedia": "en:Ecobank",
+        "building": "yes",
+        "height": "15",
+        "name": "Ecobank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4153719,
+          6.4351658
+        ]
+      },
+      "id": "way/548600208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551464850",
+        "addr:city": "Ikeja",
+        "addr:housenumber": "48",
+        "addr:street": "Isaac John Street",
+        "alt_name": "FCMB Ikeja Gra",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "14",
+        "name": "First City Monument Bank",
+        "website": "https://www.fcmb.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3576231,
+          6.5840441
+        ]
+      },
+      "id": "way/551464850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551464856",
+        "amenity": "bank",
+        "brand": "Standard Chartered",
+        "brand:wikidata": "Q548278",
+        "building": "yes",
+        "height": "8",
+        "name": "Standard Chartered",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3566747,
+          6.5848503
+        ]
+      },
+      "id": "way/551464856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/551464857",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "8",
+        "name": "Skye Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3568195,
+          6.5845597
+        ]
+      },
+      "id": "way/551464857"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/556872673",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "10",
+        "name": "Sterling Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4213622,
+          6.4432278
+        ]
+      },
+      "id": "way/556872673"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560577533",
+        "addr:city": "Lagos",
+        "addr:street": "Ajose Adeogun Street",
+        "alt_name": "Stanbic Bank Ajose Adeogun",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Stanbic Bank",
+        "website": "https://www.stanbicibtcbank.com/nigeriabank/personal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4381836,
+          6.4311129
+        ]
+      },
+      "id": "way/560577533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/560577536",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4377634,
+          6.4313202
+        ]
+      },
+      "id": "way/560577536"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591626824",
+        "amenity": "bank",
+        "brand": "Ecobank",
+        "brand:wikidata": "Q930225",
+        "brand:wikipedia": "en:Ecobank",
+        "building": "yes",
+        "height": "10",
+        "name": "Ecobank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4088727,
+          6.4356737
+        ]
+      },
+      "id": "way/591626824"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/595620082",
+        "addr:city": "Lagos",
+        "addr:street": "Adeola Odeku Street",
+        "alt_name": "Access Bank Adeola Odeku",
+        "amenity": "bank",
+        "brand": "Access Bank",
+        "brand:wikidata": "Q4672418",
+        "brand:wikipedia": "en:Access Bank plc",
+        "building": "yes",
+        "height": "11",
+        "name": "Access Bank",
+        "website": "https://www.accessbankplc.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4199757,
+          6.4293688
+        ]
+      },
+      "id": "way/595620082"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/599458863",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "brand:wikipedia": "en:Zenith Bank",
+        "building": "yes",
+        "height": "17",
+        "name": "Zenith Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4185177,
+          6.4361847
+        ]
+      },
+      "id": "way/599458863"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/603511844",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "9",
+        "name": "The Infrastructure Bank PLC",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4091682,
+          6.434849
+        ]
+      },
+      "id": "way/603511844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625093259",
+        "addr:city": "Ikeja",
+        "addr:country": "NG",
+        "addr:housenumber": "8",
+        "addr:postcode": "100281",
+        "addr:state": "Lagos",
+        "addr:street": "Allen Avenue",
+        "amenity": "bank",
+        "building": "commercial",
+        "building:levels": "3",
+        "name": "Keystone Bank",
+        "website": "https://www.keystonebankng.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3548474,
+          6.5969451
+        ]
+      },
+      "id": "way/625093259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625602955",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "building": "yes",
+        "name": "UBA",
+        "official_name": "United Bank for Africa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3540652,
+          6.5971813
+        ]
+      },
+      "id": "way/625602955"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625644969",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "15",
+        "name": "Fidelity Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4437454,
+          6.4343169
+        ]
+      },
+      "id": "way/625644969"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/625644997",
+        "addr:city": "Lagos",
+        "addr:street": "Abila Abiodun Oniru Road",
+        "alt_name": "Access Bank Lekki 1",
+        "amenity": "bank",
+        "branch": "Lekki 1",
+        "building": "yes",
+        "height": "15",
+        "name": "Access Bank",
+        "website": "https://www.accessbankplc.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4455381,
+          6.434721
+        ]
+      },
+      "id": "way/625644997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/626246880",
+        "addr:city": "Ikeja",
+        "addr:country": "NG",
+        "addr:housenumber": "26",
+        "addr:postcode": "100281",
+        "addr:state": "Lagos",
+        "addr:street": "Allen Avenue",
+        "amenity": "bank",
+        "building": "yes",
+        "building:levels": "4",
+        "name": "ASHA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3537071,
+          6.5988227
+        ]
+      },
+      "id": "way/626246880"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/626246886",
+        "addr:city": "Ikeja",
+        "addr:country": "NG",
+        "addr:housenumber": "20",
+        "addr:postcode": "100281",
+        "addr:state": "Lagos",
+        "addr:street": "Allen Avenue",
+        "amenity": "bank",
+        "barrier": "fence",
+        "brand": "Ecobank",
+        "brand:wikidata": "Q930225",
+        "landuse": "commercial",
+        "name": "Ecobank",
+        "phone": "+2347005000000",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3540655,
+          6.5985601
+        ]
+      },
+      "id": "way/626246886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/639043695",
+        "addr:city": "Lagos",
+        "addr:housenumber": "94",
+        "addr:street": "Bode Thomas Street",
+        "alt_name": "GT Bank Surulere Bode Thomas",
+        "amenity": "bank",
+        "atm": "yes",
+        "contact:website": "https://www.gtbank.com/locate/atms/surulere-bode-thomas",
+        "int_name": "Guaranty Trust Bank Plc",
+        "name": "GT Bank",
+        "operator": "Guaranty Trust Bank, Bode Thomas Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3566774,
+          6.4895627
+        ]
+      },
+      "id": "node/639043695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/639049800",
+        "amenity": "bank",
+        "operator": "Afri Bank - Bode Thomas Branch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3565595,
+          6.4895757
+        ]
+      },
+      "id": "node/639049800"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641988210",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "20",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.430308,
+          6.4314476
+        ]
+      },
+      "id": "way/641988210"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/641988257",
+        "amenity": "bank",
+        "brand": "GT Bank",
+        "brand:wikidata": "Q579747",
+        "building": "yes",
+        "height": "16",
+        "name": "GT Bank",
+        "official_name": "Guaranty Trust Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4488839,
+          6.4355961
+        ]
+      },
+      "id": "way/641988257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/652322136",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Gt Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3108733,
+          6.4752158
+        ]
+      },
+      "id": "way/652322136"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/653305661",
+        "addr:city": "Lagos",
+        "addr:housenumber": "2",
+        "addr:street": "Sanusi Fafunwa Street",
+        "alt_name": "FCMB Sanusi Fafunwa",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "FCMB",
+        "website": "https://www.fcmb.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4243374,
+          6.4308962
+        ]
+      },
+      "id": "way/653305661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/662629705",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "drive_through": "no",
+        "name": "First Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4084047,
+          6.4291372
+        ]
+      },
+      "id": "way/662629705"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746513661",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "brand:wikipedia": "en:United Bank for Africa",
+        "building": "yes",
+        "name": "UBA",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3100544,
+          6.6085232
+        ]
+      },
+      "id": "way/746513661"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/748614932",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "brand:wikipedia": "en:Zenith Bank",
+        "building": "yes",
+        "name": "Zenith Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3109763,
+          6.6095194
+        ]
+      },
+      "id": "way/748614932"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/760061877",
+        "amenity": "bank",
+        "atm": "yes",
+        "building": "yes",
+        "name": "Zenith Bank/CITM",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3741231,
+          6.5175212
+        ]
+      },
+      "id": "way/760061877"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/775899029",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "brand:wikipedia": "en:United Bank for Africa",
+        "building": "yes",
+        "height": "12",
+        "name": "UBA",
+        "official_name": "United Bank for Africa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4696978,
+          6.4474237
+        ]
+      },
+      "id": "way/775899029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778297075",
+        "amenity": "bank",
+        "brand": "Access Bank",
+        "brand:wikidata": "Q4672418",
+        "brand:wikipedia": "en:Access Bank plc",
+        "building": "yes",
+        "name": "Access Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.498149,
+          6.6232753
+        ]
+      },
+      "id": "way/778297075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778616157",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Access Bank",
+        "brand:wikidata": "Q4672418",
+        "brand:wikipedia": "en:Access Bank plc",
+        "building": "yes",
+        "name": "Access Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.517788,
+          6.6494464
+        ]
+      },
+      "id": "way/778616157"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778625558",
+        "amenity": "bank",
+        "brand": "Access Bank",
+        "brand:wikidata": "Q4672418",
+        "brand:wikipedia": "en:Access Bank plc",
+        "building": "yes",
+        "name": "Access Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5037548,
+          6.6195337
+        ]
+      },
+      "id": "way/778625558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778859489",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "First Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.496202,
+          6.6241301
+        ]
+      },
+      "id": "way/778859489"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778859491",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Union Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4989937,
+          6.6233382
+        ]
+      },
+      "id": "way/778859491"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778859497",
+        "amenity": "bank",
+        "brand": "Ecobank",
+        "brand:wikidata": "Q930225",
+        "brand:wikipedia": "en:Ecobank",
+        "building": "yes",
+        "name": "Ecobank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4996201,
+          6.6226973
+        ]
+      },
+      "id": "way/778859497"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778859498",
+        "amenity": "bank",
+        "brand": "Fidelity Bank",
+        "brand:wikidata": "Q5446777",
+        "brand:wikipedia": "en:Fidelity Bank Nigeria",
+        "building": "yes",
+        "name": "Fidelity Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4995095,
+          6.6227856
+        ]
+      },
+      "id": "way/778859498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/778868286",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Skye Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.502911,
+          6.619127
+        ]
+      },
+      "id": "way/778868286"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/779426341",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Bankinter",
+        "brand:wikidata": "Q806808",
+        "brand:wikipedia": "en:Bankinter",
+        "name": "Bankinter",
+        "operator": "Bankinter",
+        "operator:wikidata": "Q806808",
+        "operator:wikipedia": "en:Bankinter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6801781,
+          37.1116003
+        ]
+      },
+      "id": "node/779426341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/780383039",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "brand:wikipedia": "en:United Bank for Africa",
+        "building": "yes",
+        "name": "UBA",
+        "official_name": "United Bank for Africa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3827387,
+          6.600142
+        ]
+      },
+      "id": "way/780383039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/780384512",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Syke Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3895935,
+          6.6008843
+        ]
+      },
+      "id": "way/780384512"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/781369446",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Sterling Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3235027,
+          6.649586
+        ]
+      },
+      "id": "way/781369446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783485107",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "brand:wikipedia": "en:Zenith Bank",
+        "building": "yes",
+        "name": "Zenith Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3603704,
+          6.5257946
+        ]
+      },
+      "id": "way/783485107"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783485112",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Sterling Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3609908,
+          6.5253249
+        ]
+      },
+      "id": "way/783485112"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783485114",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "GTBank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3616976,
+          6.524705
+        ]
+      },
+      "id": "way/783485114"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/783485132",
+        "amenity": "bank",
+        "brand": "Access Bank",
+        "brand:wikidata": "Q4672418",
+        "brand:wikipedia": "en:Access Bank plc",
+        "building": "yes",
+        "name": "Access Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3520176,
+          6.5340966
+        ]
+      },
+      "id": "way/783485132"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/784955959",
+        "amenity": "bank",
+        "brand": "Fidelity Bank",
+        "brand:wikidata": "Q5446777",
+        "brand:wikipedia": "en:Fidelity Bank Nigeria",
+        "building": "yes",
+        "name": "Fidelity Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2977161,
+          6.4682667
+        ]
+      },
+      "id": "way/784955959"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/785246618",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Diamond",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5835425,
+          6.4963083
+        ]
+      },
+      "id": "way/785246618"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/787960031",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Skye Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.456888,
+          6.4291377
+        ]
+      },
+      "id": "way/787960031"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/793453588",
+        "addr:housenumber": "8/10",
+        "addr:street": "Lateef Jakande Road",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "brand:wikipedia": "en:Zenith Bank",
+        "building": "yes",
+        "contact:phone": "+234-0803-092-8066;+234-0706-511-0844;+234-0903-326-6809",
+        "name": "Zenith Bank",
+        "website": "https://www.zenithbank.com/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3544006,
+          6.6265654
+        ]
+      },
+      "id": "way/793453588"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/793453592",
+        "amenity": "bank",
+        "brand": "Standard Chartered",
+        "brand:wikidata": "Q548278",
+        "brand:wikipedia": "en:Standard Chartered",
+        "building": "yes",
+        "name": "Standard Chartered",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.354153,
+          6.6273263
+        ]
+      },
+      "id": "way/793453592"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/793453594",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "First Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.353732,
+          6.6273696
+        ]
+      },
+      "id": "way/793453594"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/851554683",
+        "addr:city": "Lagos",
+        "addr:housenumber": "19",
+        "addr:postcode": "8600-701",
+        "addr:street": "Rua Porta de Portugal",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Lagos",
+        "brand": "Santander",
+        "brand:website": "https://www.santander.pt/",
+        "brand:wikidata": "Q4854116",
+        "brand:wikipedia": "pt:Banco Santander Portugal",
+        "cash_in": "yes",
+        "cash_out": "yes",
+        "check_date": "2024-09-09",
+        "contact:email": "lagos@santander.pt",
+        "contact:facebook": "santanderpt",
+        "contact:instagram": "santanderpt",
+        "contact:linkedin": "https://www.linkedin.com/company/santanderpt/",
+        "contact:phone": "+351 282 770 940",
+        "contact:twitter": "santanderpt",
+        "contact:youtube": "@santanderpt",
+        "internet_access": "wlan",
+        "language:en": "yes",
+        "language:es": "yes",
+        "language:fr": "yes",
+        "language:it": "yes",
+        "language:pt": "yes",
+        "name": "Santander",
+        "opening_hours": "Mo-Fr 08:30-15:00; Sa-Su off; Jan 01,Apr 25,May 25,Jun 01,Jun 26,Aug 10,Aug 24,Oct 15,Nov 05,Dec 01,Dec 08,Dec 25 off",
+        "operator": "Banco Santander (Portugal)",
+        "operator:wikidata": "Q4854116",
+        "operator:wikipedia": "pt:Banco Santander Portugal",
+        "ref": "5319",
+        "source:contact": "website",
+        "source:opening_hours": "website",
+        "website": "https://www.santander.pt/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6730462,
+          37.1031894
+        ]
+      },
+      "id": "node/851554683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/889290383",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "brand:wikipedia": "en:Zenith Bank",
+        "name": "Zenith Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8786998,
+          6.4182916
+        ]
+      },
+      "id": "node/889290383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412384",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4426712,
+          6.4260373
+        ]
+      },
+      "id": "way/935412384"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412385",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4419608,
+          6.4259388
+        ]
+      },
+      "id": "way/935412385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412386",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4417784,
+          6.4259282
+        ]
+      },
+      "id": "way/935412386"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412387",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4414941,
+          6.4260721
+        ]
+      },
+      "id": "way/935412387"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412388",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4406143,
+          6.4264612
+        ]
+      },
+      "id": "way/935412388"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412389",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4403622,
+          6.4265732
+        ]
+      },
+      "id": "way/935412389"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412390",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4402238,
+          6.4265689
+        ]
+      },
+      "id": "way/935412390"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412395",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.431122,
+          6.4338149
+        ]
+      },
+      "id": "way/935412395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412396",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.443259,
+          6.42765
+        ]
+      },
+      "id": "way/935412396"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412397",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4427816,
+          6.4285136
+        ]
+      },
+      "id": "way/935412397"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412398",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4435594,
+          6.4273835
+        ]
+      },
+      "id": "way/935412398"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412399",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.442685,
+          6.4292759
+        ]
+      },
+      "id": "way/935412399"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412400",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.44055,
+          6.4273355
+        ]
+      },
+      "id": "way/935412400"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412401",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4386724,
+          6.4269996
+        ]
+      },
+      "id": "way/935412401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412402",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4393376,
+          6.4286948
+        ]
+      },
+      "id": "way/935412402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412403",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4396487,
+          6.4287215
+        ]
+      },
+      "id": "way/935412403"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412404",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4401744,
+          6.428263
+        ]
+      },
+      "id": "way/935412404"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412405",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4400296,
+          6.4278792
+        ]
+      },
+      "id": "way/935412405"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412406",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4399009,
+          6.4278685
+        ]
+      },
+      "id": "way/935412406"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412407",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4387207,
+          6.4278579
+        ]
+      },
+      "id": "way/935412407"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412408",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.438887,
+          6.4273835
+        ]
+      },
+      "id": "way/935412408"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412409",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4377926,
+          6.4272236
+        ]
+      },
+      "id": "way/935412409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412410",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4378225,
+          6.4273837
+        ]
+      },
+      "id": "way/935412410"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412411",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4399867,
+          6.4281937
+        ]
+      },
+      "id": "way/935412411"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412412",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4384253,
+          6.4282286
+        ]
+      },
+      "id": "way/935412412"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412413",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4382594,
+          6.4282177
+        ]
+      },
+      "id": "way/935412413"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412414",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4406036,
+          6.429004
+        ]
+      },
+      "id": "way/935412414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412415",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4375191,
+          6.4312056
+        ]
+      },
+      "id": "way/935412415"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412418",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4374762,
+          6.429665
+        ]
+      },
+      "id": "way/935412418"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412419",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4379643,
+          6.4300808
+        ]
+      },
+      "id": "way/935412419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412420",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4378842,
+          6.4298971
+        ]
+      },
+      "id": "way/935412420"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412421",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4399706,
+          6.4298942
+        ]
+      },
+      "id": "way/935412421"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412422",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4395736,
+          6.4300008
+        ]
+      },
+      "id": "way/935412422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412423",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4396273,
+          6.4297183
+        ]
+      },
+      "id": "way/935412423"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412424",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4389299,
+          6.4297236
+        ]
+      },
+      "id": "way/935412424"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412425",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4392357,
+          6.429713
+        ]
+      },
+      "id": "way/935412425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412426",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4391069,
+          6.4287215
+        ]
+      },
+      "id": "way/935412426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412427",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.438887,
+          6.4287215
+        ]
+      },
+      "id": "way/935412427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412428",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4388977,
+          6.4291426
+        ]
+      },
+      "id": "way/935412428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412429",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4387207,
+          6.4290893
+        ]
+      },
+      "id": "way/935412429"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/935412430",
+        "amenity": "bank",
+        "building": "yes",
+        "height": "18",
+        "name": "Diamond Bank",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4390721,
+          6.4307684
+        ]
+      },
+      "id": "way/935412430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1002110432",
+        "amenity": "bank",
+        "building": "yes",
+        "name": "Unity",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4236129,
+          6.4303046
+        ]
+      },
+      "id": "way/1002110432"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1002110433",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "brand:wikipedia": "en:United Bank for Africa",
+        "building": "yes",
+        "name": "UBA",
+        "official_name": "United Bank for Africa",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4235332,
+          6.4299069
+        ]
+      },
+      "id": "way/1002110433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1366137196",
+        "amenity": "bank",
+        "name": "First Bank of Nigeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3875852,
+          6.4626194
+        ]
+      },
+      "id": "node/1366137196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1366137199",
+        "amenity": "bank",
+        "name": "GT Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3852892,
+          6.4539469
+        ]
+      },
+      "id": "node/1366137199"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1466323431",
+        "amenity": "bank",
+        "building": "yes",
+        "building:levels": "5",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4138862,
+          6.417244
+        ]
+      },
+      "id": "way/1466323431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1513600882",
+        "amenity": "bank",
+        "name": "Enterprise Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.440479,
+          6.430183
+        ]
+      },
+      "id": "node/1513600882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1513600887",
+        "amenity": "bank",
+        "brand:wikidata": "Q5978240",
+        "brand:wikipedia": "en:Zenith Bank",
+        "name": "Zenith Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4362651,
+          6.4308749
+        ]
+      },
+      "id": "node/1513600887"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1513671686",
+        "addr:city": "Lagos",
+        "addr:street": "Herbert Macaulay Way",
+        "amenity": "bank",
+        "brand": "GT Bank",
+        "brand:wikidata": "Q579747",
+        "name": "GT Bank",
+        "official_name": "Guaranty Trust Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3792763,
+          6.4979726
+        ]
+      },
+      "id": "node/1513671686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1637149681",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.7056583,
+          6.4703151
+        ]
+      },
+      "id": "node/1637149681"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2197600001",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3493146,
+          6.6063636
+        ]
+      },
+      "id": "node/2197600001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2329099786",
+        "addr:city": "Lagos",
+        "addr:housenumber": "50",
+        "addr:postcode": "106104",
+        "addr:street": "Adeola Odeku Street",
+        "amenity": "bank",
+        "name": "First Bank Adeola Odeku",
+        "operator": "FirstBank",
+        "website": "https://www.firstbanknigeria.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4221,
+          6.428969
+        ]
+      },
+      "id": "node/2329099786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2330823961",
+        "amenity": "bank",
+        "operator": "Skye Bank",
+        "source:operator": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4273732,
+          6.4457125
+        ]
+      },
+      "id": "node/2330823961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2403498543",
+        "addr:housenumber": "39",
+        "addr:postcode": "8600-645",
+        "addr:street": "Avenida dos Descobrimentos",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Lagos",
+        "brand": "Banco Português de Investimento",
+        "brand:wikidata": "Q537886",
+        "brand:wikipedia": "pt:Banco Português de Investimento",
+        "check_date": "2026-04-13",
+        "name": "BPI",
+        "official_name": "Banco Português de Investimento",
+        "operator": "Banco Português de Investimento",
+        "operator:wikidata": "Q537886",
+        "operator:wikipedia": "pt:Banco Português de Investimento"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6745647,
+          37.1063727
+        ]
+      },
+      "id": "node/2403498543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2417746533",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "First Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.299247,
+          6.623183
+        ]
+      },
+      "id": "node/2417746533"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2937030133",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Crédito Agrícola",
+        "brand:wikidata": "Q10262017",
+        "brand:wikipedia": "pt:Crédito Agrícola",
+        "name": "Crédito Agrícola",
+        "opening_hours": "Mo-Fr 09:00-15:00",
+        "operator": "Crédito Agrícola",
+        "operator:alt_name": "Caixa de Crédito Agrícola",
+        "operator:wikidata": "Q10262017",
+        "operator:wikipedia": "pt:Crédito Agrícola",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7306587,
+          37.0859822
+        ]
+      },
+      "id": "node/2937030133"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2987186865",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "name": "UBA",
+        "official_name": "United Bank for Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2951935,
+          6.4660304
+        ]
+      },
+      "id": "node/2987186865"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2987186866",
+        "amenity": "bank",
+        "name": "Oceanic Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2949012,
+          6.4665221
+        ]
+      },
+      "id": "node/2987186866"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3699700367",
+        "amenity": "bank",
+        "branch": "Geral",
+        "brand": "Banco Montepio",
+        "brand:wikidata": "Q1946091",
+        "brand:wikipedia": "pt:Banco Montepio",
+        "name": "Banco Montepio",
+        "operator": "Associação Mutualista Montepio",
+        "operator:wikidata": "Q1946091",
+        "operator:wikipedia": "pt:Banco Montepio"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.673078,
+          37.0965681
+        ]
+      },
+      "id": "node/3699700367"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3971455464",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "UBA",
+        "opening_hours": "Mo-Fr 08:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3913882,
+          6.5580621
+        ]
+      },
+      "id": "node/3971455464"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4029270073",
+        "amenity": "bank",
+        "name": "Tarkwabay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3841149,
+          6.4520764
+        ]
+      },
+      "id": "node/4029270073"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4193728426",
+        "addr:city": "Lekki lagos",
+        "addr:street": "Admiralty Way",
+        "amenity": "bank",
+        "atm": "yes",
+        "drive_through": "no",
+        "name": "First bank Nigeria Plc",
+        "opening_hours": "Mo-Fr 08:00-16:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.460188,
+          6.4461444
+        ]
+      },
+      "id": "node/4193728426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4219811640",
+        "addr:city": "Lagos",
+        "addr:housenumber": "43",
+        "addr:postcode": "8600-645",
+        "addr:street": "Avenida dos Descobrimentos",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Novo Banco",
+        "brand:wikidata": "Q17488861",
+        "brand:wikipedia": "pt:Novo Banco",
+        "check_date": "2024-09-05",
+        "contact:fax": "+351 282763326",
+        "contact:phone": "+351 282763021",
+        "name": "Novo Banco",
+        "operator": "Novo Banco",
+        "operator:old_name": "Banco Espírito Santo",
+        "operator:old_name:short": "BES",
+        "operator:wikidata": "Q17488861",
+        "operator:wikipedia": "pt:Novo Banco",
+        "ref": "B0358",
+        "ref_name": "Lagos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6749897,
+          37.1069858
+        ]
+      },
+      "id": "node/4219811640"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228741829",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Millennium bcp",
+        "brand:wikidata": "Q118581",
+        "brand:wikipedia": "pt:Banco Comercial Português",
+        "check_date": "2026-04-26",
+        "name": "Millennium bcp",
+        "official_name": "Banco Comercial Português",
+        "operator": "Banco Comercial Português",
+        "operator:wikidata": "Q118581",
+        "operator:wikipedia": "pt:Banco Comercial Português",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6804713,
+          37.1070994
+        ]
+      },
+      "id": "node/4228741829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4228745916",
+        "alt_name": "BIC",
+        "amenity": "bank",
+        "atm": "no",
+        "brand": "EuroBic",
+        "brand:wikidata": "Q806175",
+        "brand:wikipedia": "pt:EuroBic",
+        "name": "EuroBic",
+        "operator": "Abanca",
+        "operator:wikidata": "Q9598744",
+        "operator:wikipedia": "en:Abanca"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6811643,
+          37.1062954
+        ]
+      },
+      "id": "node/4228745916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4413083289",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3693482,
+          6.4411079
+        ]
+      },
+      "id": "node/4413083289"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4563509063",
+        "amenity": "bank",
+        "brand": "Caixa Geral de Depósitos",
+        "brand:website": "https://www.cgd.pt/",
+        "brand:wikidata": "Q1026044",
+        "brand:wikipedia": "pt:Caixa Geral de Depósitos",
+        "name": "Caixa Geral de Depósitos",
+        "operator": "Caixa Geral de Depósitos",
+        "operator:wikidata": "Q1026044",
+        "operator:wikipedia": "pt:Caixa Geral de Depósitos",
+        "short_name": "CGD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6765419,
+          37.0974318
+        ]
+      },
+      "id": "node/4563509063"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4583157091",
+        "addr:street": "Ikorodu Road",
+        "amenity": "bank",
+        "name": "First bank of nigeria",
+        "name:en": "First bank of nigeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5000907,
+          6.6242763
+        ]
+      },
+      "id": "node/4583157091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4721730856",
+        "addr:housenumber": "32",
+        "addr:street": "Lewis Street",
+        "amenity": "bank",
+        "description": "Micro Finance Institution",
+        "name": "ADDOSSER Micro finance Bank",
+        "website": "https://addosser.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4010634,
+          6.4509459
+        ]
+      },
+      "id": "node/4721730856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142959401",
+        "amenity": "bank",
+        "brand": "Stanbic Bank",
+        "brand:wikidata": "Q7597999",
+        "name": "Stanbic Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4510334,
+          6.4363724
+        ]
+      },
+      "id": "node/5142959401"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5142959402",
+        "amenity": "bank",
+        "brand": "Standard Chartered",
+        "brand:wikidata": "Q548278",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4510316,
+          6.4365043
+        ]
+      },
+      "id": "node/5142959402"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5371377212",
+        "amenity": "bank",
+        "name": "Skye Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4562054,
+          6.4379947
+        ]
+      },
+      "id": "node/5371377212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5371377213",
+        "amenity": "bank",
+        "name": "Moneytrust Microfinance"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4561908,
+          6.4379013
+        ]
+      },
+      "id": "node/5371377213"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5649641155",
+        "amenity": "bank",
+        "name": "GT Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.432198,
+          6.4385344
+        ]
+      },
+      "id": "node/5649641155"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665683273",
+        "amenity": "bank",
+        "name": "Standard Chartered"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3267536,
+          6.5524796
+        ]
+      },
+      "id": "node/5665683273"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665683274",
+        "amenity": "bank",
+        "name": "Ecobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.327939,
+          6.5523269
+        ]
+      },
+      "id": "node/5665683274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665683275",
+        "amenity": "bank",
+        "name": "Zenith"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3289774,
+          6.552631
+        ]
+      },
+      "id": "node/5665683275"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665683277",
+        "amenity": "bank",
+        "name": "Diamond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3275547,
+          6.5454928
+        ]
+      },
+      "id": "node/5665683277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5665683283",
+        "amenity": "bank",
+        "name": "Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2755725,
+          6.5444516
+        ]
+      },
+      "id": "node/5665683283"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5675846430",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "name": "UBA",
+        "official_name": "United Bank for Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4267529,
+          6.4335596
+        ]
+      },
+      "id": "node/5675846430"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5678239342",
+        "amenity": "bank",
+        "name": "Ecobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2945057,
+          6.5397164
+        ]
+      },
+      "id": "node/5678239342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5678239344",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3050624,
+          6.5371724
+        ]
+      },
+      "id": "node/5678239344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5678239346",
+        "amenity": "bank",
+        "name": "UBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3316508,
+          6.5489777
+        ]
+      },
+      "id": "node/5678239346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5678239437",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Access Bank",
+        "brand:wikidata": "Q4672418",
+        "name": "Access Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3282205,
+          6.5557348
+        ]
+      },
+      "id": "node/5678239437"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5678246023",
+        "amenity": "bank",
+        "name": "Stanbic"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2423141,
+          6.5517477
+        ]
+      },
+      "id": "node/5678246023"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6122566945",
+        "amenity": "bank",
+        "name": "United Bank of Africa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3996787,
+          6.5197506
+        ]
+      },
+      "id": "node/6122566945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124733445",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "GTBank",
+        "opening_hours": "Mo-Fr 8:00-4:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3655018,
+          6.6401533
+        ]
+      },
+      "id": "node/6124733445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124733446",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Zenith Bank",
+        "opening_hours": "Mo-Fr 08:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3660623,
+          6.6402679
+        ]
+      },
+      "id": "node/6124733446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6124733447",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "First Bank",
+        "opening_hours": "Mo-Fr 08:00-04:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3677548,
+          6.6401507
+        ]
+      },
+      "id": "node/6124733447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6137329002",
+        "addr:city": "Ikotun",
+        "amenity": "bank",
+        "name": "First Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2607573,
+          6.5378111
+        ]
+      },
+      "id": "node/6137329002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371384380",
+        "amenity": "bank",
+        "atm": "yes",
+        "drive_through": "no",
+        "name": "Sterling Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5178649,
+          6.5896733
+        ]
+      },
+      "id": "node/6371384380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371454786",
+        "amenity": "bank",
+        "atm": "yes",
+        "drive_through": "no",
+        "name": "First Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5051664,
+          6.6127111
+        ]
+      },
+      "id": "node/6371454786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371454792",
+        "amenity": "bank",
+        "name": "GTBank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5017192,
+          6.6147884
+        ]
+      },
+      "id": "node/6371454792"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371454797",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Polaris bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4983053,
+          6.6085814
+        ]
+      },
+      "id": "node/6371454797"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6916758460",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "name": "Zenith Bank",
+        "source": "mapillary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4292546,
+          6.4436426
+        ]
+      },
+      "id": "node/6916758460"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6916758478",
+        "amenity": "bank",
+        "brand": "Ecobank",
+        "brand:wikidata": "Q930225",
+        "name": "Ecobank",
+        "source": "mapillary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4294192,
+          6.4436807
+        ]
+      },
+      "id": "node/6916758478"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6916860487",
+        "addr:city": "Lagos",
+        "addr:housenumber": "35",
+        "addr:street": "Bishop Aboyade Cole Street",
+        "alt_name": "UBA Aboyade Cole",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "UBA",
+        "contact:website": "https://www.ubagroup.com/nigeria/help/aboyade-cole/",
+        "name": "UBA",
+        "source": "mapillary"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4370923,
+          6.4347201
+        ]
+      },
+      "id": "node/6916860487"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6948925322",
+        "amenity": "bank",
+        "name": "Union Bank",
+        "operator": "Union Bank of Nigeria"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.383046,
+          6.5872741
+        ]
+      },
+      "id": "node/6948925322"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967079647",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "brand:wikipedia": "en:United Bank for Africa",
+        "name": "UBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3673209,
+          6.5573555
+        ]
+      },
+      "id": "node/6967079647"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967294263",
+        "amenity": "bank",
+        "name": "Wema Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3663878,
+          6.5718285
+        ]
+      },
+      "id": "node/6967294263"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967655771",
+        "amenity": "bank",
+        "name": "Diamond"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3456443,
+          6.5537018
+        ]
+      },
+      "id": "node/6967655771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967655773",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "brand:wikipedia": "en:Zenith Bank",
+        "name": "Zenith Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3461504,
+          6.5538544
+        ]
+      },
+      "id": "node/6967655773"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967655775",
+        "amenity": "bank",
+        "name": "AB Microfinance Bank",
+        "website": "https://www.ab-mfbnigeria.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3464909,
+          6.5540319
+        ]
+      },
+      "id": "node/6967655775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967655776",
+        "amenity": "bank",
+        "name": "Heritage Bank",
+        "website": "https://www.hbng.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.346663,
+          6.5540968
+        ]
+      },
+      "id": "node/6967655776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967737935",
+        "amenity": "bank",
+        "brand": "Fidelity Bank",
+        "brand:wikidata": "Q5446777",
+        "brand:wikipedia": "en:Fidelity Bank Nigeria",
+        "name": "Fidelity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3437365,
+          6.5528537
+        ]
+      },
+      "id": "node/6967737935"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967737936",
+        "amenity": "bank",
+        "brand": "Access Bank",
+        "brand:wikidata": "Q4672418",
+        "brand:wikipedia": "en:Access Bank plc",
+        "name": "Access Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3435387,
+          6.5527831
+        ]
+      },
+      "id": "node/6967737936"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6967737937",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "brand:wikipedia": "en:United Bank for Africa",
+        "name": "UBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.343374,
+          6.5526915
+        ]
+      },
+      "id": "node/6967737937"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6969836706",
+        "amenity": "bank",
+        "name": "GTBank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2837897,
+          6.5824001
+        ]
+      },
+      "id": "node/6969836706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6991204631",
+        "amenity": "bank",
+        "name": "GTBank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3920117,
+          6.6049133
+        ]
+      },
+      "id": "node/6991204631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992566358",
+        "amenity": "bank",
+        "brand": "Zenith Bank",
+        "brand:wikidata": "Q5978240",
+        "brand:wikipedia": "en:Zenith Bank",
+        "name": "Zenith Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3460822,
+          6.613036
+        ]
+      },
+      "id": "node/6992566358"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992566426",
+        "amenity": "bank",
+        "name": "Union Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3424556,
+          6.6249309
+        ]
+      },
+      "id": "node/6992566426"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6992566427",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "brand:wikipedia": "en:United Bank for Africa",
+        "name": "UBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3429308,
+          6.62441
+        ]
+      },
+      "id": "node/6992566427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6997541303",
+        "amenity": "bank",
+        "brand": "UBA",
+        "brand:wikidata": "Q513457",
+        "brand:wikipedia": "en:United Bank for Africa",
+        "name": "UBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3062737,
+          6.6100497
+        ]
+      },
+      "id": "node/6997541303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6997541308",
+        "amenity": "bank",
+        "name": "Wema Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3064178,
+          6.6109495
+        ]
+      },
+      "id": "node/6997541308"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7000953277",
+        "amenity": "bank",
+        "brand": "Fidelity Bank",
+        "brand:wikidata": "Q5446777",
+        "brand:wikipedia": "en:Fidelity Bank Nigeria",
+        "name": "Fidelity Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3111407,
+          6.6090184
+        ]
+      },
+      "id": "node/7000953277"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7267104676",
+        "amenity": "bank",
+        "name": "Accion"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5032557,
+          6.6175447
+        ]
+      },
+      "id": "node/7267104676"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7272034331",
+        "amenity": "bank",
+        "brand": "Stanbic Bank",
+        "brand:wikidata": "Q7597999",
+        "brand:wikipedia": "en:Stanbic Bank",
+        "name": "Stanbic Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4947665,
+          6.6246497
+        ]
+      },
+      "id": "node/7272034331"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7274712145",
+        "amenity": "bank",
+        "name": "Crowned Eagle Microfinance Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4800991,
+          6.6420198
+        ]
+      },
+      "id": "node/7274712145"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7281004013",
+        "amenity": "bank",
+        "name": "Accion Microfinance Bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4830462,
+          6.6305197
+        ]
+      },
+      "id": "node/7281004013"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7317242741",
+        "amenity": "bank",
+        "brand": "Ecobank",
+        "brand:wikidata": "Q930225",
+        "brand:wikipedia": "en:Ecobank",
+        "name": "Ecobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3611718,
+          6.5251316
+        ]
+      },
+      "id": "node/7317242741"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7480505645",
+        "amenity": "bank",
+        "brand": "Ecobank",
+        "brand:wikidata": "Q930225",
+        "brand:wikipedia": "en:Ecobank",
+        "name": "Ecobank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3402697,
+          6.6313954
+        ]
+      },
+      "id": "node/7480505645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7843612337",
+        "addr:city": "Somolu, Lagos",
+        "addr:postcode": "100231",
+        "addr:street": "Odunlami Street",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Access Bank",
+        "brand:wikidata": "Q4672418",
+        "brand:wikipedia": "en:Access Bank plc",
+        "drive_through": "yes",
+        "name": "Access Bank",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "operator": "Access Bank Group"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3808872,
+          6.5330755
+        ]
+      },
+      "id": "node/7843612337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9321175417",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Polaris Bank",
+        "survey:date": "2022-05-05",
+        "wheelchair": "limited"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3751071,
+          6.5279381
+        ]
+      },
+      "id": "node/9321175417"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9400295917",
+        "amenity": "bank",
+        "atm": "yes",
+        "drive_through": "no",
+        "name": "FirstBank Nig. Plc",
+        "opening_hours": "Tu 08:00-16:00",
+        "survey:date": "2022-01-07",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3711594,
+          6.5209857
+        ]
+      },
+      "id": "node/9400295917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9653831274",
+        "addr:city": "Ikeja",
+        "addr:street": "Kodesoh Street",
+        "amenity": "bank",
+        "atm": "yes",
+        "name": "Polaris Bank Limited",
+        "opening_hours": "Mo-Sa 08:00-18:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3426914,
+          6.59318
+        ]
+      },
+      "id": "node/9653831274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9932502817",
+        "amenity": "bank"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3757771,
+          6.492994
+        ]
+      },
+      "id": "node/9932502817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11121944339",
+        "amenity": "bank",
+        "name": "Stanbic Ibtc Bank Plc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6293152,
+          6.4731672
+        ]
+      },
+      "id": "node/11121944339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11121944340",
+        "amenity": "bank",
+        "name": "FCMB LEKKI CHEVRON BRANCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6290261,
+          6.4722651
+        ]
+      },
+      "id": "node/11121944340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11263343697",
+        "amenity": "bank",
+        "brand": "Crédito Agrícola",
+        "brand:wikidata": "Q10262017",
+        "brand:wikipedia": "pt:Crédito Agrícola",
+        "check_date": "2025-02-08",
+        "name": "Crédito Agrícola",
+        "operator": "Crédito Agrícola",
+        "operator:alt_name": "Caixa de Crédito Agrícola",
+        "operator:wikidata": "Q10262017",
+        "operator:wikipedia": "pt:Crédito Agrícola"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6560751,
+          37.1492418
+        ]
+      },
+      "id": "node/11263343697"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12281540364",
+        "amenity": "bank",
+        "facility_manager": "private/individual",
+        "name": "Sterling Bank",
+        "operator": "private/individual",
+        "source:position": "gps",
+        "status": "functional"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.411897,
+          6.610668
+        ]
+      },
+      "id": "node/12281540364"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13024020870",
+        "addr:city": "Lagos",
+        "addr:postcode": "100272",
+        "addr:street": "Unilag Bookshop Building, University of Lagos, Nigeria.",
+        "amenity": "bank",
+        "atm": "yes",
+        "branch": "Unilag",
+        "drive_through": "no",
+        "name": "EcoBank, Unilag Branch.",
+        "opening_hours": "Mo-Fr 08:00-17:00",
+        "phone": "07041450800"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3972973,
+          6.5186599
+        ]
+      },
+      "id": "node/13024020870"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13111316582",
+        "addr:city": "Lagos",
+        "addr:street": "Tafawa Balewa Way",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "GT Bank",
+        "brand:wikidata": "Q579747",
+        "drive_through": "yes",
+        "name": "GT Bank",
+        "official_name": "Guaranty Trust Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3978353,
+          6.5171228
+        ]
+      },
+      "id": "node/13111316582"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/13111316587",
+        "addr:street": "Ransome Kuti Road",
+        "air_conditioning": "yes",
+        "amenity": "bank",
+        "atm": "yes",
+        "currency:NGN": "yes",
+        "drive_through": "yes",
+        "name": "First Bank",
+        "opening_hours": "Mo-Fr 09:00-17:00",
+        "payment:cash": "yes",
+        "payment:debit_cards": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3907735,
+          6.5127916
+        ]
+      },
+      "id": "node/13111316587"
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:07:56Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/129725828",
+        "amenity": "college",
+        "name": "Saint Gregory's College",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4117795,
+          6.4470211
+        ]
+      },
+      "id": "way/129725828"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/537017565",
+        "amenity": "college",
+        "name": "King's College \"Annex\" Victoria Island Campus",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4261186,
+          6.4362912
+        ]
+      },
+      "id": "way/537017565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/537017586",
+        "addr:city": "Lagos",
+        "addr:housenumber": "11",
+        "addr:street": "Waziri Ibrahim Crescent",
+        "amenity": "college",
+        "name": "Government Junior College Victoria Island",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4133281,
+          6.4334195
+        ]
+      },
+      "id": "way/537017586"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539288427",
+        "addr:city": "Lagos",
+        "addr:street": "Lekki-Epe Expressway",
+        "amenity": "college",
+        "name": "Lagos Business School",
+        "phone": "+234 8025014623",
+        "website": "https://www.lbs.edu.ng/",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6034181,
+          6.4722337
+        ]
+      },
+      "id": "way/539288427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671850885",
+        "addr:street": "Herbert Macaulay Way",
+        "alt_name": "Yabatech",
+        "amenity": "college",
+        "contact:phone": "+234 7037431055",
+        "loc_name": "YabaTech",
+        "name": "Yaba College of Technology",
+        "short_name": "YCT",
+        "surface": "unpaved",
+        "website": "https://www.yabatech.edu.ng/",
+        "wikidata": "Q8046341",
+        "wikipedia": "en:Yaba College of Technology",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3742354,
+          6.5185678
+        ]
+      },
+      "id": "way/671850885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1310649156",
+        "addr:city": "Ikorodu",
+        "addr:postcode": "104102",
+        "addr:street": "Offin Oreta Road",
+        "amenity": "college",
+        "name": "Reri Secoundry School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.518245,
+          6.5391708
+        ]
+      },
+      "id": "way/1310649156"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9932503717",
+        "amenity": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3757771,
+          6.4925463
+        ]
+      },
+      "id": "node/9932503717"
+    }
+  ]
+}

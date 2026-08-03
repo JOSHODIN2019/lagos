@@ -1,0 +1,280 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T09:58:42Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/500786058",
+        "amenity": "university",
+        "name": "Lagos State Polytechnic",
+        "short_name": "LASPOTECH",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3338608,
+          6.5294947
+        ]
+      },
+      "id": "way/500786058"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/534108660",
+        "addr:city": "Lagos",
+        "addr:street": "Ozumba Mbadiwe Rd",
+        "amenity": "university",
+        "name": "Nigerian Law School",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4277646,
+          6.4383372
+        ]
+      },
+      "id": "way/534108660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/539288366",
+        "amenity": "university",
+        "loc_name": "UNILAG",
+        "name": "University of Lagos",
+        "wikidata": "Q1782980",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3941414,
+          6.5120106
+        ]
+      },
+      "id": "way/539288366"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591396726",
+        "amenity": "university",
+        "name": "Lagos State University",
+        "short_name": "LASU",
+        "website": "https://www.lasu.edu.ng/",
+        "wikidata": "Q849611",
+        "wikipedia": "en:Lagos State University",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1999544,
+          6.4737889
+        ]
+      },
+      "id": "way/591396726"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/591626838",
+        "addr:city": "Lagos",
+        "addr:housenumber": "14/16",
+        "addr:street": "Ahmadu Bello Way",
+        "amenity": "university",
+        "name": "National Open University of Nigeria",
+        "short_name": "NOUN",
+        "wikidata": "Q6974654",
+        "wikipedia": "en:National Open University of Nigeria",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4095826,
+          6.4342208
+        ]
+      },
+      "id": "way/591626838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707253868",
+        "amenity": "university",
+        "name": "Digital Bridge Institute",
+        "short_name": "DBI",
+        "website": "https://dbi.edu.ng",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3523301,
+          6.5486381
+        ]
+      },
+      "id": "way/707253868"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707603779",
+        "amenity": "university",
+        "name": "Anchor University",
+        "website": "https://aul.edu.ng/",
+        "wikidata": "Q22079793",
+        "wikipedia": "en:Anchor University",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2426859,
+          6.6023923
+        ]
+      },
+      "id": "way/707603779"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/735021280",
+        "amenity": "university",
+        "name": "Federal College of Education (Technical), Akoka",
+        "website": "https://nce.fcet-akoka.edu.ng",
+        "wikidata": "Q25203437",
+        "wikipedia": "en:Federal College of Education (Technical), Akoka",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.383832,
+          6.5214802
+        ]
+      },
+      "id": "way/735021280"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746264215",
+        "alt_name": "LASPOTECH",
+        "amenity": "university",
+        "name": "Lagos State Polytechnic",
+        "short_name": "LASPOTECH",
+        "website": "https://mylaspotech.edu.ng/",
+        "wikidata": "Q23216911",
+        "wikipedia": "en:Lagos State Polytechnic",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5274952,
+          6.6405947
+        ]
+      },
+      "id": "way/746264215"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/746433946",
+        "addr:city": "Lagos",
+        "addr:street": "Lekki-Epe Expressway",
+        "amenity": "university",
+        "contact:phone": "+234 816 482 0228",
+        "name": "Pan-Atlantic University",
+        "website": "https://pau.edu.ng/",
+        "wikidata": "Q7129474",
+        "wikipedia": "en:Pan-Atlantic University",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8557101,
+          6.4854875
+        ]
+      },
+      "id": "way/746433946"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/747460531",
+        "amenity": "university",
+        "name": "Caleb University",
+        "website": "https://calebuniversity.edu.ng/",
+        "wikidata": "Q5019318",
+        "wikipedia": "en:Caleb University",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6368725,
+          6.6690422
+        ]
+      },
+      "id": "way/747460531"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11730938047",
+        "addr:city": "lagos",
+        "addr:housenumber": "15",
+        "addr:street": "Old Lagos Road",
+        "amenity": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "Prof. Idowu Sobowale School of Communication",
+        "operator": "Caleb University",
+        "operator:type": "university",
+        "website": "https://www.calebuniversity.edu.ng/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6365782,
+          6.6685159
+        ]
+      },
+      "id": "node/11730938047"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11730994887",
+        "addr:city": "lagos",
+        "addr:housenumber": "15",
+        "addr:street": "Old Lagos Road",
+        "amenity": "university",
+        "internet_access": "yes",
+        "internet_access:fee": "customers",
+        "name": "College of Enivornmental Sciences and Management",
+        "operator": "Caleb University",
+        "operator:type": "university",
+        "website": "https://www.calebuniversity.edu.ng/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.6386432,
+          6.6708623
+        ]
+      },
+      "id": "node/11730994887"
+    }
+  ]
+}

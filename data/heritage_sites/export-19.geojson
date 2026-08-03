@@ -1,0 +1,497 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:11:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92964080",
+        "building": "yes",
+        "name": "Palácio dos Governadores",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6701389,
+          37.0998862
+        ]
+      },
+      "id": "way/92964080"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/94750303",
+        "alt_name": "Forte de São Roque de Lagos;Forte de São Roque",
+        "barrier": "city_wall",
+        "heritage": "2",
+        "heritage:operator": "dgpc",
+        "heritage:ref": "MIP",
+        "heritage:website": "https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70084",
+        "heritage:website:sipa": "http://monumentos.pt/Site/APP_PagesUser/SIPA.aspx?id=2840",
+        "historic": "fort",
+        "name": "Forte da Meia Praia",
+        "note": "Info: https://servicos.dgpc.gov.pt/pesquisapatrimonioimovel/detalhes.php?code=70084",
+        "operator": "Guarda Nacional Repúblicana (Antiga Guarda Fiscal)",
+        "protection_title": "Monumento de Interesse Público",
+        "ref:dgpc": "70084",
+        "ref:ipa": "2840",
+        "site_status": "Classificado",
+        "source:ref": "https://dre.pt/application/file/66734714",
+        "tourism": "attraction",
+        "wikidata": "Q10283728",
+        "wikipedia": "pt:Forte da Meia Praia",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6473467,
+          37.1174693
+        ]
+      },
+      "id": "way/94750303"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/233089724",
+        "access": "private",
+        "bridge": "yes",
+        "highway": "footway",
+        "layer": "1",
+        "name": "Ponte do Antigo Forte do Pinhão",
+        "note": "private area - no public access",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6669968,
+          37.0957785
+        ]
+      },
+      "id": "way/233089724"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/373743348",
+        "geological": "karst",
+        "geological:site": "geosite",
+        "name": "Carso Litoral da Ponta da Piedade",
+        "natural": "bare_rock",
+        "official_name": "Carso litoral da Ponta da Piedade, Ponta de João Arens e Carvoeiro",
+        "place": "locality",
+        "tourism": "attraction",
+        "website": "https://geossitios.progeo.pt/geosites/carso-litoral-da-ponta-da-piedade-ponta-de-joao-arens-e-carvoeiro",
+        "wikidata": "Q2103673",
+        "wikimedia_commons": "Category:Ponta da Piedade",
+        "wikipedia": "en:Ponta da Piedade",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6711892,
+          37.0831221
+        ]
+      },
+      "id": "way/373743348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/610011158",
+        "amenity": "nightclub",
+        "name": "New Afrika Shrine",
+        "tourism": "attraction",
+        "wikidata": "Q25045334",
+        "wikipedia": "en:New Afrika Shrine",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3568854,
+          6.6228654
+        ]
+      },
+      "id": "way/610011158"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1191372255",
+        "addr:city": "Odiáxere",
+        "area": "yes",
+        "name": "Algarve Kite Center",
+        "operator": "https://algarvekitecenter.com/",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6196422,
+          37.1303822
+        ]
+      },
+      "id": "way/1191372255"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1376664956",
+        "geological": "volcanic_lava_tube",
+        "geological:site": "geosite",
+        "name": "Rocha Negra",
+        "natural": "bare_rock",
+        "place": "locality",
+        "source": "https://www.researchgate.net/publication/279441866_Luz_beach_magmatism_a_geosite_regarded_as_a_local_and_regional_factor_in_the_heritage_economic_and_touristic_development",
+        "tourism": "attraction",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7164095,
+          37.0852864
+        ]
+      },
+      "id": "way/1376664956"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3995964162",
+        "disused": "yes",
+        "historic": "pillory",
+        "name": "Pelourinho de Lagos",
+        "start_date": "C16",
+        "tourism": "attraction",
+        "wikidata": "Q10348121",
+        "wikipedia": "pt:Pelourinho de Lagos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6711081,
+          37.0995187
+        ]
+      },
+      "id": "node/3995964162"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755886706",
+        "name": "Lighthouse Beach",
+        "name:en": "Lighthouse Beach",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3918804,
+          6.3942453
+        ]
+      },
+      "id": "node/4755886706"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5538723221",
+        "name": "Agaja beach",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.1668099,
+          6.4034252
+        ]
+      },
+      "id": "node/5538723221"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5566338129",
+        "name": "Wake Salinas",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6756376,
+          37.1215917
+        ]
+      },
+      "id": "node/5566338129"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5807150853",
+        "name": "Kitesurfing Spot",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6308565,
+          37.1258632
+        ]
+      },
+      "id": "node/5807150853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6047624185",
+        "name": "Réplica da Caravela Boa Esperança",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6730095,
+          37.1060281
+        ]
+      },
+      "id": "node/6047624185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6711030886",
+        "addr:postcode": "8600-302",
+        "addr:street": "Estrada da Albadeira",
+        "email": "info@algarvewatersport.com",
+        "name": "Algarve Watersport",
+        "phone": "+351 960 460 800",
+        "tourism": "attraction",
+        "website": "https://www.algarvewatersport.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6684186,
+          37.1164073
+        ]
+      },
+      "id": "node/6711030886"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7124561743",
+        "name": "Passeio às grutas",
+        "tourism": "attraction"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6696062,
+          37.0913289
+        ]
+      },
+      "id": "node/7124561743"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8010904702",
+        "attraction": "train",
+        "name": "6 Meia Praia Vila Galé - Comboio Turistico",
+        "public_transport": "platform",
+        "tourism": "attraction",
+        "website": "http://touristtrainlagos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6618279,
+          37.111549
+        ]
+      },
+      "id": "node/8010904702"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8010904703",
+        "attraction": "train",
+        "name": "7 Meia Praia Dom Pedro - Comboio Turistico",
+        "public_transport": "platform",
+        "tourism": "attraction",
+        "website": "http://touristtrainlagos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6593104,
+          37.1129197
+        ]
+      },
+      "id": "node/8010904703"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/8010904704",
+        "attraction": "train",
+        "name": "8 Meia Praia Iberostar Hotel - Comboio Turistico",
+        "public_transport": "platform",
+        "tourism": "attraction",
+        "website": "http://touristtrainlagos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6523478,
+          37.1168065
+        ]
+      },
+      "id": "node/8010904704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10074663370",
+        "attraction": "train",
+        "name": "9 Meia Praia Forte São Roque - Comboio Turistico",
+        "public_transport": "platform",
+        "tourism": "attraction",
+        "website": "http://touristtrainlagos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6487511,
+          37.1184416
+        ]
+      },
+      "id": "node/10074663370"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10074691259",
+        "attraction": "train",
+        "bench": "no",
+        "bin": "no",
+        "lit": "yes",
+        "name": "1 Marina - Comboio Turistico",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "tourism": "attraction",
+        "website": "http://touristtrainlagos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6736846,
+          37.1080978
+        ]
+      },
+      "id": "node/10074691259"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10074709982",
+        "attraction": "train",
+        "name": "2 Avenida dos Descobrimentos - Comboio Turistico",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tourism": "attraction",
+        "website": "http://touristtrainlagos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6718655,
+          37.1027689
+        ]
+      },
+      "id": "node/10074709982"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10074709983",
+        "attraction": "train",
+        "bench": "yes",
+        "bin": "yes",
+        "name": "5 Avenida dos Descobrimentos - Comboio Turistico",
+        "public_transport": "platform",
+        "shelter": "yes",
+        "tactile_paving": "no",
+        "tourism": "attraction",
+        "website": "http://touristtrainlagos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6720752,
+          37.1033391
+        ]
+      },
+      "id": "node/10074709983"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10074774152",
+        "attraction": "train",
+        "bench": "no",
+        "name": "4 Praia Dona Ana - Comboio Turistico",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tourism": "attraction",
+        "website": "http://touristtrainlagos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6700044,
+          37.0914429
+        ]
+      },
+      "id": "node/10074774152"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10074790254",
+        "attraction": "train",
+        "bench": "no",
+        "bin": "no",
+        "lit": "no",
+        "name": "3 Ponta da Piedade - Comboio Turistico",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no",
+        "tourism": "attraction",
+        "website": "http://touristtrainlagos.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.669437,
+          37.0811197
+        ]
+      },
+      "id": "node/10074790254"
+    }
+  ]
+}

@@ -1,0 +1,402 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:04:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/981038963",
+        "building": "yes",
+        "name": "Asiwaju Bola Tinubu Station",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3688659,
+          6.4520012
+        ]
+      },
+      "id": "way/981038963"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1157159790",
+        "building": "yes",
+        "construction": "yes",
+        "name": "Agege LRMT Station",
+        "operator": "LAMATA",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3258341,
+          6.6214964
+        ]
+      },
+      "id": "way/1157159790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321599125",
+        "name": "Marina Train Station",
+        "network": "LRMT Blue Line",
+        "operator": "LAMATA",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3948231,
+          6.4461311
+        ]
+      },
+      "id": "way/1321599125"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1322974000",
+        "name": "Iganmu",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3431438,
+          6.4775221
+        ]
+      },
+      "id": "way/1322974000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1322975309",
+        "name": "Alaba",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3243962,
+          6.4643169
+        ]
+      },
+      "id": "way/1322975309"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1322975948",
+        "name": "Mile 2",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3116326,
+          6.4598768
+        ]
+      },
+      "id": "way/1322975948"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4561570123",
+        "name": "Lagos",
+        "name:en": "Lagos Train Station",
+        "name:fr": "Gare de Lagos",
+        "nat_ref": "90464",
+        "official_name": "Estação Ferroviária de Lagos",
+        "operator": "Infraestruturas de Portugal",
+        "operator:short": "IP",
+        "operator:wikidata": "Q20730106",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:ref": "LAG",
+        "train": "yes",
+        "wheelchair": "yes",
+        "wikidata": "Q8780001",
+        "wikipedia": "pt:Estação Ferroviária de Lagos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.6712947,
+          37.1083314
+        ]
+      },
+      "id": "node/4561570123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10776098576",
+        "name": "Marina",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3950293,
+          6.4461596
+        ]
+      },
+      "id": "node/10776098576"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10777382244",
+        "name": "Iganmu",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3431174,
+          6.4775535
+        ]
+      },
+      "id": "node/10777382244"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10777382245",
+        "name": "Mile 2",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3117268,
+          6.4599295
+        ]
+      },
+      "id": "node/10777382245"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10777382246",
+        "name": "Alaba",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.324479,
+          6.4643875
+        ]
+      },
+      "id": "node/10777382246"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10777382247",
+        "name": "National Theatre",
+        "public_transport": "station",
+        "railway": "station",
+        "station": "subway",
+        "subway": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3687699,
+          6.4746792
+        ]
+      },
+      "id": "node/10777382247"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12260658320",
+        "alt_name": "Ebute Metta Station",
+        "name": "Mobolaji Johnson Station",
+        "public_transport": "station",
+        "railway": "station",
+        "start_date": "2021-06-10",
+        "train": "yes",
+        "wikidata": "Q110571183"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3736846,
+          6.5017657
+        ]
+      },
+      "id": "node/12260658320"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12260658321",
+        "name": "Iju",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q130542219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3192707,
+          6.6620776
+        ]
+      },
+      "id": "node/12260658321"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12260658323",
+        "name": "Agege",
+        "operator": "LAMATA",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3261746,
+          6.619459
+        ]
+      },
+      "id": "node/12260658323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12260658324",
+        "name": "Oyingbo",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q130542160"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3814602,
+          6.48343
+        ]
+      },
+      "id": "node/12260658324"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12260658329",
+        "name": "Yaba",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3699982,
+          6.5114693
+        ]
+      },
+      "id": "node/12260658329"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12260658330",
+        "name": "Mushin",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3614254,
+          6.5324821
+        ]
+      },
+      "id": "node/12260658330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12260658336",
+        "name": "Oshodi",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q130542196"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3514068,
+          6.5572533
+        ]
+      },
+      "id": "node/12260658336"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/12260658337",
+        "name": "Ikeja",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "wikidata": "Q130542201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3373455,
+          6.5919092
+        ]
+      },
+      "id": "node/12260658337"
+    }
+  ]
+}

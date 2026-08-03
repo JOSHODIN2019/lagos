@@ -1,0 +1,790 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-25T10:03:51Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/92924433",
+        "alt_name": "Terminal Rodoviário - EVA - Expressos",
+        "amenity": "bus_station",
+        "building": "yes",
+        "bus": "yes",
+        "check_date": "2023-10-09",
+        "internet_access": "wlan",
+        "name": "Terminal Rodoviário",
+        "name:fr": "Terminal Bus",
+        "opening_hours": "Mo-Fr 08:00-18:00; Sa-Su,PH 08:00-13:00,14:00-16:30",
+        "operator": "EVA transportes s.a.",
+        "public_transport": "station",
+        "wheelchair": "limited",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.676391,
+          37.1072314
+        ]
+      },
+      "id": "way/92924433"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671811998",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Ikorodu Bus Terminal",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5019873,
+          6.6211824
+        ]
+      },
+      "id": "way/671811998"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671812228",
+        "amenity": "bus_station",
+        "name": "Mile 12 Bus Terminal",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3996014,
+          6.6054707
+        ]
+      },
+      "id": "way/671812228"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/671991257",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Tafawa Balewa Square Bus Terminal",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4009949,
+          6.4457171
+        ]
+      },
+      "id": "way/671991257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/693552184",
+        "amenity": "bus_station",
+        "building": "yes",
+        "building:levels": "5",
+        "bus": "yes",
+        "description": "Intercity Buses",
+        "name": "Oshodi Transport Interchange - Terminal 1",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3512365,
+          6.5549164
+        ]
+      },
+      "id": "way/693552184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/693552185",
+        "amenity": "bus_station",
+        "building": "yes",
+        "building:levels": "5",
+        "bus": "yes",
+        "description": "Buses to Lagos West",
+        "name": "Oshodi Transport Interchange - Terminal 2",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3508371,
+          6.5558137
+        ]
+      },
+      "id": "way/693552185"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/693552186",
+        "amenity": "bus_station",
+        "building": "yes",
+        "building:levels": "5",
+        "bus": "yes",
+        "description": "Buses to Lagos East",
+        "name": "Oshodi Transport Interchange - Terminal 3",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3527121,
+          6.5565932
+        ]
+      },
+      "id": "way/693552186"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/704979167",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Ikeja Bus Terminal",
+        "public_transport": "station",
+        "wikidata": "Q55614308",
+        "wikipedia": "en:Ikeja Bus Terminal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3389089,
+          6.5913427
+        ]
+      },
+      "id": "way/704979167"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/706089072",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Oyingbo Bus Terminal",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3829185,
+          6.4808714
+        ]
+      },
+      "id": "way/706089072"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707240101",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Unilag Shuttle Bus Station",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3948449,
+          6.5184219
+        ]
+      },
+      "id": "way/707240101"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/707609369",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Yaba Bus Terminal",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3707987,
+          6.5108145
+        ]
+      },
+      "id": "way/707609369"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734438177",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2995352,
+          6.6177716
+        ]
+      },
+      "id": "way/734438177"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/734438184",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3015609,
+          6.6203217
+        ]
+      },
+      "id": "way/734438184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738528609",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Obalende Bus Terminus",
+        "name:en": "Obalende Bus Terminus",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.408711,
+          6.4495785
+        ]
+      },
+      "id": "way/738528609"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/738682066",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Igando",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2410528,
+          6.5515807
+        ]
+      },
+      "id": "way/738682066"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/747160992",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3987707,
+          6.6055342
+        ]
+      },
+      "id": "way/747160992"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/787313504",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2706408,
+          6.672253
+        ]
+      },
+      "id": "way/787313504"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1144287447",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Mafoluku Bus Terminal",
+        "public_transport": "station",
+        "wikidata": "Q107313445",
+        "wikipedia": "en:Mafoluku Bus Terminal",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3242665,
+          6.5557377
+        ]
+      },
+      "id": "way/1144287447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1278524425",
+        "addr:city": "Surulere",
+        "addr:postcode": "101241",
+        "addr:street": "Costain, Western Avenue",
+        "amenity": "bus_station",
+        "bicycle": "yes",
+        "bus": "yes",
+        "departures_board": "yes",
+        "foot": "yes",
+        "motor_vehicle": "yes",
+        "name": "Costain Bus stop",
+        "public_transport": "station",
+        "surface": "asphalt",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3693166,
+          6.4818513
+        ]
+      },
+      "id": "way/1278524425"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321707672",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3434118,
+          6.5762329
+        ]
+      },
+      "id": "way/1321707672"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321707835",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3416926,
+          6.5804734
+        ]
+      },
+      "id": "way/1321707835"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321708000",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3453983,
+          6.5713414
+        ]
+      },
+      "id": "way/1321708000"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321709197",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3385571,
+          6.5881961
+        ]
+      },
+      "id": "way/1321709197"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321709319",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3354335,
+          6.595834
+        ]
+      },
+      "id": "way/1321709319"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321785654",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.479059,
+          6.620123
+        ]
+      },
+      "id": "way/1321785654"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321834204",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.318993,
+          6.607008
+        ]
+      },
+      "id": "way/1321834204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321835039",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3269586,
+          6.6080911
+        ]
+      },
+      "id": "way/1321835039"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321836890",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2996939,
+          6.629289
+        ]
+      },
+      "id": "way/1321836890"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321837211",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Ile-Epo Bus Stop",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.301423,
+          6.6337588
+        ]
+      },
+      "id": "way/1321837211"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321838523",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Katangua Bus Stop",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3046644,
+          6.6420831
+        ]
+      },
+      "id": "way/1321838523"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1321839817",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2998161,
+          6.6206392
+        ]
+      },
+      "id": "way/1321839817"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323241558",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3495457,
+          6.5611423
+        ]
+      },
+      "id": "way/1323241558"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/1323280714",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "public_transport": "station",
+        "@geometry": "center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3052905,
+          6.6119449
+        ]
+      },
+      "id": "way/1323280714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2583682650",
+        "amenity": "bus_station",
+        "name": "Ogba Bus Park"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3417422,
+          6.6325013
+        ]
+      },
+      "id": "node/2583682650"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3085114191",
+        "amenity": "bus_station",
+        "name": "Ikotun Terminal"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2677866,
+          6.548011
+        ]
+      },
+      "id": "node/3085114191"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3085114204",
+        "amenity": "bus_station",
+        "name": "Ikotun Bus Station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2679981,
+          6.5493778
+        ]
+      },
+      "id": "node/3085114204"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4755897332",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Obalende Motor Park",
+        "name:en": "Obalende Motor Park",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.4073759,
+          6.4496353
+        ]
+      },
+      "id": "node/4755897332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4932079181",
+        "amenity": "bus_station",
+        "description": "Bus-Stop",
+        "name": "Liberty Bus-Stop"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.2664893,
+          6.6129532
+        ]
+      },
+      "id": "node/4932079181"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6371384382",
+        "amenity": "bus_station",
+        "bus": "yes",
+        "name": "Igbogbo Bus Terminus",
+        "operator": "Lagos state Govt",
+        "public_transport": "station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.5185824,
+          6.5891618
+        ]
+      },
+      "id": "node/6371384382"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9932502617",
+        "amenity": "bus_station"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.3757771,
+          6.4934417
+        ]
+      },
+      "id": "node/9932502617"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11446109284",
+        "amenity": "bus_station",
+        "bench": "no",
+        "bin": "no",
+        "bus": "yes",
+        "fixme": "Verify position, unclear where the bus will stop.",
+        "highway": "bus_stop",
+        "name": "Montinhos da Luz",
+        "public_transport": "platform",
+        "shelter": "no",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.7506526,
+          37.0849613
+        ]
+      },
+      "id": "node/11446109284"
+    }
+  ]
+}
