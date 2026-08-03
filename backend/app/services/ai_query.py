@@ -3,10 +3,15 @@ Stage 08
 Step 01
 
 Purpose:
-The AI Query Interpreter: a user's plain-English question -> a local LLM
-(Ollama, free/offline — see Section 5's "free technologies only" rule)
+The AI Query Interpreter: a user's plain-English question -> an LLM
 translates it into Cypher -> the query runs against the Stage 07 knowledge
 graph -> results are formatted back into a plain-language answer.
+
+Locally this is Ollama (free/offline — see Section 5's "free technologies
+only" rule). Render's free tier has no RAM for a local model server, so the
+deployed backend instead points LLM_PROVIDER at Groq's free-tier hosted API
+(Stage 12) — same prompt, same validation, only where the Cypher text is
+generated from differs.
 
 Security-by-design: the schema shown to the model, and the queries it's
 allowed to run, are restricted to the public POI/Category/LGA graph only.
@@ -18,7 +23,7 @@ import re
 
 import requests
 
-from app.config import OLLAMA_MODEL, OLLAMA_URL
+from app.config import GROQ_API_KEY, GROQ_MODEL, GROQ_URL, LLM_PROVIDER, OLLAMA_MODEL, OLLAMA_URL
 from app.services.db import driver
 from app.services.graph_ingest import LGA_CENTROIDS
 from app.services.layers import LAYERS
@@ -99,10 +104,7 @@ def _validate_cypher(cypher: str) -> None:
         raise UnsafeQueryError(f"Generated query referenced disallowed labels: {labels - ALLOWED_LABEL_SET}")
 
 
-def generate_cypher(question: str, retry_hint: str = "") -> str:
-    prompt = SYSTEM_PROMPT.replace("{question}", question)
-    if retry_hint:
-        prompt += f"\n\n{retry_hint}\n\nQ: {question}\n"
+def _generate_cypher_ollama(prompt: str) -> str:
     response = requests.post(
         f"{OLLAMA_URL}/api/generate",
         json={
@@ -114,7 +116,30 @@ def generate_cypher(question: str, retry_hint: str = "") -> str:
         timeout=30,
     )
     response.raise_for_status()
-    return _extract_cypher(response.json()["response"])
+    return response.json()["response"]
+
+
+def _generate_cypher_groq(prompt: str) -> str:
+    response = requests.post(
+        GROQ_URL,
+        headers={"Authorization": f"Bearer {GROQ_API_KEY}"},
+        json={
+            "model": GROQ_MODEL,
+            "messages": [{"role": "user", "content": prompt}],
+            "temperature": 0,
+        },
+        timeout=30,
+    )
+    response.raise_for_status()
+    return response.json()["choices"][0]["message"]["content"]
+
+
+def generate_cypher(question: str, retry_hint: str = "") -> str:
+    prompt = SYSTEM_PROMPT.replace("{question}", question)
+    if retry_hint:
+        prompt += f"\n\n{retry_hint}\n\nQ: {question}\n"
+    raw = _generate_cypher_groq(prompt) if LLM_PROVIDER == "groq" else _generate_cypher_ollama(prompt)
+    return _extract_cypher(raw)
 
 
 def _run_read_query(cypher: str) -> list[dict]:

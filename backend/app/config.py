@@ -39,6 +39,21 @@ if JWT_SECRET == _INSECURE_DEFAULT_JWT_SECRET:
 OLLAMA_URL = os.environ.get("OLLAMA_URL", "http://localhost:11434")
 OLLAMA_MODEL = os.environ.get("OLLAMA_MODEL", "llama3.2:3b")
 
+# Stage 12 — deployed hosting (Render's free tier) has no RAM to spare for
+# a local model server, so production swaps to Groq's free-tier hosted API
+# instead. Same prompt, same validation — only where the Cypher text comes
+# from changes. LLM_PROVIDER stays "ollama" for local dev by default.
+LLM_PROVIDER = os.environ.get("LLM_PROVIDER", "ollama").strip().lower()
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+GROQ_URL = os.environ.get("GROQ_URL", "https://api.groq.com/openai/v1/chat/completions")
+GROQ_MODEL = os.environ.get("GROQ_MODEL", "llama-3.1-8b-instant")
+
+if LLM_PROVIDER == "groq" and not GROQ_API_KEY:
+    logger.warning(
+        "LLM_PROVIDER is 'groq' but GROQ_API_KEY is unset — the AI query "
+        "interpreter will fail until it's set."
+    )
+
 # Stage 09 — admin access is an email allowlist, not a stored/mutable
 # database flag. There's no admin-management UI in this project, so a
 # mutable is_admin column would be a privilege-escalation surface with no
