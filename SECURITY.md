@@ -58,14 +58,22 @@ localhost.
 - **CORS**: explicit-origin allowlist (`CORS_ORIGINS` env var) takes
   priority when set; otherwise falls back to a permissive "any localhost
   port" regex, since the frontend's dev port isn't fixed. The regex
-  fallback is fine for local dev, **not** for anything beyond it.
+  fallback is fine for local dev, **not** for anything beyond it. The
+  live deployment sets `CORS_ORIGINS` to the exact Vercel origin.
+- **Production LLM provider**: the live deployment sets `LLM_PROVIDER=groq`
+  since Render's free tier has no RAM for a local Ollama model server —
+  same prompt and validation as local dev, only the HTTP call target
+  differs. See `backend/app/services/ai_query.py`.
 
 ## Not implemented — explicitly out of scope
 
 - **Secure uploads**: N/A — this app has no file upload feature anywhere.
 - **Rate limiting**: not implemented on any endpoint (login, signup, the
-  AI query interpreter). Acceptable for a local demo with no public
-  exposure; would be a real gap before any public deployment.
+  AI query interpreter) at the application level. Now that this app is
+  genuinely live (Stage 12), that gap is real, not hypothetical — Groq's
+  own free-tier rate limits provide a backstop for the AI endpoint
+  specifically, but auth endpoints have none. This is the top item to
+  close before treating this as more than a demo.
 - **Real screen-reader/VoiceOver testing**: Stage 10's accessibility work
   was verified via DOM semantics and manual reasoning, not an actual
   assistive-technology run.

@@ -1,5 +1,10 @@
 # Lagos Explorer
 
+**Live:** [lagos-explorer.vercel.app](https://lagos-explorer.vercel.app) (frontend, Vercel) ·
+[lagos-explorer-api.onrender.com](https://lagos-explorer-api.onrender.com) (backend, Render) —
+both on free tiers. The AI query interpreter runs on Groq's free-tier API in this deployment
+instead of local Ollama (see Stage 12 in `PROJECT_MEMORY.md` and `LLM_PROVIDER` below).
+
 An interactive civic/points-of-interest map platform for Lagos, Nigeria —
 browse hospitals, schools, transport, banks, and more on a live map;
 search; save places; report civic issues; ask questions in plain English

@@ -590,8 +590,48 @@ tourism & heritage).
 
 **Current Stage:** Stage 11 — Security, Testing & Deployment Prep (built, pending approval).
 
-**Next Stage:** None — this was the last stage. Remaining: user approval, then explicit
-go-ahead to push the local `main` branch to GitHub (JOSHODIN2019, per reference memory).
+**Next Stage:** None — this was the last planned stage.
+
+- Stage 12 (unplanned — user-requested "go live") — Deployment to Render + Vercel, kept free.
+  Pushed local `main` to GitHub (`JOSHODIN2019/lagos`, public) with user's explicit approval.
+  **Database**: created a Neo4j AuraDB Free instance (`lagos-explorer`, permanent free tier,
+  confirmed not the 14-day Professional trial); ran `ingest_data.py` against it — 3,120 POIs
+  across 18 categories loaded successfully. **AI Query Interpreter**: Render's free web-service
+  tier (512MB RAM) can't run Ollama, so — with the user's explicit choice among three options —
+  added `LLM_PROVIDER` config (`backend/app/config.py`, `backend/app/services/ai_query.py`)
+  that swaps the NL→Cypher generation call from local Ollama to Groq's free-tier hosted API
+  (`llama-3.1-8b-instant`) when set to `"groq"`; local dev still defaults to `"ollama"`. Same
+  prompt, same three-layer Cypher safety validation — verified directly (both a real question
+  and a "delete all hospitals" attempt, which was correctly blocked) before deploying.
+  **Backend**: deployed to Render as a free web service (`lagos-explorer-api`, Oregon region)
+  from the GitHub repo, root dir `backend`; found and fixed a wrong health-check path
+  (`/health` → the actual `/api/health`) before first deploy. **Frontend**: deployed to Vercel
+  (`lagos-explorer`, `josh-academy` team) as a new project, `NEXT_PUBLIC_API_BASE_URL` wired to
+  the Render backend URL. **CORS**: `CORS_ORIGINS` set to the live Vercel origin. **Admin**:
+  `ADMIN_EMAILS` set to the user's email (added by the user directly in the Render dashboard,
+  since the CLI has no env-var-update command and the service was already live — recreating it
+  again was correctly blocked by the safety classifier as a destructive action on a running
+  resource). **Caught during verification**: the first live deploy still called Ollama at
+  `localhost:11434` and failed — root cause was that the Groq code changes had been made
+  locally but never committed/pushed, so Render was building an older commit; fixed by
+  committing and pushing, which triggered a correct auto-redeploy. **Full regression pass
+  against the live URLs** (not just localhost): health, layers, search, nearby, signup, login,
+  saved places, citizen reports (with real SHA-256 proof hash), admin stats/reports (as the
+  now-admin user), and the AI query interpreter (both a real question and the blocked
+  destructive one) — all passed. Frontend confirmed serving (200, correct `<title>`).
+  Secrets (Neo4j password, Groq key, JWT secret) were only ever placed in Render/Vercel
+  environment variables, never written to a committed file.
+
+**Live URLs:** Frontend `https://lagos-explorer.vercel.app` · Backend
+`https://lagos-explorer-api.onrender.com` · Repo `https://github.com/JOSHODIN2019/lagos`
+
+**Current Stage:** Stage 12 — Deployment (live, pending final user confirmation of the
+in-browser experience).
+
+**Next Stage:** None. Optional follow-ups noted in `SECURITY.md`'s "before deployment"
+checklist that are still open now that this is genuinely live beyond localhost: rate limiting
+on auth/AI endpoints in particular (currently mitigated somewhat by Groq's own free-tier rate
+limits, but not by this app itself).
 
 This roadmap is fixed for planning purposes but stages are still built and approved one at a
 time — nothing beyond the current stage is implemented in advance.
