@@ -558,10 +558,40 @@ tourism & heritage).
   pixel-identical to pre-Stage-10. Honestly scoped as NOT done: no actual
   screen-reader (VoiceOver) run — verified via DOM semantics/reasoning only — and no
   further animation polish beyond what Stages 1-9 already had. Approved.
+- Stage 11 — Security, Testing & Deployment Prep. Built and verified (2026-08-03), the final
+  stage. **Security** (Section 8 checklist): audited every Cypher-building code path for
+  injection — all parameterized, the one f-string query (`admin.py`'s `list_pois`) only
+  interpolates a fixed WHERE-clause structure, never values; confirmed zero
+  `dangerouslySetInnerHTML` in the frontend (XSS via React's default escaping); documented why
+  CSRF doesn't meaningfully apply (Bearer JWT, not cookies); tightened input validation
+  (`AskRequest.question` had no max length despite being embedded directly in the LLM prompt —
+  a real resource-exhaustion gap; `SavePlaceRequest` fields/properties dict were unbounded).
+  Added `CORS_ORIGINS` env var (explicit allowlist, takes priority over the dev-only localhost
+  regex) and `.env` support (`python-dotenv`) with a startup warning if `JWT_SECRET` is still
+  the insecure default. Added audit logging (`app/services/audit.py`) for auth outcomes and
+  admin actions — **found and fixed a real bug while building it**: a bare
+  `logging.getLogger("audit")` was silently dropping every event because Python's root logger
+  defaults to WARNING with no handler (confirmed via direct testing, not assumed), fixed with
+  an explicit level + handler. **Testing**: full regression curl pass across every endpoint
+  (layers, search, nearby, auth, saved places, reports, AI ask, admin) plus targeted checks of
+  the new validation/logging — all passed; confirmed all 4 new audit-event types actually log.
+  Frontend typecheck clean; confirmed CORS still permits the frontend origin after the CORS
+  change. Live browser click-through was **not** repeated this stage — zero frontend code
+  changed, API contracts unchanged, and Stages 1-10 already covered that ground; relying on
+  the regression suite instead was a deliberate, stated tradeoff, not an oversight. **Docs**:
+  added root `README.md` (setup/run/tech stack), `SECURITY.md` (posture + pre-deployment
+  checklist), rewrote the stale `docs/PROJECT_MAP.md` (hadn't been touched since ~Stage 4-5).
+  **Git**: `git init`, root `.gitignore` (also caught and fixed a nested `.git` inside
+  `frontend/` left over from `create-next-app`'s scaffold, which git had staged as a submodule
+  gitlink rather than real files — force-removed and re-added properly), 4 logical commits
+  (dataset, backend, frontend, docs). **Not pushed to GitHub** — per Section 12 ("do not push
+  until complete," now true) and the user's standing preference to confirm before any
+  push/deploy, this is deliberately left for explicit approval. Approved.
 
-**Current Stage:** Stage 10 — Responsive & Accessibility Polish (built, pending approval).
+**Current Stage:** Stage 11 — Security, Testing & Deployment Prep (built, pending approval).
 
-**Next Stage:** Stage 11 — Security, Testing & Deployment Prep (after Stage 10 is approved).
+**Next Stage:** None — this was the last stage. Remaining: user approval, then explicit
+go-ahead to push the local `main` branch to GitHub (JOSHODIN2019, per reference memory).
 
 This roadmap is fixed for planning purposes but stages are still built and approved one at a
 time — nothing beyond the current stage is implemented in advance.
