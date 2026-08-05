@@ -31,6 +31,40 @@ from app.services.layers import LAYERS
 CATEGORY_IDS = ", ".join(f'"{layer.id}"' for layer in LAYERS)
 LGA_NAMES = ", ".join(f'"{name}"' for name in LGA_CENTROIDS)
 
+# Stage 12 fix: users naturally ask about well-known neighborhoods ("Yaba",
+# "CMS", "Ikoyi") rather than the 20 official LGA names the graph actually
+# uses. Without this, the model would either invent an LGA that doesn't
+# exist (silently returns zero rows) or, worse, fabricate a nonsensical
+# query trying to approximate "near <place>" with no real place data to
+# work from. This is a best-effort, non-exhaustive mapping of common
+# informal names to their containing LGA — same "approximate, not
+# authoritative" caveat as LGA_CENTROIDS in graph_ingest.py.
+NEIGHBORHOOD_TO_LGA: dict[str, str] = {
+    "Yaba": "Lagos Mainland",
+    "Ebute Metta": "Lagos Mainland",
+    "CMS": "Lagos Island",
+    "Marina": "Lagos Island",
+    "Broad Street": "Lagos Island",
+    "Ikoyi": "Eti-Osa",
+    "Victoria Island": "Eti-Osa",
+    "VI": "Eti-Osa",
+    "Lekki": "Eti-Osa",
+    "Ajah": "Eti-Osa",
+    "Ojota": "Kosofe",
+    "Ketu": "Kosofe",
+    "Mile 12": "Kosofe",
+    "Maryland": "Kosofe",
+    "Festac": "Amuwo-Odofin",
+    "Satellite Town": "Amuwo-Odofin",
+    "Mile 2": "Amuwo-Odofin",
+    "Isolo": "Oshodi-Isolo",
+    "Oshodi": "Oshodi-Isolo",
+    "Ikotun": "Alimosho",
+    "Egbeda": "Alimosho",
+    "Ajegunle": "Ajeromi-Ifelodun",
+}
+NEIGHBORHOOD_HINTS = "\n".join(f'- "{name}" is in LGA "{lga}"' for name, lga in NEIGHBORHOOD_TO_LGA.items())
+
 SYSTEM_PROMPT = f"""You are a Cypher query generator for a read-only Neo4j graph about points of interest (POIs) in Lagos, Nigeria.
 
 Schema (this is the ONLY data that exists — do not invent labels, properties, or relationships):
@@ -40,11 +74,23 @@ Schema (this is the ONLY data that exists — do not invent labels, properties, 
 - (:POI)-[:IN_CATEGORY]->(:Category)
 - (:POI)-[:LOCATED_IN]->(:LGA)
 
+There is NO landmark, street, or precise-location data of any kind — only
+Category and LGA. Distance/proximity between two arbitrary points cannot be
+computed from this schema.
+
+Common neighborhood names people use instead of official LGA names — treat
+a question mentioning one of these as referring to its mapped LGA:
+{NEIGHBORHOOD_HINTS}
+
 Rules:
 - Output ONLY one Cypher query. No explanation, no markdown fences, no commentary — just the query.
 - Read-only. Only MATCH, WHERE, WITH, RETURN, ORDER BY, LIMIT, count(), collect(). NEVER CREATE, MERGE, SET, DELETE, REMOVE, DROP, or CALL.
 - Any query returning individual POIs must end with LIMIT 25 or less.
 - Category ids and LGA names are exact strings — match them exactly as listed above.
+- If the question asks about a specific place (landmark, street, "near X") that is NOT an
+  official LGA and NOT in the neighborhood list above, you cannot answer it — the data to do
+  so doesn't exist. Do NOT invent a query that approximates it (e.g. comparing POIs to each
+  other by tiny coordinate deltas). Output exactly the single word NO_MATCH instead.
 
 Important distinction: if the question asks for a single total (no mention
 of "each", "which area/LGA", "breakdown", or "most/least"), return ONE
@@ -52,6 +98,12 @@ overall count — do not group by LGA. Only group by LGA when the question
 explicitly asks for a per-area breakdown or comparison.
 
 Examples:
+
+Q: Bus stops near CMS
+NO_MATCH
+
+Q: Schools in Yaba
+MATCH (p:POI)-[:IN_CATEGORY]->(:Category {{id: "schools"}}), (p)-[:LOCATED_IN]->(:LGA {{name: "Lagos Mainland"}}) RETURN p.name AS name, p.lon AS lon, p.lat AS lat LIMIT 25
 
 Q: How many hospitals are there?
 MATCH (p:POI)-[:IN_CATEGORY]->(:Category {{id: "hospitals"}}) RETURN count(p) AS count
@@ -86,6 +138,24 @@ class UnsafeQueryError(Exception):
     pass
 
 
+class UnresolvableLocationError(Exception):
+    """
+    Stage 12: distinct from UnsafeQueryError. The model correctly recognized
+    the question refers to a specific place (landmark/street/"near X") this
+    schema has no data for, rather than producing a malformed query. That's
+    a correct answer, not a failure — retrying it is pointless, and it
+    deserves a specific, honest message instead of the generic "something
+    went wrong" or the misleading "I couldn't find anything matching that"
+    (which implies the search ran and came up empty, not that it was never
+    possible).
+    """
+
+    pass
+
+
+NO_MATCH_SENTINEL = "NO_MATCH"
+
+
 def _extract_cypher(raw: str) -> str:
     text = raw.strip()
     text = re.sub(r"^```(?:cypher)?\s*|\s*```$", "", text, flags=re.IGNORECASE).strip()
@@ -95,6 +165,11 @@ def _extract_cypher(raw: str) -> str:
 
 
 def _validate_cypher(cypher: str) -> None:
+    if cypher.strip().upper() == NO_MATCH_SENTINEL:
+        raise UnresolvableLocationError(
+            "Model correctly identified this question refers to a specific "
+            "place not covered by the Category/LGA schema."
+        )
     if not cypher or not cypher.upper().startswith("MATCH"):
         raise UnsafeQueryError("Model did not return a MATCH query.")
     if FORBIDDEN.search(cypher):
@@ -175,27 +250,52 @@ def _format_answer(rows: list[dict]) -> str:
     return f"Found {len(rows)} result(s)."
 
 
+def _no_match_response(question: str) -> dict:
+    return {
+        "question": question,
+        "cypher": None,
+        "answer": (
+            "I don't have data tied to that specific place — this app only "
+            "knows Lagos's 20 LGAs and place categories, not individual "
+            "streets or landmarks. Try asking about an LGA instead, e.g. "
+            "\"schools in Lagos Mainland\" or \"bus stops in Lagos Island\"."
+        ),
+        "resultCount": 0,
+        "mapPoints": [],
+    }
+
+
 def ask_question(question: str) -> dict:
     """
     One retry on failure: small local models occasionally produce an
     invalid or malformed query. Rather than fail the whole question on the
     first miss, we give the model one corrective second attempt before
     giving up — this measurably improves reliability without a bigger model.
+
+    A NO_MATCH response (Stage 12) is not a failure to retry — see
+    UnresolvableLocationError's docstring.
     """
     try:
         cypher = generate_cypher(question)
         _validate_cypher(cypher)
         rows = _run_read_query(cypher)
+    except UnresolvableLocationError:
+        return _no_match_response(question)
     except Exception:
         cypher = generate_cypher(
             question,
             retry_hint=(
                 "Your previous answer was invalid — it must be exactly one "
                 "read-only MATCH...RETURN query using only POI, Category, "
-                "and LGA, following the examples precisely."
+                "and LGA, following the examples precisely, or the single "
+                "word NO_MATCH if the question refers to a specific place "
+                "this schema has no data for."
             ),
         )
-        _validate_cypher(cypher)
+        try:
+            _validate_cypher(cypher)
+        except UnresolvableLocationError:
+            return _no_match_response(question)
         rows = _run_read_query(cypher)
 
     answer = _format_answer(rows)
