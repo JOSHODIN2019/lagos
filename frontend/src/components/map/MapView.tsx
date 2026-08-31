@@ -35,10 +35,15 @@ interface MapViewProps {
   aiMapPoints: { name: string | null; lon: number; lat: number }[];
 }
 
-const LIGHT_TILES =
-  "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
-const DARK_TILES =
-  "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png";
+// CARTO's free anonymous basemap tiles (previously used here) started
+// requiring an API key at some point after this was built — every tile
+// came back watermarked "API KEY REQUIRED". Switched to OpenStreetMap's
+// standard tile server, which has no key requirement at all, in exchange
+// for losing a dedicated dark-mode map style (OSM only has one style, so
+// dark theme shows the same light map as light theme).
+const OSM_TILES = "https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png";
+const LIGHT_TILES = OSM_TILES;
+const DARK_TILES = OSM_TILES;
 
 export function MapView({
   layers,
@@ -62,7 +67,7 @@ export function MapView({
     >
       <TileLayer
         key={theme}
-        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors &copy; <a href="https://carto.com/attributions">CARTO</a>'
+        attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
         url={theme === "dark" ? DARK_TILES : LIGHT_TILES}
       />
       {layers
